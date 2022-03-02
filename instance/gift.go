@@ -50,6 +50,7 @@ func (in *Instance) confirmTrade(msg discord.Message) {
 		Button: 2,
 		Message: msg,
 		Log: "gifting items - accepting trade as sender",
+		AwaitResume: true,
 	})
 }
 
