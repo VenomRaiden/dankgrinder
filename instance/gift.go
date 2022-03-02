@@ -29,11 +29,36 @@ func (in *Instance) gift(msg discord.Message) {
 	amount := strings.Replace(exp.gift.FindStringSubmatch(msg.Embeds[0].Title)[1], ",", "", -1)
 	item := exp.shop.FindStringSubmatch(trigger.Value)[1]
 
+	if amount == "0" {
+		in.sdlr.Resume()
+		return
+	}
+
 	// ResumeWithCommandOrPrioritySchedule is not necessary in this case because
 	// the scheduler has to be awaiting resume. AwaitResumeTrigger returns "" if
 	// the scheduler isn't awaiting resume which causes this function to return.
 	in.sdlr.ResumeWithCommand(&scheduler.Command{
-		Value: giftCmdValue(amount, item, in.Master.Client.User.ID),
-		Log:   "gifting items",
+		Value: tradeCmdValue(amount, item, in.Master.Client.User.ID),
+		Log:   "gifting items - starting trade",
+		AwaitResume: true,
+	})
+}
+
+func (in *Instance) confirmTrade(msg discord.Message) {
+	in.sdlr.ResumeWithCommand(&scheduler.Command{
+		Actionrow: 1,
+		Button: 2,
+		Message: msg,
+		Log: "gifting items - accepting trade as sender",
+	})
+}
+
+func (in *Instance) confirmTradeAsMaster(msg discord.Message) {
+	// If trade request mentioning master is sent, priority schedule a click on accept
+	in.Master.sdlr.PrioritySchedule(&scheduler.Command{
+		Actionrow: 1,
+		Button: 2,
+		Message: msg,
+		Log: "gifting items - accepting trade as master",
 	})
 }

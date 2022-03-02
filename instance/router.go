@@ -527,6 +527,23 @@ func (in *Instance) router() *discord.MessageRouter {
 			Author(DMID).
 			HasEmbeds(true).
 			Handler(in.gift)
+
+		rtr.NewRoute().
+			Channel(in.ChannelID).
+			Author(DMID).
+			HasEmbeds(true).
+			RespondsTo(in.Client.User.ID).
+			EmbedContains("trade").
+			Handler(in.confirmTrade)
+
+		rtr.NewRoute().
+			Channel(in.ChannelID).
+			Author(DMID).
+			HasEmbeds(true).
+			RespondsTo(in.Client.User.ID).
+			Mentions(in.Master.Client.User.ID).
+			EmbedContains("trade").
+			Handler(in.confirmTradeAsMaster)
 	}
 
 	// Auto-tidepod

@@ -28,7 +28,7 @@ const (
 	blackjackBaseCmdValue = "pls bj"
 	sellBaseCmdValue      = "pls sell"
 	shopBaseCmdValue      = "pls shop"
-	giftBaseCmdValue      = "pls gift"
+	tradeBaseCmdValue     = "pls trade"
 	shareBaseCmdValue     = "pls share"
 	digCmdValue           = "pls dig"
 	workCmdValue          = "pls work"
@@ -56,8 +56,8 @@ func shopCmdValue(item string) string {
 	return fmt.Sprintf("%v %v", shopBaseCmdValue, item)
 }
 
-func giftCmdValue(amount, item, id string) string {
-	return fmt.Sprintf("%v %v %v <@%v>", giftBaseCmdValue, amount, item, id)
+func tradeCmdValue(amount, item, id string) string {
+	return fmt.Sprintf("%v %v %v <@%v>", tradeBaseCmdValue, amount, item, id)
 }
 
 func shareCmdValue(amount, id string) string {
