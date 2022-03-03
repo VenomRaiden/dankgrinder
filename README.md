@@ -133,6 +133,7 @@ Name | Type | Description
 `log_to_file` | boolean | Whether or not to log errors and information to a file
 `debug` | boolean | Enable logging debug level information. Currently has no effect
 `scratch` | [scratch object](#scratch-object) | Options for automatically using the scratch command.
+`max_items_per_trade` | integer | Amount of items to send per trade ( defaults to 5 )
 
 ### Commands object
 Name | Type | Description
