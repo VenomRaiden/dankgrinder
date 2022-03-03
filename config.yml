@@ -1151,6 +1151,7 @@ compatibility:
     crime: 55
     scratch: 15
     guess: 30
+  max_items_per_trade: 5
   await_response_timeout: 7
 
 suspicion_avoidance:
