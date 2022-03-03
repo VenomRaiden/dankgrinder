@@ -42,6 +42,10 @@ type Instance struct {
 	initialBalance    int
 	balance           int
 	startingTime      time.Time
+	totalTradeItems   int
+	tradeList         string             // space seperated list of items to trade
+	iteratedItems     int	             // amount of trades done in this trade chain
+	currentTradeItems int                // amount of items currently listed in tradeList
 	lastState         string
 	lastBalanceUpdate time.Time
 	fatal             chan error
@@ -75,6 +79,9 @@ func (in *Instance) Start() error {
 			in.Logger.Warnf("nobody to auto-share to, no master instance available")
 		}
 	}
+
+	// Calculate the total number of items to trade
+	in.totalTradeItems = len(in.Features.AutoGift.Items)
 
 	// For now, we assume that in.SuspicionAvoidance, in.Compat and in.Features
 	// are correct. They are currently validated in the main function. Ideally,
