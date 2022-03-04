@@ -36,15 +36,20 @@ func (in *Instance) gift(msg discord.Message) {
 		return
 	}
 
+	giftChainEnd := in.iteratedItems == in.totalTradeItems
+
 	in.tradeList += tradeItemListValue(amount, item)
 	in.currentTradeItems++
 
-	// If not the last item to send in gift item list or does not exceed 
-	// max items per trade append the items to the list of items to send
-	// add one as it does not count the current item 
-	if in.currentTradeItems < in.Features.MaxItemsPerTrade || in.iteratedItems == in.totalTradeItems {
+	// If less then max amount of items and not at the end of gift chain wait until
+	// later iteration to send 
+	if in.currentTradeItems < in.Features.MaxItemsPerTrade && !giftChainEnd {
 		in.sdlr.Resume()
 		return
+	} 
+	
+	if giftChainEnd {
+		in.iteratedItems = 0
 	}
 	
 	in.tradeList += tradeItemListValue(amount, item)
