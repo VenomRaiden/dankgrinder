@@ -36,17 +36,18 @@ func (in *Instance) gift(msg discord.Message) {
 		return
 	}
 
+	in.tradeList += tradeItemListValue(amount, item)
+	in.currentTradeItems++
+
 	// If not the last item to send in gift item list or does not exceed 
 	// max items per trade append the items to the list of items to send
 	// add one as it does not count the current item 
-	if in.currentTradeItems+1 < in.Features.MaxItemsPerTrade || in.iteratedItems == in.totalTradeItems {
-		in.tradeList += tradeItemListValue(amount, item)
-		in.currentTradeItems++
+	if in.currentTradeItems < in.Features.MaxItemsPerTrade || in.iteratedItems == in.totalTradeItems {
 		in.sdlr.Resume()
 		return
-	} else {
-		in.tradeList += tradeItemListValue(amount, item)
 	}
+	
+	in.tradeList += tradeItemListValue(amount, item)
 
 	// ResumeWithCommandOrPrioritySchedule is not necessary in this case because
 	// the scheduler has to be awaiting resume. AwaitResumeTrigger returns "" if
