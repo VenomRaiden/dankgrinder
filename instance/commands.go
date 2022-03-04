@@ -56,17 +56,12 @@ func shopCmdValue(item string) string {
 	return fmt.Sprintf("%v %v", shopBaseCmdValue, item)
 }
 
-func tradeCmdValue(itemlist, id string) string {
-	// No more space here as trade item list will have the trailing space
-	return fmt.Sprintf("%v %v<@%v>", tradeBaseCmdValue, itemlist, id)
+func tradeCmdValue(amount, item, id string) string {
+	return fmt.Sprintf("%v %v %v <@%v>", tradeBaseCmdValue, amount, item, id)
 }
 
 func shareCmdValue(amount, id string) string {
 	return fmt.Sprintf("%v %v <@%v>", shareBaseCmdValue, amount, id)
-}
-
-func tradeItemListValue(amount, item string) string {
-	return fmt.Sprintf("%v %v ", amount, item)
 }
 
 // commands returns a command pointer slice with all commands that should be

@@ -74,9 +74,6 @@ func validateFeatures(features Features) error {
 		if len(features.AutoGift.Items) == 0 {
 			return fmt.Errorf("auto-gift enabled but no items configured")
 		}
-		if features.MaxItemsPerTrade <= 0 {
-			return fmt.Errorf("auto-gift max items per trade must be greater than 0")
-		}
 	}
 	if features.AutoShare.Enable {
 		if features.AutoShare.MinimumBalance < 0 {
@@ -220,7 +217,7 @@ func validateCompat(compat Compat) error {
 		return fmt.Errorf("scratch cooldown must be greater than 0")
 	}
 	if compat.Cooldown.Guess <= 0 {
-		return fmt.Errorf("guess cooldown must be greater than 0")
+		return fmt.Errorf("Guess cooldown must be greater than 0")
 	}
 	if compat.Cooldown.Sell <= 0 {
 		return fmt.Errorf("sell cooldown must be greater than 0")

@@ -29,36 +29,19 @@ func (in *Instance) gift(msg discord.Message) {
 	amount := strings.Replace(exp.gift.FindStringSubmatch(msg.Embeds[0].Title)[1], ",", "", -1)
 	item := exp.shop.FindStringSubmatch(trigger.Value)[1]
 
-	in.iteratedItems++
-
 	if amount == "0" {
 		in.sdlr.Resume()
 		return
-	}
-
-	// If not the last item to send in gift item list or does not exceed 
-	// max items per trade append the items to the list of items to send
-	// add one as it does not count the current item 
-	if in.currentTradeItems+1 < in.Features.MaxItemsPerTrade || in.iteratedItems == in.totalTradeItems {
-		in.tradeList += tradeItemListValue(amount, item)
-		in.currentTradeItems++
-		in.sdlr.Resume()
-		return
-	} else {
-		in.tradeList += tradeItemListValue(amount, item)
 	}
 
 	// ResumeWithCommandOrPrioritySchedule is not necessary in this case because
 	// the scheduler has to be awaiting resume. AwaitResumeTrigger returns "" if
 	// the scheduler isn't awaiting resume which causes this function to return.
 	in.sdlr.ResumeWithCommand(&scheduler.Command{
-		Value: tradeCmdValue(in.tradeList, in.Master.Client.User.ID),
+		Value: tradeCmdValue(amount, item, in.Master.Client.User.ID),
 		Log:   "gifting items - starting trade",
 		AwaitResume: true,
 	})
-
-	in.tradeList = ""
-	in.currentTradeItems = 0
 }
 
 func (in *Instance) confirmTrade(msg discord.Message) {
