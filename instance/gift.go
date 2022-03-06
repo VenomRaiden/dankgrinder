@@ -47,6 +47,8 @@ func (in *Instance) gift(msg discord.Message) {
 	}
 
 	giftChainEnd := in.iteratedItems == in.totalTradeItems
+
+	// append items to the list in the format for trade command 
 	in.tradeList += tradeItemListValue(amount, item)
 
   	// store amount of items in current item list 
@@ -60,6 +62,7 @@ func (in *Instance) gift(msg discord.Message) {
 	} 
 	
 	if giftChainEnd {
+		// reset counter when iteration is completed
 		in.iteratedItems = 0
 	}
 	
