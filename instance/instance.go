@@ -253,3 +253,7 @@ func (in *Instance) LastBalanceUpdate() time.Time {
 func (in *Instance) Balance() int {
 	return in.balance
 }
+
+func (in *Instance) IsActive() bool {
+	return in.lastState != config.ShiftStateDormant
+}

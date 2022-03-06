@@ -22,6 +22,13 @@ func (in *Instance) gift(msg discord.Message) {
 		in.sdlr.Resume()
 		return
 	}
+
+	if !in.Master.IsActive() {
+		in.Logger.Errorf("gift failed - master is dormant")
+		in.sdlr.Resume()
+		return
+	}
+
 	if !exp.gift.Match([]byte(msg.Embeds[0].Title)) || !exp.shop.Match([]byte(trigger.Value)) {
 		in.sdlr.Resume()
 		return
@@ -55,6 +62,10 @@ func (in *Instance) confirmTrade(msg discord.Message) {
 }
 
 func (in *Instance) confirmTradeAsMaster(msg discord.Message) {
+	if !in.Master.IsActive() {
+		// Ensure that the master is active before trying to click button
+		return
+	}
 	// If trade request mentioning master is sent, priority schedule a click on accept
 	in.Master.sdlr.PrioritySchedule(&scheduler.Command{
 		Actionrow: 1,
