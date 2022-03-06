@@ -15,6 +15,10 @@ import (
 
 func (in *Instance) gift(msg discord.Message) {
 	trigger := in.sdlr.AwaitResumeTrigger()
+  
+  // increment items iterated
+  in.iteratedItems++
+  
 	if trigger == nil || !strings.Contains(trigger.Value, shopBaseCmdValue) {
 		return
 	}
@@ -22,23 +26,31 @@ func (in *Instance) gift(msg discord.Message) {
 		in.sdlr.Resume()
 		return
 	}
+
+	if !in.Master.IsActive() {
+		in.Logger.Errorf("gift failed - master is dormant")
+		in.sdlr.Resume()
+		return
+	}
+
 	if !exp.gift.Match([]byte(msg.Embeds[0].Title)) || !exp.shop.Match([]byte(trigger.Value)) {
 		in.sdlr.Resume()
 		return
 	}
+  
 	amount := strings.Replace(exp.gift.FindStringSubmatch(msg.Embeds[0].Title)[1], ",", "", -1)
 	item := exp.shop.FindStringSubmatch(trigger.Value)[1]
-
-	in.iteratedItems++
-
-	if amount == "0" {
+  
+  if amount == "0" {
 		in.sdlr.Resume()
 		return
 	}
-
+  
 	giftChainEnd := in.iteratedItems == in.totalTradeItems
 
 	in.tradeList += tradeItemListValue(amount, item)
+  
+  // store amount of items in current item list 
 	in.currentTradeItems++
 
 	// If less then max amount of items and not at the end of gift chain wait until
@@ -50,10 +62,8 @@ func (in *Instance) gift(msg discord.Message) {
 	
 	if giftChainEnd {
 		in.iteratedItems = 0
-	}
+  }
 	
-	in.tradeList += tradeItemListValue(amount, item)
-
 	// ResumeWithCommandOrPrioritySchedule is not necessary in this case because
 	// the scheduler has to be awaiting resume. AwaitResumeTrigger returns "" if
 	// the scheduler isn't awaiting resume which causes this function to return.
@@ -62,9 +72,9 @@ func (in *Instance) gift(msg discord.Message) {
 		Log:   "gifting items - starting trade",
 		AwaitResume: true,
 	})
-
-	in.tradeList = ""
-	in.currentTradeItems = 0
+  
+  in.tradeList = ""
+  in.currentTradeItems = 0
 }
 
 func (in *Instance) confirmTrade(msg discord.Message) {
@@ -78,6 +88,10 @@ func (in *Instance) confirmTrade(msg discord.Message) {
 }
 
 func (in *Instance) confirmTradeAsMaster(msg discord.Message) {
+	if !in.Master.IsActive() {
+		// Ensure that the master is active before trying to click button
+		return
+	}
 	// If trade request mentioning master is sent, priority schedule a click on accept
 	in.Master.sdlr.PrioritySchedule(&scheduler.Command{
 		Actionrow: 1,
