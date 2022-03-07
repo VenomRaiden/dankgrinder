@@ -372,6 +372,7 @@ func (in *Instance) router() *discord.MessageRouter {
 		Channel(in.ChannelID).
 		Author(DMID).
 		HasEmbeds(true).
+		RespondsTo(in.Client.User.ID).
 		EmbedContains("seconds to answer").
 		Handler(in.trivia)
 

@@ -48,6 +48,8 @@ type Instance struct {
 	currentTradeItems int
 	tradeList         string
 
+	lastStateStart    time.Time // store when the last state was entered 
+
 	startingTime      time.Time
 	lastState         string
 	lastBalanceUpdate time.Time

@@ -42,6 +42,7 @@ func (in *Instance) gift(msg discord.Message) {
 	item := exp.shop.FindStringSubmatch(trigger.Value)[1]
 
 	if amount == "0" {
+		in.Logger.Infof("no items of type %v", item)
 		in.sdlr.Resume()
 		return
 	}
@@ -57,6 +58,7 @@ func (in *Instance) gift(msg discord.Message) {
 	// If less then max amount of items and not at the end of gift chain wait until
 	// later iteration to send 
 	if in.currentTradeItems < in.Features.MaxItemsPerTrade && !giftChainEnd {
+		in.Logger.Infof("added %v %v to gift list", amount, item)
 		in.sdlr.Resume()
 		return
 	} 
@@ -101,4 +103,7 @@ func (in *Instance) confirmTradeAsMaster(msg discord.Message) {
 		Message: msg,
 		Log: "gifting items - accepting trade as master",
 	})
+
+	// now that master has accepted, resume 
+	in.sdlr.Resume()
 }
