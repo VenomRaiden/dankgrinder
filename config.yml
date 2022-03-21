@@ -14,6 +14,11 @@ clusters:
     master:
       token: ""
       channel_id: ""
+    instances: 
+      - token: ""
+        channel_id: ""
+      - token: ""
+        channel_id: ""
 
 shifts:
   - state: "active"

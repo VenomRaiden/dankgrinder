@@ -267,6 +267,7 @@ Name | Type | Description
 ---- | ---- | ----
 `typing` | [typing object](#typing-object) | Options for the use of typing when sending messages
 `message_delay` | [message delay object](#message-delay-object) | Delay between receiving a message and starting to type and send a response
+`button_press` | [button press delay object](#button-press-delay-object)
 
 ### Typing object
 Name | Type | Description
@@ -280,6 +281,13 @@ Name | Type | Description
 ---- | ---- | ----
 `base` | integer | The base delay in milliseconds. [Read more about base and variation](#base-and-variation)
 `variation` | integer | The random variation of the delay in milliseconds. [Read more about base and variation](#base-and-variation)
+
+### Button press delay object
+Name | Type | Description
+---- | ---- | ----
+`base` | integer | The base delay in milliseconds. [Read more about base and variation](#base-and-variation)
+`variation` | integer | The random variation of the delay in milliseconds. [Read more about base and variation](#base-and-variation)
+
 
 ### Base and variation
 A base is a value that forms the base for a final result; it is the value that the program starts with.
