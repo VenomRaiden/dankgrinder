@@ -256,7 +256,7 @@ Name | Type | Description
 `gift` | integer | The cooldown of the gift command in seconds, set a few seconds higher to account for network delay
 `share` | integer | The cooldown of the share command in seconds, set a few seconds higher to account for network delay
 `dig` | integer | The cooldown of the dig command in seconds, set a few seconds higher to account for network delay
-'work' | integer | The cooldown of the work command in seconds, set a few seconds higher to account for network delay
+`work` | integer | The cooldown of the work command in seconds, set a few seconds higher to account for network delay
 `trivia` | integer | The cooldown of the trivia command in seconds, set a few seconds higher to account for network delay 
 `crime` | integer | The cooldown of the crime command in seconds, set a few seconds higher to account for network delay
 `scratch` | integer | The cooldown of the scratch command in seconds, set a few seconds higher to account for network delay
