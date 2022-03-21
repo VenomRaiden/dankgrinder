@@ -29,7 +29,6 @@ const (
 	sellBaseCmdValue      = "pls sell"
 	shopBaseCmdValue      = "pls shop"
 	tradeBaseCmdValue     = "pls trade"
-	shareBaseCmdValue     = "pls share"
 	digCmdValue           = "pls dig"
 	workCmdValue          = "pls work"
 	triviaCmdValue        = "pls trivia"
@@ -66,7 +65,7 @@ func tradeItemListValue(amount, item string) string {
 }
 
 func shareCmdValue(amount, id string) string {
-	return fmt.Sprintf("%v %v <@%v>", shareBaseCmdValue, amount, id)
+	return fmt.Sprintf("%v %v <@%v>", tradeBaseCmdValue, amount, id)
 }
 
 // commands returns a command pointer slice with all commands that should be

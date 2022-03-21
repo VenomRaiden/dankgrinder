@@ -8,6 +8,7 @@ package instance
 
 import (
 	"strings"
+	"strconv"
 
 	"github.com/dankgrinder/dankgrinder/discord"
 	"github.com/dankgrinder/dankgrinder/instance/scheduler"
@@ -106,4 +107,28 @@ func (in *Instance) confirmTradeAsMaster(msg discord.Message) {
 
 	// now that master has accepted, resume 
 	in.sdlr.Resume()
+}
+
+func (in *Instance) shareWithTax(msg discord.Message) {
+	match := exp.insufficientCoins.FindStringSubmatch(msg.Content)
+	attemptedAmount, err := strconv.Atoi(strings.Replace(match[1], ",", "", -1))
+
+	if err != nil {
+		in.Logger.Errorf("error while reading sending amount: %v", err)
+		return
+	}
+
+	tax, err:= strconv.Atoi(strings.Replace(match[2], ",", "", -1))
+
+	if err != nil {
+		in.Logger.Errorf("error while reading tax amount: %v", err)
+		return
+	}
+	amount := strconv.Itoa(attemptedAmount - tax)
+
+	in.sdlr.ResumeWithCommand(&scheduler.Command{
+		Value: shareCmdValue(amount, in.Master.Client.User.ID),
+		Log:   "re-trading coins to account for tax",
+		AwaitResume: true,
+	})
 }
