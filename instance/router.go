@@ -533,7 +533,9 @@ func (in *Instance) router() *discord.MessageRouter {
 	}
 
 	// Auto Accept trade as both instance and master
-	if in.Features.AutoShare.Enable || in.Features.AutoGift.Enable {
+	if (in.Features.AutoShare.Enable || in.Features.AutoGift.Enable) &&
+	in.Master != nil &&
+	in != in.Master {
 		rtr.NewRoute().
 			Channel(in.ChannelID).
 			Author(DMID).
@@ -553,7 +555,9 @@ func (in *Instance) router() *discord.MessageRouter {
 	}
 
 	// Auto-share (detect if share fails and retry)
-	if in.Features.AutoShare.Enable {
+	if in.Features.AutoShare.Enable && 
+	in.Master != nil &&
+	in != in.Master {
 		rtr.NewRoute().
 			Channel(in.ChannelID).
 			Author(DMID).
