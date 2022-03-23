@@ -59,8 +59,15 @@ type Compat struct {
 	AllowedCrimes        []string `yaml:"allowed_crimes"`
 	Cooldown             Cooldown `yaml:"cooldown"`
 	AwaitResponseTimeout int      `yaml:"await_response_timeout"`
+	AllowedScrambles     []string `yaml:"allowed_scrambles"`
+	DigCancel            []string `yaml:"dig_cancel"`
+	AllowedFTB           []string `yaml:"allowed_ftb"`
 	WorkCancel           []string `yaml:"work_cancel"`
 	AllowedScramblesWork []string `yaml:"allowed_scrambles_work"`
+	AllowedHangman       []string `yaml:"allowed_hangman"`
+	AllowedScramblesFish []string `yaml:"allowed_scrambles_fish"`
+	AllowedFishFTB       []string `yaml:"allowed_fish_ftb"`
+	FishCancel           []string `yaml:"fish_cancel"`
 	SearchMode           int      `yaml:"search_mode"`
 	CrimeMode            int      `yaml:"crime_mode"`
 }
