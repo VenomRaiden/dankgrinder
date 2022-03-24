@@ -5,6 +5,11 @@ forked from [V4NSH4J/dankgrinder](https://github.com/V4NSH4J/dankgrinder)
 
 I just added some small changes as it was not being updated
 
+## Changes from upstream
+- Added support for using trade to transfer items and coins
+- can trade multiple items at once see `max_items_per_trade` in [features object](#features-object)
+- detects if the instance does not have enough money due to tax and attempts to account for tax
+
 # Dank Grinder [![](https://goreportcard.com/badge/github.com/dankgrinder/dankgrinder)](https://goreportcard.com/report/github.com/dankgrinder/dankgrinder) [![](https://img.shields.io/github/workflow/status/dankgrinder/dankgrinder/Go)](https://github.com/dankgrinder/dankgrinder/actions) ![](https://img.shields.io/github/license/dankgrinder/dankgrinder) [![](https://img.shields.io/github/v/release/dankgrinder/dankgrinder)](https://github.com/dankgrinder/dankgrinder/releases/latest) ![](https://img.shields.io/github/downloads/dankgrinder/dankgrinder/total)
 The most feature-rich, advanced Dank Memer automation tool (Now compatible with buttons!).  
 Made by github.com/dankgrinder & Buttons, work, trivia, crime, search, dig, guess the number, scratch and fish added by github.com/v4nsh4j
