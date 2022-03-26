@@ -155,7 +155,7 @@ func (in *Instance) shareWithTax(msg discord.Message) {
 
 	// If its just 3 coins more then just ignore it 
 	// else if its more then 3 coins more, log error and
-	if currentAmount > attemptedAmount+3 {
+	if attemptedAmount > currentAmount {
 		in.Logger.Errorf("attempted to send more coins then current amount: %v, attempted to send: %v", currentAmount, attemptedAmount)
 		in.sdlr.Resume()
 		return
