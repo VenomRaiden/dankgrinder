@@ -12,26 +12,15 @@
 clusters:
   cluster_1:
     master:
-      token: "ODk2MzA3MjI3NjcyMDU1ODEw.YWLqcw.LQ1FxekYGXxt0ZBO4u8nyFcvFUY"
-      channel_id: "896736985664856064"
+      token: ""
+      channel_id: ""
       
     instances:
-    - token: "ODk2MzA3MjI3Mzc0MjY0MzYw.YWLqcQ.UnAmgkRntFD8P2x4Rgk0xdS-t1o"
-      channel_id: "896736985664856064"
-
-    - token: "ODk2MzA3NzQ1NDAwMTgwNzY3.YWLqaA.SaYuWOHy45JKAcK5ZygMlDzPwes"
-      channel_id: "896736990190526466"
-
-    - token: "ODk2MzA3NzUxOTA1NTUwMzM3.YWLqdg.UsUBO8ctO2rhYT39V5W4SScfvYU"
-      channel_id: "896736995630542888"
-
-    - token: "ODk2MzA5Nzg5Nzc5NDUxOTA1.YWLqZg.NS8McFE52tGZSGCbtyjE2FFhdXI"
-      channel_id: "896737000839872552"
-
-    
-
-    
-
+      - token: ""
+        channel_id: ""
+      - token: ""
+        channel_id: ""
+        
 shifts:
   - state: "dormant"
     duration:
@@ -91,7 +80,7 @@ features:
       - "rabbit"
       - "skunk"
   auto_gift:
-    enable: true
+    enable: false
     items:
       - "bank"
       - "pizza"
@@ -429,7 +418,7 @@ features:
   debug: false
   trade:
     max_items: 2
-    delay: 2000
+    delay: 1000
 
 compatibility:
   allowed_searches:
