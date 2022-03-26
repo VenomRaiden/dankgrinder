@@ -193,7 +193,7 @@ Name | Type | Description
 Name | Type | Description
 ---- | ---- | ----
 `max_items` | integer | Maximum amount of items per trade
-`delay` | integer | Amount of time for masters to wait between accepting trades (to reduce ratelimits) 
+`delay` | integer | Minimum amount of time between accepting trades for masters in milliseconds (to reduce ratelimits) 
 
 ### Gifting & Sharing confirmations update 
 Run a custom command "pls settings confirmations false" on your alts for gifting and sharing to function properly!
