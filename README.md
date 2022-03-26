@@ -7,8 +7,12 @@ I just added some small changes as it was not being updated
 
 ## Changes from upstream
 - Added support for using trade to transfer items and coins
-- can trade multiple items at once see `max_items_per_trade` in [features object](#features-object)
+- can trade multiple items at once see `trade` in [features object](#features-object)
 - detects if the instance does not have enough money due to tax and attempts to account for tax
+
+## Bugfixes
+- Now logs an error when coins sent it more then amount of coins (could cause a loop if it tries to account for tax and retrade)
+
 
 # Dank Grinder [![](https://goreportcard.com/badge/github.com/dankgrinder/dankgrinder)](https://goreportcard.com/report/github.com/dankgrinder/dankgrinder) [![](https://img.shields.io/github/workflow/status/dankgrinder/dankgrinder/Go)](https://github.com/dankgrinder/dankgrinder/actions) ![](https://img.shields.io/github/license/dankgrinder/dankgrinder) [![](https://img.shields.io/github/v/release/dankgrinder/dankgrinder)](https://github.com/dankgrinder/dankgrinder/releases/latest) ![](https://img.shields.io/github/downloads/dankgrinder/dankgrinder/total)
 The most feature-rich, advanced Dank Memer automation tool (Now compatible with buttons!).  
@@ -138,7 +142,7 @@ Name | Type | Description
 `log_to_file` | boolean | Whether or not to log errors and information to a file
 `debug` | boolean | Enable logging debug level information. Currently has no effect
 `scratch` | [scratch object](#scratch-object) | Options for automatically using the scratch command.
-`max_items_per_trade` | integer | Amount of items to send per trade
+`trade` | [trade object](#trade-object) | Options for trading 
 
 ### Commands object
 Name | Type | Description
@@ -184,6 +188,12 @@ Name | Type | Description
 `enable` | boolean | Whether or not to enable automatic gifting to the master instance
 `interval` | integer | The interval at which items will be gifted during an active shift. If set to 0, items will only be gifted once at the beginning of every active shift
 `items` | array of strings | The Dank Memer item ids of the items to gift
+
+### trade object
+Name | Type | Description
+---- | ---- | ----
+`max_items` | integer | Maximum amount of items per trade
+`delay` | integer | Amount of time for masters to wait between accepting trades (to reduce ratelimits) 
 
 ### Gifting & Sharing confirmations update 
 Run a custom command "pls settings confirmations false" on your alts for gifting and sharing to function properly!

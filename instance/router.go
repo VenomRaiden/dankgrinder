@@ -79,7 +79,7 @@ var exp = struct {
 	fishCatch:         regexp.MustCompile(`Catch the fish!\n(\s*)<:(.+):[\d]+>\n:bucket::bucket::bucket:`),
 	fishCatch2:        regexp.MustCompile(`Catch the fish!\n<:(.+):[\d]+>\n:bucket::bucket::bucket:`),
 	shopEvent:         regexp.MustCompile(`What is the \*\*(.+)\*\* of this item?`),
-	insufficientCoins: regexp.MustCompile(`You have [\d,]+ coins, you can't give them ([\d,]+) \(\+ ⏣ ([\d,]+) tax\)`),
+	insufficientCoins: regexp.MustCompile(`You have ([\d,]+) coins, you can't give them ([\d,]+) \(\+ ⏣ ([\d,]+) tax\)`),
 }
 
 var numFmt = message.NewPrinter(language.English)
