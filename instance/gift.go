@@ -96,6 +96,9 @@ func (in *Instance) confirmTrade(msg discord.Message) {
 func (in *Instance) confirmTradeAsMaster(msg discord.Message) {
 	if !in.Master.IsActive() {
 		// Ensure that the master is active before trying to click button
+		in.sdlr.Errorf("master is dormant, sleeping for 5mins to wait for trade to timeout")
+		time.Sleep(5 * 60 * 1000 * time.Millisecond)
+		in.sdlr.Resume()
 		return
 	}
 	
@@ -118,6 +121,14 @@ func (in *Instance) confirmTradeAsMaster(msg discord.Message) {
 	}
 
 	in.Master.queuingInstances--;
+
+	// After waiting for this instance's turn to trade, check if master is active again
+	if !in.Master.IsActive() {
+		in.sdlr.Errorf("master is dormant, sleeping for 5mins to wait for trade to timeout")
+		time.Sleep(5 * 60 * 1000 * time.Millisecond)
+		in.sdlr.Resume()
+		return
+	}
 
 	// If trade request mentioning master is sent, priority schedule a click on accept
 	in.Master.sdlr.PrioritySchedule(&scheduler.Command{
@@ -153,8 +164,8 @@ func (in *Instance) shareWithTax(msg discord.Message) {
 		return
 	}
 
-	// If its just 3 coins more then just ignore it 
-	// else if its more then 3 coins more, log error and
+	// If amount of coins that is attempted to send is more then the amount 
+	// in wallet, something went wrong and we log an error 
 	if attemptedAmount > currentAmount {
 		in.Logger.Errorf("attempted to send more coins then current amount: %v, attempted to send: %v", currentAmount, attemptedAmount)
 		in.sdlr.Resume()
