@@ -96,7 +96,7 @@ func (in *Instance) confirmTrade(msg discord.Message) {
 func (in *Instance) confirmTradeAsMaster(msg discord.Message) {
 	if !in.Master.IsActive() {
 		// Ensure that the master is active before trying to click button
-		in.sdlr.Errorf("master is dormant, sleeping for 5mins to wait for trade to timeout")
+		in.Logger.Errorf("master is dormant, sleeping for 5mins to wait for trade to timeout")
 		time.Sleep(5 * 60 * 1000 * time.Millisecond)
 		in.sdlr.Resume()
 		return
@@ -124,7 +124,7 @@ func (in *Instance) confirmTradeAsMaster(msg discord.Message) {
 
 	// After waiting for this instance's turn to trade, check if master is active again
 	if !in.Master.IsActive() {
-		in.sdlr.Errorf("master is dormant, sleeping for 5mins to wait for trade to timeout")
+		in.Logger.Errorf("master is dormant, sleeping for 5mins to wait for trade to timeout")
 		time.Sleep(5 * 60 * 1000 * time.Millisecond)
 		in.sdlr.Resume()
 		return
