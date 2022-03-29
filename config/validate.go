@@ -87,11 +87,11 @@ func validateFeatures(features Features) error {
 		}
 
 		if features.Trade.MaxItems <= 0 {
-			return fmt.Errorf("max items per trade must be greater than 0")
+			return fmt.Errorf("max items per trade must be greater than 0, encountered %v", features.Trade.MaxItems)
 		}
 
 		if features.Trade.Delay <= 0 {
-			return fmt.Errorf("trade delay must be greater than 0")
+			return fmt.Errorf("trade delay must be greater than 0, encountered %v", features.Trade.Delay)
 		}
 	}
 	if features.AutoTidepod.Enable && features.AutoTidepod.Interval < 0 {
