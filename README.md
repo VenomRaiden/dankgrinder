@@ -35,6 +35,15 @@ Want to join the community or need support? [Join our Discord](https://discord.g
 * Automatically uses tidepods and buys lifesavers when dying from them
 * Automatically buys a fishing pole, hunting rifle or laptop if they have broken
 * Can Automate most of dank memer's commands! 
+
+## Tips 
+### Using too much CPU/Network
+Try using discord permissions to only allow the instances to see channels they need to use 
+
+### Trade not accepting
+Try using smaller clusters, the master has a button ratelimit quota and can only click so many buttons
+Then just add the masters of those clusters as instances in another config to collect from them (in a tree pattern) 
+
 ## Getting started
 
 ### Installation
