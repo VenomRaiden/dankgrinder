@@ -1,13 +1,6 @@
-# See https://github.com/dankgrinder/dankgrinder#getting-an-authorization-token
-# for instructions on how to get a token.
-#
-# See https://github.com/dankgrinder/dankgrinder#enabling-discords-developer-mode
-# for instructions on how to get a channel id.
-#
+
 # Detailed instructions on this config are available at
-# https://github.com/dankgrinder/dankgrinder#configuration.
-# Make sure you have read that as well as the frequently asked questions before
-# asking for support on GitHub or Discord.
+# https://github.com/Gold512/dankgrinder/tree/Trading-Main
 
 clusters:
   cluster_1:
@@ -22,10 +15,6 @@ clusters:
         channel_id: ""
         
 shifts:
-  - state: "dormant"
-    duration:
-      base: 1
-      variation: 10
   - state: "active"
     duration:
       base: 7200
@@ -58,21 +47,24 @@ features:
     guess: false
 
   trade:
-    max_items: 2
+    max_items: 1
     delay: 1000
 
   scratch:
     enable: false
-    amount: 50
+    amount: 1500
     priority: false
 
-  # custom_commands:
-  # - value: "pls work mod"
+  custom_commands:
+  - value: ""
+    interval: 
+    amount: 
+    
   auto_buy:
     fishing_pole: true
     hunting_rifle: true
-    laptop: true
     shovel: true
+    
   auto_sell:
     enable: false
     items:
@@ -85,60 +77,67 @@ features:
       - "skunk"
   auto_gift:
     enable: false
+    interval: 0
     items:
-      - "bank"
-      - "pizza"
-      - "diaper"
-      - "pepe"
-      - "potato"
-      - "pepestatue"
-      - "boar"
-      - "freshbread"
-      - "cookie"
-      - "deer"
-      - "ant"
-      - "dragon"
-      - "duck"
-      - "exoticfish"
-      - "commonfish"
-      - "garbage"
-      - "jellyfish"
-      - "junk"
-      - "legendaryfish"
-      - "rabbit"
-      - "rarefish"
-      - "seaweed"
-      - "skunk"
-      - "stickbug"
-      - "trash"
-      - "worm"
       - "aetheryxflower"
-      - "armpithair"
+      - "alcohol"
+      - "apple"
       - "badoszcard"
-      - "bean"
-      - "bunnysapron"
-      - "bean"
+      - "banknote"
       - "bluephallicobject"
       - "bluesplane"
+      - "boar"
       - "sand"
       - "bunnysapron"
       - "candy"
-      - "corncob"
-      - "corndog"
+      - "phone"
+      - "chillpill"
+      - "fish"
+      - "cookie"
+      - "deer"
+      - "dragon"
+      - "duck"
       - "ducttape"
+      - "exoticfish"
+      - "fakeid"
       - "fossil"
       - "bread"
-      - "goldenphallic"
+      - "garbage"
+      - "goldenphallicobject"
+      - "jellyfish"
+      - "kraken"
+      - "ladybug"
+      - "legendaryfish"
       - "meme"
       - "normie"
+      - "padlock"
+      - "pepestatue"
+      - "pizza"
+      - "potato"
+      - "purplephallicobject"
+      - "rabbit"
+      - "rarefish"
+      - "pepe"
+      - "scepter"
+      - "seaweed"
+      - "skunk"
+      - "spider"
+      - "stickbug"
+      - "worm"
+      - "corndog"
+      - "cheese"
+      - "yengpaw"
+      - "orangephallicobject"
+      - "armpithair"
+      - "ant"
   auto_share:
-    enable: true
+    enable: false
     maximum_balance: 5000000
     minimum_balance: 500000
   auto_blackjack:
     enable: false
-    amount: 50
-    pause_below_balance: 100
+    amount: 1500
+    pause_below_balance: 1500
     pause_above_balance: 50000000
     logic_table:
       2:
@@ -1192,23 +1191,23 @@ compatibility:
   search_mode: 2
   crime_mode: 2
   cooldown:
-    beg: 48
-    search: 38
-    highlow: 33
-    postmeme: 63
-    fish: 63
-    hunt: 63
-    blackjack: 13
-    sell: 6
-    gift: 8
-    share: 13
-    dig: 42
+    beg: 37
+    search: 27
+    highlow: 32
+    postmeme: 42
+    fish: 37
+    hunt: 37
+    blackjack: 12
+    sell: 7
+    gift: 32
+    share: 32
+    dig: 37
     work: 3600
-    trivia: 15
-    crime: 55
-    scratch: 15
+    trivia: 7
+    crime: 37
+    scratch: 12
     guess: 30
-  await_response_timeout: 7
+  await_response_timeout: 10
 
 suspicion_avoidance:
   typing:

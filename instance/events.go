@@ -110,7 +110,7 @@ func (in *Instance) shopEvent(msg discord.Message) {
 
 	var shop Shop
 	json.Unmarshal(bytevalue, &shop)
-	url := regexp.MustCompile(`https:\/\/cdn.discordapp.com\/emojis\/(.+)\.png`)
+	url := regexp.MustCompile(`https:\/\/cdn.discordapp.com\/emojis\/(.+)\.([a-z]+)`)
 	if url.Match([]byte(msg.Embeds[0].Image.URL)) {
 		picture := url.FindStringSubmatch(msg.Embeds[0].Image.URL)[1]
 
