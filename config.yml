@@ -1,7 +1,3 @@
-
-# Detailed instructions on this config are available at
-# https://github.com/Gold512/dankgrinder/tree/Trading-Main
-
 clusters:
   cluster_1:
     master:
@@ -9,8 +5,6 @@ clusters:
       channel_id: ""
       
     instances:
-      - token: ""
-        channel_id: ""
       - token: ""
         channel_id: ""
         
@@ -23,14 +17,6 @@ shifts:
     duration:
       base: 1800
       variation: 1800
-  - state: "active"
-    duration:
-      base: 7200
-      variation: 3600
-  - state: "dormant"
-    duration:
-      base: 32400
-      variation: 3600
 
 features:
   commands:
@@ -415,7 +401,7 @@ features:
     buy_lifesaver_on_death: true
   balance_check:
     enable: true
-    interval: 1800
+    interval: 600
   log_to_file: false
   verbose_log_to_stdout: true
   debug: false
