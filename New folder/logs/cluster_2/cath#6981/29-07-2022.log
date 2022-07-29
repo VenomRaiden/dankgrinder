@@ -1,0 +1,897 @@
+{"cluster":"cluster_2","duration":14000000000,"instance":"Cath#6981","level":"info","msg":"starting shift 1","state":"dormant","time":"2022-07-29T16:03:52+05:30"}
+{"cluster":"cluster_2","duration":11743000000000,"instance":"Cath#6981","level":"info","msg":"starting shift 2","state":"active","time":"2022-07-29T16:04:06+05:30"}
+{"cluster":"cluster_2","delay":"198ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:04:08+05:30","typing":"1.023s"}
+{"cluster":"cluster_2","delay":"429ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:04:10+05:30","typing":"873ms"}
+{"cluster":"cluster_2","delay":"165ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:04:12+05:30","typing":"1.33s"}
+{"cluster":"cluster_2","delay":"100ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:04:16+05:30","typing":"1.252s"}
+{"cluster":"cluster_2","delay":"221ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:04:19+05:30","typing":"1.029s"}
+{"cluster":"cluster_2","delay":"148ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:04:22+05:30","typing":"1.224s"}
+{"cluster":"cluster_2","delay":"334ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:04:25+05:30","typing":"1.101s"}
+{"cluster":"cluster_2","delay":"342ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:04:27+05:30","typing":"1.019s"}
+{"cluster":"cluster_2","delay":"173ms","instance":"Cath#6981","level":"info","msg":"sending command: pls work","time":"2022-07-29T16:04:29+05:30","typing":"1.171s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls work","time":"2022-07-29T16:04:42+05:30"}
+{"cluster":"cluster_2","delay":"433ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:04:42+05:30","typing":"1.49s"}
+{"cluster":"cluster_2","delay":"287ms","instance":"Cath#6981","level":"info","msg":"sending command: pls use horse","time":"2022-07-29T16:04:45+05:30","typing":"1.811s"}
+{"cluster":"cluster_2","delay":"399ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:04:48+05:30","typing":"1.52s"}
+{"cluster":"cluster_2","delay":"494ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:04:51+05:30","typing":"1.167s"}
+{"cluster":"cluster_2","delay":"478ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:04:54+05:30","typing":"1.502s"}
+{"cluster":"cluster_2","delay":"137ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:04:57+05:30","typing":"1.031s"}
+{"cluster":"cluster_2","delay":"201ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:05:00+05:30","typing":"967ms"}
+{"cluster":"cluster_2","delay":"393ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:05:03+05:30","typing":"1.366s"}
+{"cluster":"cluster_2","delay":"110ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:05:06+05:30","typing":"1.282s"}
+{"cluster":"cluster_2","delay":"351ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:05:09+05:30","typing":"1.54s"}
+{"cluster":"cluster_2","delay":"352ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:05:12+05:30","typing":"1.162s"}
+{"cluster":"cluster_2","delay":"279ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:05:15+05:30","typing":"1.051s"}
+{"cluster":"cluster_2","delay":"259ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:05:18+05:30","typing":"1.333s"}
+{"cluster":"cluster_2","delay":"285ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:05:21+05:30","typing":"1.494s"}
+{"cluster":"cluster_2","delay":"328ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:05:31+05:30","typing":"970ms"}
+{"cluster":"cluster_2","delay":"389ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:05:33+05:30","typing":"810ms"}
+{"cluster":"cluster_2","delay":"477ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:05:36+05:30","typing":"1.342s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls trivia","time":"2022-07-29T16:05:48+05:30"}
+{"cluster":"cluster_2","delay":"452ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:05:49+05:30","typing":"1.254s"}
+{"cluster":"cluster_2","delay":"486ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:05:53+05:30","typing":"829ms"}
+{"cluster":"cluster_2","delay":"109ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:05:56+05:30","typing":"1.566s"}
+{"cluster":"cluster_2","delay":"173ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:06:00+05:30","typing":"1.09s"}
+{"cluster":"cluster_2","delay":"402ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:06:02+05:30","typing":"1.424s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T16:06:15+05:30"}
+{"cluster":"cluster_2","delay":"247ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:06:15+05:30","typing":"1.273s"}
+{"cluster":"cluster_2","delay":"254ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:06:20+05:30","typing":"1.062s"}
+{"cluster":"cluster_2","delay":"111ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:06:23+05:30","typing":"1.333s"}
+{"cluster":"cluster_2","delay":"275ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:06:26+05:30","typing":"798ms"}
+{"cluster":"cluster_2","delay":"200ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:06:29+05:30","typing":"1.171s"}
+{"cluster":"cluster_2","delay":"225ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:06:31+05:30","typing":"1.341s"}
+{"cluster":"cluster_2","delay":"262ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:06:34+05:30","typing":"1.572s"}
+{"cluster":"cluster_2","delay":"261ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:06:38+05:30","typing":"1.545s"}
+{"cluster":"cluster_2","delay":"324ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:06:41+05:30","typing":"1s"}
+{"cluster":"cluster_2","delay":"399ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:06:45+05:30","typing":"1.289s"}
+{"cluster":"cluster_2","delay":"458ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:06:47+05:30","typing":"1.381s"}
+{"cluster":"cluster_2","delay":"310ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:06:54+05:30","typing":"1.204s"}
+{"cluster":"cluster_2","delay":"179ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:06:58+05:30","typing":"1.5s"}
+{"cluster":"cluster_2","delay":"252ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:07:01+05:30","typing":"1.007s"}
+{"cluster":"cluster_2","delay":"355ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:07:04+05:30","typing":"913ms"}
+{"cluster":"cluster_2","delay":"204ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:07:07+05:30","typing":"1.466s"}
+{"cluster":"cluster_2","delay":"184ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:07:10+05:30","typing":"1.396s"}
+{"cluster":"cluster_2","delay":"144ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:07:14+05:30","typing":"1.079s"}
+{"cluster":"cluster_2","delay":"241ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:07:16+05:30","typing":"1.253s"}
+{"cluster":"cluster_2","delay":"207ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:07:19+05:30","typing":"1.444s"}
+{"cluster":"cluster_2","delay":"101ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:07:24+05:30","typing":"1.156s"}
+{"cluster":"cluster_2","delay":"397ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:07:26+05:30","typing":"948ms"}
+{"cluster":"cluster_2","delay":"267ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:07:29+05:30","typing":"1.424s"}
+{"cluster":"cluster_2","delay":"106ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:07:34+05:30","typing":"1.205s"}
+{"cluster":"cluster_2","delay":"421ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:07:38+05:30","typing":"914ms"}
+{"cluster":"cluster_2","delay":"131ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:07:41+05:30","typing":"1.528s"}
+{"cluster":"cluster_2","delay":"393ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:07:44+05:30","typing":"1.385s"}
+{"cluster":"cluster_2","delay":"281ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:07:48+05:30","typing":"1.171s"}
+{"cluster":"cluster_2","delay":"417ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:07:50+05:30","typing":"1.561s"}
+{"cluster":"cluster_2","delay":"332ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:07:54+05:30","typing":"1.028s"}
+{"cluster":"cluster_2","delay":"482ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:07:56+05:30","typing":"1.436s"}
+{"cluster":"cluster_2","delay":"308ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:08:00+05:30","typing":"1.393s"}
+{"cluster":"cluster_2","delay":"400ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:08:03+05:30","typing":"1.107s"}
+{"cluster":"cluster_2","duration":34000000000,"instance":"Cath#6981","level":"info","msg":"starting shift 1","state":"dormant","time":"2022-07-29T16:09:04+05:30"}
+{"cluster":"cluster_2","duration":11559000000000,"instance":"Cath#6981","level":"info","msg":"starting shift 2","state":"active","time":"2022-07-29T16:09:38+05:30"}
+{"cluster":"cluster_2","delay":"110ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:09:40+05:30","typing":"1.067s"}
+{"cluster":"cluster_2","delay":"359ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:09:42+05:30","typing":"939ms"}
+{"cluster":"cluster_2","delay":"164ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:09:45+05:30","typing":"1.476s"}
+{"cluster":"cluster_2","delay":"146ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:09:48+05:30","typing":"1.394s"}
+{"cluster":"cluster_2","delay":"159ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:09:51+05:30","typing":"948ms"}
+{"cluster":"cluster_2","delay":"108ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:09:54+05:30","typing":"1.229s"}
+{"cluster":"cluster_2","delay":"165ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:09:57+05:30","typing":"1.227s"}
+{"cluster":"cluster_2","delay":"241ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:09:59+05:30","typing":"1.008s"}
+{"cluster":"cluster_2","delay":"414ms","instance":"Cath#6981","level":"info","msg":"sending command: pls work","time":"2022-07-29T16:10:01+05:30","typing":"1.161s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls work","time":"2022-07-29T16:10:13+05:30"}
+{"cluster":"cluster_2","delay":"277ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:10:13+05:30","typing":"1.337s"}
+{"cluster":"cluster_2","delay":"149ms","instance":"Cath#6981","level":"info","msg":"sending command: pls use horse","time":"2022-07-29T16:10:17+05:30","typing":"1.75s"}
+{"cluster":"cluster_2","delay":"311ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:10:20+05:30","typing":"1.355s"}
+{"cluster":"cluster_2","delay":"220ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:10:23+05:30","typing":"1.027s"}
+{"cluster":"cluster_2","delay":"228ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:10:25+05:30","typing":"1.37s"}
+{"cluster":"cluster_2","delay":"207ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:10:28+05:30","typing":"817ms"}
+{"cluster":"cluster_2","delay":"409ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:10:31+05:30","typing":"932ms"}
+{"cluster":"cluster_2","delay":"113ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:10:34+05:30","typing":"1.435s"}
+{"cluster":"cluster_2","delay":"349ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:10:38+05:30","typing":"1.216s"}
+{"cluster":"cluster_2","delay":"416ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:10:40+05:30","typing":"1.423s"}
+{"cluster":"cluster_2","delay":"217ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:10:44+05:30","typing":"1.303s"}
+{"cluster":"cluster_2","delay":"317ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:10:46+05:30","typing":"1.061s"}
+{"cluster":"cluster_2","delay":"431ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:10:49+05:30","typing":"1.515s"}
+{"cluster":"cluster_2","delay":"154ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:10:53+05:30","typing":"1.342s"}
+{"cluster":"cluster_2","delay":"331ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:11:02+05:30","typing":"947ms"}
+{"cluster":"cluster_2","delay":"394ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:11:04+05:30","typing":"878ms"}
+{"cluster":"cluster_2","delay":"221ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:11:07+05:30","typing":"1.486s"}
+{"cluster":"cluster_2","delay":"179ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:11:13+05:30","typing":"1.233s"}
+{"cluster":"cluster_2","delay":"325ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:11:17+05:30","typing":"830ms"}
+{"cluster":"cluster_2","delay":"307ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:11:19+05:30","typing":"1.497s"}
+{"cluster":"cluster_2","delay":"249ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:11:23+05:30","typing":"1.23s"}
+{"cluster":"cluster_2","delay":"306ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:11:25+05:30","typing":"1.511s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T16:11:38+05:30"}
+{"cluster":"cluster_2","delay":"195ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:11:38+05:30","typing":"1.07s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:11:50+05:30"}
+{"cluster":"cluster_2","delay":"486ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:11:50+05:30","typing":"1.053s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls dig","time":"2022-07-29T16:12:02+05:30"}
+{"cluster":"cluster_2","delay":"188ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:12:02+05:30","typing":"1.41s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls trivia","time":"2022-07-29T16:12:14+05:30"}
+{"cluster":"cluster_2","delay":"136ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:12:14+05:30","typing":"935ms"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:12:26+05:30"}
+{"cluster":"cluster_2","delay":"277ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:12:26+05:30","typing":"1.016s"}
+{"cluster":"cluster_2","delay":"293ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:12:29+05:30","typing":"1.283s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T16:12:41+05:30"}
+{"cluster":"cluster_2","delay":"231ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:12:41+05:30","typing":"1.516s"}
+{"cluster":"cluster_2","delay":"352ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:12:44+05:30","typing":"950ms"}
+{"cluster":"cluster_2","delay":"364ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:12:47+05:30","typing":"1.138s"}
+{"cluster":"cluster_2","delay":"222ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:12:49+05:30","typing":"1.514s"}
+{"cluster":"cluster_2","delay":"356ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:12:53+05:30","typing":"1.197s"}
+{"cluster":"cluster_2","delay":"219ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:12:55+05:30","typing":"993ms"}
+{"cluster":"cluster_2","delay":"162ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:12:58+05:30","typing":"1.024s"}
+{"cluster":"cluster_2","delay":"216ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:13:00+05:30","typing":"1.353s"}
+{"cluster":"cluster_2","delay":"337ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:13:06+05:30","typing":"1.158s"}
+{"cluster":"cluster_2","delay":"268ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:13:08+05:30","typing":"1.279s"}
+{"cluster":"cluster_2","delay":"162ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:13:11+05:30","typing":"1.456s"}
+{"cluster":"cluster_2","delay":"430ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:13:15+05:30","typing":"1.416s"}
+{"cluster":"cluster_2","delay":"173ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:13:21+05:30","typing":"1.359s"}
+{"cluster":"cluster_2","delay":"440ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:13:26+05:30","typing":"1.296s"}
+{"cluster":"cluster_2","delay":"442ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:13:29+05:30","typing":"1.025s"}
+{"cluster":"cluster_2","delay":"252ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:13:31+05:30","typing":"1.337s"}
+{"cluster":"cluster_2","delay":"198ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:13:35+05:30","typing":"900ms"}
+{"cluster":"cluster_2","delay":"182ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:13:37+05:30","typing":"1.208s"}
+{"cluster":"cluster_2","delay":"437ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:13:40+05:30","typing":"1.042s"}
+{"cluster":"cluster_2","delay":"234ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:13:42+05:30","typing":"1.545s"}
+{"cluster":"cluster_2","delay":"317ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:13:46+05:30","typing":"1.425s"}
+{"cluster":"cluster_2","delay":"356ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:13:50+05:30","typing":"1.125s"}
+{"cluster":"cluster_2","delay":"392ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:13:52+05:30","typing":"1.342s"}
+{"cluster":"cluster_2","delay":"222ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:13:56+05:30","typing":"1.431s"}
+{"cluster":"cluster_2","delay":"297ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:14:05+05:30","typing":"1.458s"}
+{"cluster":"cluster_2","delay":"203ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:14:09+05:30","typing":"1.113s"}
+{"cluster":"cluster_2","delay":"259ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:14:11+05:30","typing":"812ms"}
+{"cluster":"cluster_2","delay":"313ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:14:14+05:30","typing":"805ms"}
+{"cluster":"cluster_2","delay":"404ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:14:16+05:30","typing":"1.516s"}
+{"cluster":"cluster_2","delay":"284ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:14:20+05:30","typing":"1.431s"}
+{"cluster":"cluster_2","delay":"341ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:14:23+05:30","typing":"1.074s"}
+{"cluster":"cluster_2","delay":"466ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:14:25+05:30","typing":"1.079s"}
+{"cluster":"cluster_2","delay":"272ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:14:28+05:30","typing":"1.555s"}
+{"cluster":"cluster_2","delay":"469ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:14:31+05:30","typing":"1.145s"}
+{"cluster":"cluster_2","delay":"245ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:14:34+05:30","typing":"1.445s"}
+{"cluster":"cluster_2","delay":"250ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:14:37+05:30","typing":"1.391s"}
+{"cluster":"cluster_2","delay":"426ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:14:45+05:30","typing":"1.007s"}
+{"cluster":"cluster_2","delay":"110ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:14:48+05:30","typing":"1.4s"}
+{"cluster":"cluster_2","delay":"435ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:14:51+05:30","typing":"1.12s"}
+{"cluster":"cluster_2","delay":"281ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:14:54+05:30","typing":"1.537s"}
+{"cluster":"cluster_2","delay":"331ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:14:58+05:30","typing":"993ms"}
+{"cluster":"cluster_2","delay":"213ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:15:00+05:30","typing":"1.429s"}
+{"cluster":"cluster_2","delay":"327ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:15:04+05:30","typing":"1.247s"}
+{"cluster":"cluster_2","delay":"213ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:15:06+05:30","typing":"1.067s"}
+{"cluster":"cluster_2","delay":"169ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:15:10+05:30","typing":"1.47s"}
+{"cluster":"cluster_2","delay":"370ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:15:13+05:30","typing":"1.167s"}
+{"cluster":"cluster_2","delay":"426ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:15:16+05:30","typing":"1.382s"}
+{"cluster":"cluster_2","delay":"177ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:15:19+05:30","typing":"980ms"}
+{"cluster":"cluster_2","delay":"357ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:15:22+05:30","typing":"1.336s"}
+{"cluster":"cluster_2","delay":"496ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:15:25+05:30","typing":"1.48s"}
+{"cluster":"cluster_2","delay":"257ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:15:31+05:30","typing":"1.123s"}
+{"cluster":"cluster_2","delay":"446ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:15:33+05:30","typing":"1.434s"}
+{"cluster":"cluster_2","delay":"119ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:15:42+05:30","typing":"899ms"}
+{"cluster":"cluster_2","delay":"324ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:15:44+05:30","typing":"1.536s"}
+{"cluster":"cluster_2","delay":"310ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:15:48+05:30","typing":"1.187s"}
+{"cluster":"cluster_2","delay":"394ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:15:50+05:30","typing":"1.084s"}
+{"cluster":"cluster_2","delay":"415ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:15:53+05:30","typing":"972ms"}
+{"cluster":"cluster_2","delay":"197ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:15:54+05:30","typing":"895ms"}
+{"cluster":"cluster_2","delay":"296ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:15:58+05:30","typing":"1.411s"}
+{"cluster":"cluster_2","delay":"205ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:16:02+05:30","typing":"1.481s"}
+{"cluster":"cluster_2","delay":"476ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:16:05+05:30","typing":"1.198s"}
+{"cluster":"cluster_2","delay":"487ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:16:09+05:30","typing":"1.404s"}
+{"cluster":"cluster_2","delay":"346ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:16:12+05:30","typing":"1.217s"}
+{"cluster":"cluster_2","delay":"285ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:16:18+05:30","typing":"1.468s"}
+{"cluster":"cluster_2","delay":"467ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:16:26+05:30","typing":"887ms"}
+{"cluster":"cluster_2","delay":"235ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:16:28+05:30","typing":"1.298s"}
+{"cluster":"cluster_2","delay":"124ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:16:31+05:30","typing":"1.392s"}
+{"cluster":"cluster_2","delay":"305ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:16:34+05:30","typing":"857ms"}
+{"cluster":"cluster_2","delay":"146ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:16:37+05:30","typing":"1.119s"}
+{"cluster":"cluster_2","delay":"473ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:16:40+05:30","typing":"1.531s"}
+{"cluster":"cluster_2","delay":"402ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:16:43+05:30","typing":"1.15s"}
+{"cluster":"cluster_2","delay":"186ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:16:45+05:30","typing":"1.406s"}
+{"cluster":"cluster_2","delay":"208ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:16:48+05:30","typing":"1.289s"}
+{"cluster":"cluster_2","delay":"273ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:16:51+05:30","typing":"1.229s"}
+{"cluster":"cluster_2","delay":"282ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:16:55+05:30","typing":"1.55s"}
+{"cluster":"cluster_2","delay":"308ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:17:04+05:30","typing":"1.442s"}
+{"cluster":"cluster_2","delay":"383ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:17:08+05:30","typing":"1.064s"}
+{"cluster":"cluster_2","delay":"430ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:17:10+05:30","typing":"934ms"}
+{"cluster":"cluster_2","delay":"277ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:17:13+05:30","typing":"1.508s"}
+{"cluster":"cluster_2","delay":"144ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:17:17+05:30","typing":"1.014s"}
+{"cluster":"cluster_2","delay":"388ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:17:20+05:30","typing":"1.46s"}
+{"cluster":"cluster_2","delay":"193ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:17:23+05:30","typing":"1.134s"}
+{"cluster":"cluster_2","delay":"357ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:17:26+05:30","typing":"1.134s"}
+{"cluster":"cluster_2","delay":"183ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:17:28+05:30","typing":"1.203s"}
+{"cluster":"cluster_2","delay":"145ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:17:31+05:30","typing":"1.355s"}
+{"cluster":"cluster_2","delay":"195ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:17:35+05:30","typing":"1.074s"}
+{"cluster":"cluster_2","delay":"280ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:17:41+05:30","typing":"1.571s"}
+{"cluster":"cluster_2","delay":"123ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:17:44+05:30","typing":"1.556s"}
+{"cluster":"cluster_2","delay":"465ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:17:48+05:30","typing":"1.002s"}
+{"cluster":"cluster_2","delay":"452ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:17:51+05:30","typing":"1.293s"}
+{"cluster":"cluster_2","delay":"397ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:17:55+05:30","typing":"1.53s"}
+{"cluster":"cluster_2","delay":"300ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:18:01+05:30","typing":"821ms"}
+{"cluster":"cluster_2","delay":"474ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:18:04+05:30","typing":"975ms"}
+{"cluster":"cluster_2","delay":"319ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:18:06+05:30","typing":"1.376s"}
+{"cluster":"cluster_2","delay":"383ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:18:09+05:30","typing":"949ms"}
+{"cluster":"cluster_2","delay":"199ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:18:11+05:30","typing":"1.409s"}
+{"cluster":"cluster_2","delay":"426ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:18:15+05:30","typing":"1.131s"}
+{"cluster":"cluster_2","delay":"379ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:18:17+05:30","typing":"1.398s"}
+{"cluster":"cluster_2","delay":"231ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:18:21+05:30","typing":"1.423s"}
+{"cluster":"cluster_2","delay":"377ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:18:24+05:30","typing":"996ms"}
+{"cluster":"cluster_2","delay":"489ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:18:30+05:30","typing":"1.508s"}
+{"cluster":"cluster_2","delay":"325ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:18:34+05:30","typing":"1.281s"}
+{"cluster":"cluster_2","delay":"102ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:18:40+05:30","typing":"1.389s"}
+{"cluster":"cluster_2","delay":"240ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:18:44+05:30","typing":"1.076s"}
+{"cluster":"cluster_2","delay":"198ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:18:46+05:30","typing":"998ms"}
+{"cluster":"cluster_2","delay":"425ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:18:49+05:30","typing":"1.459s"}
+{"cluster":"cluster_2","delay":"320ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:18:52+05:30","typing":"1.139s"}
+{"cluster":"cluster_2","delay":"458ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:18:55+05:30","typing":"1.532s"}
+{"cluster":"cluster_2","delay":"312ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:18:58+05:30","typing":"1.37s"}
+{"cluster":"cluster_2","delay":"145ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:19:01+05:30","typing":"1.086s"}
+{"cluster":"cluster_2","delay":"168ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:19:03+05:30","typing":"847ms"}
+{"cluster":"cluster_2","delay":"158ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:19:07+05:30","typing":"1.445s"}
+{"cluster":"cluster_2","delay":"337ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:19:13+05:30","typing":"1.241s"}
+{"cluster":"cluster_2","delay":"311ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:19:16+05:30","typing":"1.389s"}
+{"cluster":"cluster_2","delay":"340ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:19:20+05:30","typing":"1.333s"}
+{"cluster":"cluster_2","delay":"264ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:19:24+05:30","typing":"986ms"}
+{"cluster":"cluster_2","delay":"483ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:19:27+05:30","typing":"1.46s"}
+{"cluster":"cluster_2","delay":"346ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:19:30+05:30","typing":"1.031s"}
+{"cluster":"cluster_2","delay":"497ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:19:33+05:30","typing":"1.02s"}
+{"cluster":"cluster_2","delay":"202ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:19:36+05:30","typing":"1.535s"}
+{"cluster":"cluster_2","delay":"142ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:19:39+05:30","typing":"967ms"}
+{"cluster":"cluster_2","delay":"146ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:19:43+05:30","typing":"1.443s"}
+{"cluster":"cluster_2","delay":"300ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:19:47+05:30","typing":"1.2s"}
+{"cluster":"cluster_2","delay":"217ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:19:49+05:30","typing":"1.429s"}
+{"cluster":"cluster_2","delay":"420ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:19:53+05:30","typing":"1.405s"}
+{"cluster":"cluster_2","delay":"245ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:19:56+05:30","typing":"1.186s"}
+{"cluster":"cluster_2","delay":"359ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:19:59+05:30","typing":"1.453s"}
+{"cluster":"cluster_2","delay":"191ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:20:03+05:30","typing":"1.148s"}
+{"cluster":"cluster_2","delay":"347ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:20:08+05:30","typing":"1.556s"}
+{"cluster":"cluster_2","delay":"376ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:20:12+05:30","typing":"1.028s"}
+{"cluster":"cluster_2","delay":"157ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:20:14+05:30","typing":"995ms"}
+{"cluster":"cluster_2","delay":"408ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:20:17+05:30","typing":"1.007s"}
+{"cluster":"cluster_2","delay":"155ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:20:20+05:30","typing":"1.464s"}
+{"cluster":"cluster_2","delay":"167ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:20:24+05:30","typing":"1.355s"}
+{"cluster":"cluster_2","delay":"498ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:20:27+05:30","typing":"1.234s"}
+{"cluster":"cluster_2","delay":"328ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:20:30+05:30","typing":"1.234s"}
+{"cluster":"cluster_2","delay":"170ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:20:33+05:30","typing":"1.437s"}
+{"cluster":"cluster_2","delay":"185ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:20:36+05:30","typing":"1.235s"}
+{"cluster":"cluster_2","delay":"362ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:20:42+05:30","typing":"1.011s"}
+{"cluster":"cluster_2","delay":"398ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:20:44+05:30","typing":"1.522s"}
+{"cluster":"cluster_2","delay":"267ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:20:48+05:30","typing":"1.038s"}
+{"cluster":"cluster_2","delay":"166ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:20:52+05:30","typing":"1.099s"}
+{"cluster":"cluster_2","delay":"161ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:20:54+05:30","typing":"1.447s"}
+{"cluster":"cluster_2","delay":"119ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:20:57+05:30","typing":"1.468s"}
+{"cluster":"cluster_2","delay":"442ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:21:01+05:30","typing":"843ms"}
+{"cluster":"cluster_2","delay":"451ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:21:07+05:30","typing":"1.29s"}
+{"cluster":"cluster_2","delay":"472ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:21:10+05:30","typing":"1.453s"}
+{"cluster":"cluster_2","delay":"348ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:21:13+05:30","typing":"1.274s"}
+{"cluster":"cluster_2","delay":"180ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:21:16+05:30","typing":"1.091s"}
+{"cluster":"cluster_2","delay":"450ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:21:20+05:30","typing":"1.509s"}
+{"cluster":"cluster_2","delay":"299ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:21:23+05:30","typing":"1.042s"}
+{"cluster":"cluster_2","delay":"341ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:21:26+05:30","typing":"825ms"}
+{"cluster":"cluster_2","delay":"284ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:21:29+05:30","typing":"1.575s"}
+{"cluster":"cluster_2","delay":"382ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:21:32+05:30","typing":"1.425s"}
+{"cluster":"cluster_2","delay":"211ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:21:36+05:30","typing":"971ms"}
+{"cluster":"cluster_2","delay":"398ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:21:42+05:30","typing":"1.35s"}
+{"cluster":"cluster_2","delay":"184ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:21:45+05:30","typing":"821ms"}
+{"cluster":"cluster_2","delay":"107ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:21:48+05:30","typing":"1.345s"}
+{"cluster":"cluster_2","delay":"247ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:21:52+05:30","typing":"1.578s"}
+{"cluster":"cluster_2","delay":"250ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:21:56+05:30","typing":"1.237s"}
+{"cluster":"cluster_2","delay":"254ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:21:58+05:30","typing":"1.211s"}
+{"cluster":"cluster_2","delay":"446ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:22:01+05:30","typing":"1.451s"}
+{"cluster":"cluster_2","delay":"330ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:22:05+05:30","typing":"865ms"}
+{"cluster":"cluster_2","delay":"458ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:22:08+05:30","typing":"1.491s"}
+{"cluster":"cluster_2","delay":"228ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:22:11+05:30","typing":"1.087s"}
+{"cluster":"cluster_2","delay":"179ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:22:15+05:30","typing":"1.076s"}
+{"cluster":"cluster_2","delay":"422ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:22:17+05:30","typing":"1.338s"}
+{"cluster":"cluster_2","delay":"251ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:22:27+05:30","typing":"1.475s"}
+{"cluster":"cluster_2","delay":"258ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:22:30+05:30","typing":"1.377s"}
+{"cluster":"cluster_2","delay":"455ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:22:33+05:30","typing":"838ms"}
+{"cluster":"cluster_2","delay":"490ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:22:36+05:30","typing":"1.494s"}
+{"cluster":"cluster_2","delay":"497ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:22:40+05:30","typing":"1.121s"}
+{"cluster":"cluster_2","delay":"282ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:22:42+05:30","typing":"1.413s"}
+{"cluster":"cluster_2","delay":"474ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:22:46+05:30","typing":"1.175s"}
+{"cluster":"cluster_2","delay":"233ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:22:49+05:30","typing":"1.015s"}
+{"cluster":"cluster_2","delay":"152ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:22:52+05:30","typing":"1.005s"}
+{"cluster":"cluster_2","delay":"429ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:22:54+05:30","typing":"1.347s"}
+{"cluster":"cluster_2","delay":"402ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:22:57+05:30","typing":"1.021s"}
+{"cluster":"cluster_2","delay":"431ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:23:03+05:30","typing":"1.474s"}
+{"cluster":"cluster_2","delay":"449ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:23:07+05:30","typing":"1.367s"}
+{"cluster":"cluster_2","delay":"330ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:23:11+05:30","typing":"1.203s"}
+{"cluster":"cluster_2","delay":"383ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:23:14+05:30","typing":"1.532s"}
+{"cluster":"cluster_2","delay":"205ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:23:17+05:30","typing":"842ms"}
+{"cluster":"cluster_2","delay":"462ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:23:20+05:30","typing":"1.13s"}
+{"cluster":"cluster_2","delay":"367ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:23:23+05:30","typing":"819ms"}
+{"cluster":"cluster_2","delay":"158ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:23:26+05:30","typing":"1.331s"}
+{"cluster":"cluster_2","delay":"383ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:23:29+05:30","typing":"1.136s"}
+{"cluster":"cluster_2","delay":"378ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:23:31+05:30","typing":"966ms"}
+{"cluster":"cluster_2","delay":"308ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:23:35+05:30","typing":"1.421s"}
+{"cluster":"cluster_2","delay":"397ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:23:38+05:30","typing":"966ms"}
+{"cluster":"cluster_2","delay":"484ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:23:40+05:30","typing":"1.473s"}
+{"cluster":"cluster_2","delay":"262ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:23:45+05:30","typing":"1.563s"}
+{"cluster":"cluster_2","delay":"290ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:23:50+05:30","typing":"1.384s"}
+{"cluster":"cluster_2","delay":"212ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:23:54+05:30","typing":"1.363s"}
+{"cluster":"cluster_2","delay":"419ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:23:58+05:30","typing":"924ms"}
+{"cluster":"cluster_2","delay":"441ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:24:02+05:30","typing":"1.126s"}
+{"cluster":"cluster_2","delay":"326ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:24:05+05:30","typing":"1.02s"}
+{"cluster":"cluster_2","delay":"429ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:24:09+05:30","typing":"1.496s"}
+{"cluster":"cluster_2","delay":"130ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:24:13+05:30","typing":"1.168s"}
+{"cluster":"cluster_2","delay":"453ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:24:16+05:30","typing":"1.458s"}
+{"cluster":"cluster_2","delay":"301ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:24:21+05:30","typing":"1.175s"}
+{"cluster":"cluster_2","delay":"419ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:24:23+05:30","typing":"1.056s"}
+{"cluster":"cluster_2","delay":"171ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:24:25+05:30","typing":"1.363s"}
+{"cluster":"cluster_2","delay":"244ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:24:29+05:30","typing":"1.431s"}
+{"cluster":"cluster_2","delay":"423ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:24:33+05:30","typing":"946ms"}
+{"cluster":"cluster_2","delay":"191ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:24:36+05:30","typing":"1.337s"}
+{"cluster":"cluster_2","delay":"271ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:24:41+05:30","typing":"1.282s"}
+{"cluster":"cluster_2","delay":"343ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:24:45+05:30","typing":"1.446s"}
+{"cluster":"cluster_2","delay":"457ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:24:49+05:30","typing":"1.418s"}
+{"cluster":"cluster_2","delay":"393ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:24:52+05:30","typing":"928ms"}
+{"cluster":"cluster_2","delay":"353ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:24:55+05:30","typing":"1.251s"}
+{"cluster":"cluster_2","delay":"161ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:24:58+05:30","typing":"1.556s"}
+{"cluster":"cluster_2","delay":"241ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:25:02+05:30","typing":"1.011s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls dig","time":"2022-07-29T16:25:14+05:30"}
+{"cluster":"cluster_2","delay":"356ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:25:14+05:30","typing":"964ms"}
+{"cluster":"cluster_2","delay":"119ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:25:16+05:30","typing":"892ms"}
+{"cluster":"cluster_2","delay":"113ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:25:19+05:30","typing":"1.438s"}
+{"cluster":"cluster_2","delay":"243ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:25:22+05:30","typing":"1.32s"}
+{"cluster":"cluster_2","delay":"351ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:25:26+05:30","typing":"1.36s"}
+{"cluster":"cluster_2","delay":"384ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:25:30+05:30","typing":"1.124s"}
+{"cluster":"cluster_2","delay":"175ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:25:35+05:30","typing":"1.533s"}
+{"cluster":"cluster_2","delay":"167ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:25:39+05:30","typing":"1.297s"}
+{"cluster":"cluster_2","delay":"371ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:25:41+05:30","typing":"973ms"}
+{"cluster":"cluster_2","delay":"374ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:25:45+05:30","typing":"1.094s"}
+{"cluster":"cluster_2","delay":"161ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:25:47+05:30","typing":"1.485s"}
+{"cluster":"cluster_2","delay":"109ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:25:50+05:30","typing":"966ms"}
+{"cluster":"cluster_2","delay":"357ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:25:53+05:30","typing":"1.034s"}
+{"cluster":"cluster_2","delay":"478ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:25:55+05:30","typing":"1.509s"}
+{"cluster":"cluster_2","delay":"464ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:25:59+05:30","typing":"1.346s"}
+{"cluster":"cluster_2","delay":"429ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:26:02+05:30","typing":"1.231s"}
+{"cluster":"cluster_2","delay":"413ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:26:09+05:30","typing":"1.353s"}
+{"cluster":"cluster_2","delay":"250ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:26:12+05:30","typing":"1.251s"}
+{"cluster":"cluster_2","delay":"370ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:26:18+05:30","typing":"1.405s"}
+{"cluster":"cluster_2","delay":"153ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:26:21+05:30","typing":"1.274s"}
+{"cluster":"cluster_2","delay":"356ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:26:24+05:30","typing":"1.019s"}
+{"cluster":"cluster_2","delay":"391ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:26:26+05:30","typing":"807ms"}
+{"cluster":"cluster_2","delay":"216ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:26:29+05:30","typing":"1.535s"}
+{"cluster":"cluster_2","delay":"337ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:26:33+05:30","typing":"963ms"}
+{"cluster":"cluster_2","delay":"366ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:26:36+05:30","typing":"1.485s"}
+{"cluster":"cluster_2","delay":"450ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:26:39+05:30","typing":"1.168s"}
+{"cluster":"cluster_2","delay":"349ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:26:42+05:30","typing":"1.332s"}
+{"cluster":"cluster_2","delay":"263ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:26:46+05:30","typing":"1.44s"}
+{"cluster":"cluster_2","delay":"219ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:26:51+05:30","typing":"1.185s"}
+{"cluster":"cluster_2","delay":"411ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:26:55+05:30","typing":"1.537s"}
+{"cluster":"cluster_2","delay":"111ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:26:59+05:30","typing":"1.518s"}
+{"cluster":"cluster_2","delay":"342ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:27:03+05:30","typing":"978ms"}
+{"cluster":"cluster_2","delay":"418ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:27:06+05:30","typing":"1.169s"}
+{"cluster":"cluster_2","delay":"419ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:27:09+05:30","typing":"1.117s"}
+{"cluster":"cluster_2","delay":"378ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:27:11+05:30","typing":"1.412s"}
+{"cluster":"cluster_2","delay":"274ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:27:17+05:30","typing":"877ms"}
+{"cluster":"cluster_2","delay":"348ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:27:20+05:30","typing":"1.121s"}
+{"cluster":"cluster_2","delay":"268ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:27:23+05:30","typing":"1.441s"}
+{"cluster":"cluster_2","delay":"484ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:27:26+05:30","typing":"1.353s"}
+{"cluster":"cluster_2","delay":"418ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:27:30+05:30","typing":"1.516s"}
+{"cluster":"cluster_2","delay":"193ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:27:33+05:30","typing":"1.084s"}
+{"cluster":"cluster_2","delay":"456ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:27:36+05:30","typing":"1.475s"}
+{"cluster":"cluster_2","delay":"499ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:27:39+05:30","typing":"873ms"}
+{"cluster":"cluster_2","delay":"485ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:27:45+05:30","typing":"1.574s"}
+{"cluster":"cluster_2","delay":"457ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:27:49+05:30","typing":"1.199s"}
+{"cluster":"cluster_2","delay":"414ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:27:51+05:30","typing":"1.087s"}
+{"cluster":"cluster_2","delay":"481ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:27:55+05:30","typing":"1.513s"}
+{"cluster":"cluster_2","delay":"304ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:27:59+05:30","typing":"1.364s"}
+{"cluster":"cluster_2","delay":"437ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:28:02+05:30","typing":"973ms"}
+{"cluster":"cluster_2","delay":"390ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:28:04+05:30","typing":"804ms"}
+{"cluster":"cluster_2","delay":"192ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:28:07+05:30","typing":"1.576s"}
+{"cluster":"cluster_2","delay":"213ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:28:11+05:30","typing":"1.387s"}
+{"cluster":"cluster_2","delay":"487ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:28:15+05:30","typing":"1.258s"}
+{"cluster":"cluster_2","delay":"255ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:28:17+05:30","typing":"1.015s"}
+{"cluster":"cluster_2","delay":"471ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:28:20+05:30","typing":"1.537s"}
+{"cluster":"cluster_2","delay":"345ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:28:28+05:30","typing":"1.09s"}
+{"cluster":"cluster_2","delay":"100ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:28:30+05:30","typing":"1.535s"}
+{"cluster":"cluster_2","delay":"177ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:28:34+05:30","typing":"1.372s"}
+{"cluster":"cluster_2","delay":"163ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:28:37+05:30","typing":"980ms"}
+{"cluster":"cluster_2","delay":"445ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:28:41+05:30","typing":"1.008s"}
+{"cluster":"cluster_2","delay":"215ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:28:44+05:30","typing":"1.507s"}
+{"cluster":"cluster_2","delay":"245ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:28:48+05:30","typing":"974ms"}
+{"cluster":"cluster_2","delay":"220ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:28:51+05:30","typing":"1.204s"}
+{"cluster":"cluster_2","delay":"311ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:28:55+05:30","typing":"865ms"}
+{"cluster":"cluster_2","delay":"191ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:28:58+05:30","typing":"1.426s"}
+{"cluster":"cluster_2","delay":"311ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:29:02+05:30","typing":"1.19s"}
+{"cluster":"cluster_2","delay":"402ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:29:04+05:30","typing":"1.496s"}
+{"cluster":"cluster_2","delay":"281ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:29:08+05:30","typing":"1.304s"}
+{"cluster":"cluster_2","delay":"218ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:29:11+05:30","typing":"1.416s"}
+{"cluster":"cluster_2","delay":"468ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:29:17+05:30","typing":"1.02s"}
+{"cluster":"cluster_2","delay":"332ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:29:20+05:30","typing":"1.411s"}
+{"cluster":"cluster_2","delay":"450ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:29:23+05:30","typing":"1.001s"}
+{"cluster":"cluster_2","delay":"318ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:29:29+05:30","typing":"989ms"}
+{"cluster":"cluster_2","delay":"103ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:29:32+05:30","typing":"1.533s"}
+{"cluster":"cluster_2","delay":"203ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:29:36+05:30","typing":"1.349s"}
+{"cluster":"cluster_2","delay":"141ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:29:40+05:30","typing":"842ms"}
+{"cluster":"cluster_2","delay":"455ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:29:43+05:30","typing":"1.535s"}
+{"cluster":"cluster_2","delay":"150ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:29:47+05:30","typing":"1.258s"}
+{"cluster":"cluster_2","delay":"281ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:29:50+05:30","typing":"1.49s"}
+{"cluster":"cluster_2","delay":"120ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:29:53+05:30","typing":"1.14s"}
+{"cluster":"cluster_2","delay":"153ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:29:56+05:30","typing":"1.164s"}
+{"cluster":"cluster_2","delay":"382ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:30:00+05:30","typing":"1.401s"}
+{"cluster":"cluster_2","delay":"106ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:30:03+05:30","typing":"1.074s"}
+{"cluster":"cluster_2","delay":"311ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:30:05+05:30","typing":"862ms"}
+{"cluster":"cluster_2","delay":"392ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:30:09+05:30","typing":"1.538s"}
+{"cluster":"cluster_2","delay":"254ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:30:13+05:30","typing":"1.47s"}
+{"cluster":"cluster_2","delay":"200ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:30:17+05:30","typing":"1.404s"}
+{"cluster":"cluster_2","delay":"102ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:30:21+05:30","typing":"1.382s"}
+{"cluster":"cluster_2","delay":"268ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:30:25+05:30","typing":"938ms"}
+{"cluster":"cluster_2","delay":"284ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:30:27+05:30","typing":"1.29s"}
+{"cluster":"cluster_2","delay":"224ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:30:30+05:30","typing":"1.348s"}
+{"cluster":"cluster_2","delay":"231ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:30:33+05:30","typing":"1.147s"}
+{"cluster":"cluster_2","delay":"342ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:30:36+05:30","typing":"1.111s"}
+{"cluster":"cluster_2","delay":"424ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:30:39+05:30","typing":"1.002s"}
+{"cluster":"cluster_2","delay":"316ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:30:42+05:30","typing":"1.502s"}
+{"cluster":"cluster_2","delay":"431ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:30:46+05:30","typing":"937ms"}
+{"cluster":"cluster_2","delay":"399ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:30:48+05:30","typing":"1.518s"}
+{"cluster":"cluster_2","delay":"394ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:30:52+05:30","typing":"1.542s"}
+{"cluster":"cluster_2","delay":"220ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:30:56+05:30","typing":"1.393s"}
+{"cluster":"cluster_2","delay":"355ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:31:01+05:30","typing":"1.408s"}
+{"cluster":"cluster_2","delay":"271ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:31:07+05:30","typing":"1.112s"}
+{"cluster":"cluster_2","delay":"483ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:31:09+05:30","typing":"811ms"}
+{"cluster":"cluster_2","delay":"197ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:31:12+05:30","typing":"1.525s"}
+{"cluster":"cluster_2","delay":"400ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:31:16+05:30","typing":"1.178s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:31:29+05:30"}
+{"cluster":"cluster_2","delay":"413ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:31:29+05:30","typing":"993ms"}
+{"cluster":"cluster_2","delay":"149ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:31:32+05:30","typing":"1.148s"}
+{"cluster":"cluster_2","delay":"347ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:31:34+05:30","typing":"1.53s"}
+{"cluster":"cluster_2","delay":"288ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:31:38+05:30","typing":"1.541s"}
+{"cluster":"cluster_2","delay":"419ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:31:41+05:30","typing":"952ms"}
+{"cluster":"cluster_2","delay":"325ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:31:43+05:30","typing":"1.295s"}
+{"cluster":"cluster_2","delay":"142ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:31:47+05:30","typing":"1.186s"}
+{"cluster":"cluster_2","delay":"190ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:31:49+05:30","typing":"1.485s"}
+{"cluster":"cluster_2","delay":"299ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:31:53+05:30","typing":"866ms"}
+{"cluster":"cluster_2","delay":"243ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:31:57+05:30","typing":"1.12s"}
+{"cluster":"cluster_2","delay":"210ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:31:59+05:30","typing":"1.479s"}
+{"cluster":"cluster_2","delay":"104ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:32:03+05:30","typing":"911ms"}
+{"cluster":"cluster_2","delay":"243ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:32:06+05:30","typing":"1.502s"}
+{"cluster":"cluster_2","delay":"122ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:32:10+05:30","typing":"1.458s"}
+{"cluster":"cluster_2","delay":"160ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:32:13+05:30","typing":"1.006s"}
+{"cluster":"cluster_2","delay":"456ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:32:19+05:30","typing":"1.518s"}
+{"cluster":"cluster_2","delay":"246ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:32:23+05:30","typing":"1.143s"}
+{"cluster":"cluster_2","delay":"211ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:32:25+05:30","typing":"1.197s"}
+{"cluster":"cluster_2","delay":"333ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:32:29+05:30","typing":"1.15s"}
+{"cluster":"cluster_2","delay":"480ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:32:32+05:30","typing":"1.574s"}
+{"cluster":"cluster_2","delay":"257ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:32:36+05:30","typing":"1.383s"}
+{"cluster":"cluster_2","delay":"463ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:32:39+05:30","typing":"1.093s"}
+{"cluster":"cluster_2","delay":"297ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:32:41+05:30","typing":"870ms"}
+{"cluster":"cluster_2","delay":"333ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:32:45+05:30","typing":"897ms"}
+{"cluster":"cluster_2","delay":"298ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:32:48+05:30","typing":"1.463s"}
+{"cluster":"cluster_2","delay":"272ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:32:52+05:30","typing":"940ms"}
+{"cluster":"cluster_2","delay":"264ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:32:58+05:30","typing":"1.473s"}
+{"cluster":"cluster_2","delay":"422ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:33:02+05:30","typing":"979ms"}
+{"cluster":"cluster_2","delay":"466ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:33:05+05:30","typing":"1.335s"}
+{"cluster":"cluster_2","delay":"108ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:33:08+05:30","typing":"1.564s"}
+{"cluster":"cluster_2","delay":"111ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:33:12+05:30","typing":"1.339s"}
+{"cluster":"cluster_2","delay":"362ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:33:15+05:30","typing":"1.152s"}
+{"cluster":"cluster_2","delay":"477ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:33:18+05:30","typing":"1.004s"}
+{"cluster":"cluster_2","delay":"399ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:33:22+05:30","typing":"1.167s"}
+{"cluster":"cluster_2","delay":"239ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:33:24+05:30","typing":"1.449s"}
+{"cluster":"cluster_2","delay":"363ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:33:29+05:30","typing":"901ms"}
+{"cluster":"cluster_2","delay":"312ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:33:32+05:30","typing":"1.168s"}
+{"cluster":"cluster_2","delay":"246ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:33:34+05:30","typing":"1.488s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls trivia","time":"2022-07-29T16:33:48+05:30"}
+{"cluster":"cluster_2","delay":"353ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:33:49+05:30","typing":"1.44s"}
+{"cluster":"cluster_2","delay":"260ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:33:53+05:30","typing":"998ms"}
+{"cluster":"cluster_2","delay":"159ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:33:55+05:30","typing":"1.282s"}
+{"cluster":"cluster_2","delay":"154ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:33:58+05:30","typing":"1.505s"}
+{"cluster":"cluster_2","delay":"137ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:34:02+05:30","typing":"962ms"}
+{"cluster":"cluster_2","delay":"176ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:34:05+05:30","typing":"1.214s"}
+{"cluster":"cluster_2","delay":"283ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:34:08+05:30","typing":"1.242s"}
+{"cluster":"cluster_2","delay":"308ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:34:10+05:30","typing":"1.546s"}
+{"cluster":"cluster_2","delay":"152ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:34:14+05:30","typing":"1.081s"}
+{"cluster":"cluster_2","delay":"488ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:34:17+05:30","typing":"854ms"}
+{"cluster":"cluster_2","delay":"289ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:34:20+05:30","typing":"1.39s"}
+{"cluster":"cluster_2","delay":"303ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:34:23+05:30","typing":"1.42s"}
+{"cluster":"cluster_2","delay":"463ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:34:32+05:30","typing":"1.102s"}
+{"cluster":"cluster_2","delay":"381ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:34:34+05:30","typing":"1.412s"}
+{"cluster":"cluster_2","delay":"351ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:34:38+05:30","typing":"1.426s"}
+{"cluster":"cluster_2","delay":"120ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:34:41+05:30","typing":"928ms"}
+{"cluster":"cluster_2","delay":"107ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:34:45+05:30","typing":"1.459s"}
+{"cluster":"cluster_2","delay":"231ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:34:48+05:30","typing":"1.075s"}
+{"cluster":"cluster_2","delay":"428ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:34:51+05:30","typing":"1.074s"}
+{"cluster":"cluster_2","delay":"469ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:34:53+05:30","typing":"1.506s"}
+{"cluster":"cluster_2","delay":"248ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:34:57+05:30","typing":"1.025s"}
+{"cluster":"cluster_2","delay":"263ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:34:59+05:30","typing":"1.396s"}
+{"cluster":"cluster_2","delay":"374ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:35:02+05:30","typing":"901ms"}
+{"cluster":"cluster_2","delay":"418ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:35:08+05:30","typing":"1.528s"}
+{"cluster":"cluster_2","delay":"183ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:35:12+05:30","typing":"1.02s"}
+{"cluster":"cluster_2","delay":"398ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:35:15+05:30","typing":"988ms"}
+{"cluster":"cluster_2","delay":"459ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:35:18+05:30","typing":"1.392s"}
+{"cluster":"cluster_2","delay":"364ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:35:22+05:30","typing":"1.417s"}
+{"cluster":"cluster_2","delay":"443ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:35:25+05:30","typing":"1.425s"}
+{"cluster":"cluster_2","delay":"257ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:35:28+05:30","typing":"1.076s"}
+{"cluster":"cluster_2","delay":"239ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:35:31+05:30","typing":"1.25s"}
+{"cluster":"cluster_2","delay":"305ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:35:34+05:30","typing":"1.449s"}
+{"cluster":"cluster_2","delay":"487ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:35:37+05:30","typing":"1.018s"}
+{"cluster":"cluster_2","delay":"149ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:35:44+05:30","typing":"1.53s"}
+{"cluster":"cluster_2","delay":"333ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:35:47+05:30","typing":"842ms"}
+{"cluster":"cluster_2","delay":"210ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:35:50+05:30","typing":"917ms"}
+{"cluster":"cluster_2","delay":"304ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:35:54+05:30","typing":"955ms"}
+{"cluster":"cluster_2","delay":"398ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:35:56+05:30","typing":"1.526s"}
+{"cluster":"cluster_2","delay":"140ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:35:59+05:30","typing":"1.399s"}
+{"cluster":"cluster_2","delay":"165ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:36:03+05:30","typing":"1.355s"}
+{"cluster":"cluster_2","delay":"372ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:36:06+05:30","typing":"1.539s"}
+{"cluster":"cluster_2","delay":"195ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:36:09+05:30","typing":"1.186s"}
+{"cluster":"cluster_2","delay":"383ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:36:12+05:30","typing":"1.254s"}
+{"cluster":"cluster_2","delay":"438ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:36:15+05:30","typing":"1.444s"}
+{"cluster":"cluster_2","delay":"256ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:36:19+05:30","typing":"1.053s"}
+{"cluster":"cluster_2","delay":"238ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:36:23+05:30","typing":"985ms"}
+{"cluster":"cluster_2","delay":"413ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:36:27+05:30","typing":"1.422s"}
+{"cluster":"cluster_2","delay":"407ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:36:30+05:30","typing":"1.394s"}
+{"cluster":"cluster_2","delay":"402ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:36:34+05:30","typing":"840ms"}
+{"cluster":"cluster_2","delay":"257ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:36:37+05:30","typing":"1.109s"}
+{"cluster":"cluster_2","delay":"271ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:36:39+05:30","typing":"1.53s"}
+{"cluster":"cluster_2","delay":"159ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:36:43+05:30","typing":"1.411s"}
+{"cluster":"cluster_2","delay":"222ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:36:49+05:30","typing":"1.291s"}
+{"cluster":"cluster_2","delay":"279ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:36:51+05:30","typing":"1.501s"}
+{"cluster":"cluster_2","delay":"325ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:36:55+05:30","typing":"1.301s"}
+{"cluster":"cluster_2","delay":"438ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:36:58+05:30","typing":"893ms"}
+{"cluster":"cluster_2","delay":"171ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:37:01+05:30","typing":"1.091s"}
+{"cluster":"cluster_2","delay":"338ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:37:03+05:30","typing":"1.485s"}
+{"cluster":"cluster_2","delay":"471ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:37:09+05:30","typing":"1.51s"}
+{"cluster":"cluster_2","delay":"480ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:37:16+05:30","typing":"1.061s"}
+{"cluster":"cluster_2","delay":"176ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:37:19+05:30","typing":"836ms"}
+{"cluster":"cluster_2","delay":"285ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:37:22+05:30","typing":"1.382s"}
+{"cluster":"cluster_2","delay":"498ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:37:25+05:30","typing":"1.223s"}
+{"cluster":"cluster_2","delay":"348ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:37:28+05:30","typing":"1.188s"}
+{"cluster":"cluster_2","delay":"187ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:37:31+05:30","typing":"1.439s"}
+{"cluster":"cluster_2","delay":"453ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:37:36+05:30","typing":"872ms"}
+{"cluster":"cluster_2","delay":"319ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:37:41+05:30","typing":"1.57s"}
+{"cluster":"cluster_2","delay":"499ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:37:45+05:30","typing":"1.075s"}
+{"cluster":"cluster_2","delay":"355ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:37:48+05:30","typing":"958ms"}
+{"cluster":"cluster_2","delay":"185ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:37:52+05:30","typing":"1.382s"}
+{"cluster":"cluster_2","delay":"181ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:37:56+05:30","typing":"1.018s"}
+{"cluster":"cluster_2","delay":"213ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:38:01+05:30","typing":"1.359s"}
+{"cluster":"cluster_2","delay":"367ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:38:05+05:30","typing":"837ms"}
+{"cluster":"cluster_2","delay":"201ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:38:07+05:30","typing":"1.243s"}
+{"cluster":"cluster_2","delay":"444ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:38:11+05:30","typing":"1.177s"}
+{"cluster":"cluster_2","delay":"211ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:38:13+05:30","typing":"1.466s"}
+{"cluster":"cluster_2","delay":"371ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:38:16+05:30","typing":"1.027s"}
+{"cluster":"cluster_2","delay":"492ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:38:20+05:30","typing":"1.365s"}
+{"cluster":"cluster_2","delay":"307ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:38:24+05:30","typing":"1.223s"}
+{"cluster":"cluster_2","delay":"338ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:38:27+05:30","typing":"987ms"}
+{"cluster":"cluster_2","delay":"372ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:38:29+05:30","typing":"1.434s"}
+{"cluster":"cluster_2","delay":"454ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:38:35+05:30","typing":"1.043s"}
+{"cluster":"cluster_2","delay":"144ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:38:39+05:30","typing":"1.446s"}
+{"cluster":"cluster_2","delay":"149ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:38:43+05:30","typing":"1.393s"}
+{"cluster":"cluster_2","delay":"296ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:38:46+05:30","typing":"1.403s"}
+{"cluster":"cluster_2","delay":"447ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:38:50+05:30","typing":"914ms"}
+{"cluster":"cluster_2","delay":"246ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:38:52+05:30","typing":"1.548s"}
+{"cluster":"cluster_2","delay":"177ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:38:56+05:30","typing":"1.136s"}
+{"cluster":"cluster_2","delay":"132ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:38:59+05:30","typing":"1s"}
+{"cluster":"cluster_2","delay":"362ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:39:02+05:30","typing":"1.421s"}
+{"cluster":"cluster_2","delay":"171ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:39:06+05:30","typing":"1.178s"}
+{"cluster":"cluster_2","delay":"446ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:39:08+05:30","typing":"1.045s"}
+{"cluster":"cluster_2","delay":"122ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:39:12+05:30","typing":"1.427s"}
+{"cluster":"cluster_2","delay":"178ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:39:15+05:30","typing":"1.521s"}
+{"cluster":"cluster_2","delay":"185ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:39:19+05:30","typing":"1.073s"}
+{"cluster":"cluster_2","delay":"408ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:39:22+05:30","typing":"1.44s"}
+{"cluster":"cluster_2","delay":"480ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:39:26+05:30","typing":"1.344s"}
+{"cluster":"cluster_2","delay":"353ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:39:31+05:30","typing":"1.433s"}
+{"cluster":"cluster_2","delay":"430ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:39:35+05:30","typing":"975ms"}
+{"cluster":"cluster_2","delay":"192ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:39:38+05:30","typing":"868ms"}
+{"cluster":"cluster_2","delay":"325ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:39:41+05:30","typing":"1.221s"}
+{"cluster":"cluster_2","delay":"177ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:39:44+05:30","typing":"1.378s"}
+{"cluster":"cluster_2","delay":"351ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:39:48+05:30","typing":"1.311s"}
+{"cluster":"cluster_2","delay":"251ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:39:50+05:30","typing":"1.389s"}
+{"cluster":"cluster_2","delay":"156ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:39:54+05:30","typing":"1.061s"}
+{"cluster":"cluster_2","delay":"327ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:39:56+05:30","typing":"1.497s"}
+{"cluster":"cluster_2","delay":"266ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:39:59+05:30","typing":"1.012s"}
+{"cluster":"cluster_2","delay":"104ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:40:05+05:30","typing":"1.257s"}
+{"cluster":"cluster_2","delay":"189ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:40:09+05:30","typing":"1.335s"}
+{"cluster":"cluster_2","delay":"486ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:40:12+05:30","typing":"954ms"}
+{"cluster":"cluster_2","delay":"100ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:40:18+05:30","typing":"1.397s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls trivia","time":"2022-07-29T16:40:31+05:30"}
+{"cluster":"cluster_2","delay":"146ms","instance":"Cath#6981","level":"info","msg":"sending command: pls use horse","time":"2022-07-29T16:40:32+05:30","typing":"1.73s"}
+{"cluster":"cluster_2","delay":"242ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:40:34+05:30","typing":"1.422s"}
+{"cluster":"cluster_2","delay":"492ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:40:38+05:30","typing":"1.096s"}
+{"cluster":"cluster_2","delay":"430ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:40:40+05:30","typing":"937ms"}
+{"cluster":"cluster_2","delay":"130ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:40:43+05:30","typing":"1.26s"}
+{"cluster":"cluster_2","delay":"419ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:40:46+05:30","typing":"1.417s"}
+{"cluster":"cluster_2","delay":"460ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:40:49+05:30","typing":"1.091s"}
+{"cluster":"cluster_2","delay":"137ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:40:51+05:30","typing":"1.082s"}
+{"cluster":"cluster_2","delay":"130ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:40:53+05:30","typing":"1.42s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"error while clicking button: you are being rate limited, try waiting some time and trying again","time":"2022-07-29T16:41:01+05:30"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"info","msg":"sleeping for 20 seconds","time":"2022-07-29T16:41:01+05:30"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:41:32+05:30"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:41:43+05:30"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:41:54+05:30"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"websocket closed: websocket: close 1001 (going away): Discord WebSocket requesting client reconnect.","time":"2022-07-29T16:42:04+05:30"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:42:05+05:30"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"info","msg":"reconnected to websocket","time":"2022-07-29T16:42:06+05:30"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:42:16+05:30"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:42:27+05:30"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:42:37+05:30"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:42:48+05:30"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:42:59+05:30"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:43:10+05:30"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:43:21+05:30"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:43:32+05:30"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:43:43+05:30"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:43:54+05:30"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:44:05+05:30"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:44:15+05:30"}
+{"cluster":"cluster_2","delay":"254ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:44:15+05:30","typing":"1.031s"}
+{"cluster":"cluster_2","delay":"408ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:44:18+05:30","typing":"1.343s"}
+{"cluster":"cluster_2","delay":"250ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:44:22+05:30","typing":"1.411s"}
+{"cluster":"cluster_2","delay":"194ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:44:25+05:30","typing":"1.19s"}
+{"cluster":"cluster_2","delay":"373ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:44:28+05:30","typing":"1.123s"}
+{"cluster":"cluster_2","delay":"229ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:44:30+05:30","typing":"846ms"}
+{"cluster":"cluster_2","delay":"426ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:44:33+05:30","typing":"1.011s"}
+{"cluster":"cluster_2","delay":"118ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:44:35+05:30","typing":"1.156s"}
+{"cluster":"cluster_2","delay":"371ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:44:38+05:30","typing":"1.303s"}
+{"cluster":"cluster_2","delay":"490ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:44:41+05:30","typing":"1.369s"}
+{"cluster":"cluster_2","delay":"154ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:44:49+05:30","typing":"967ms"}
+{"cluster":"cluster_2","delay":"391ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:44:52+05:30","typing":"1.356s"}
+{"cluster":"cluster_2","delay":"200ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:44:56+05:30","typing":"1.507s"}
+{"cluster":"cluster_2","delay":"443ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:45:02+05:30","typing":"1.535s"}
+{"cluster":"cluster_2","delay":"390ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:45:05+05:30","typing":"1.279s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:45:19+05:30"}
+{"cluster":"cluster_2","delay":"413ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:45:19+05:30","typing":"1.207s"}
+{"cluster":"cluster_2","delay":"133ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:45:21+05:30","typing":"1.496s"}
+{"cluster":"cluster_2","delay":"442ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:45:24+05:30","typing":"1.089s"}
+{"cluster":"cluster_2","delay":"107ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:45:27+05:30","typing":"1.016s"}
+{"cluster":"cluster_2","delay":"183ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:45:29+05:30","typing":"1.092s"}
+{"cluster":"cluster_2","delay":"475ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:45:32+05:30","typing":"1.417s"}
+{"cluster":"cluster_2","delay":"442ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:45:35+05:30","typing":"999ms"}
+{"cluster":"cluster_2","delay":"225ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:45:38+05:30","typing":"1.414s"}
+{"cluster":"cluster_2","delay":"317ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:45:42+05:30","typing":"1.493s"}
+{"cluster":"cluster_2","delay":"372ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:45:46+05:30","typing":"1.211s"}
+{"cluster":"cluster_2","delay":"445ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:45:52+05:30","typing":"1.574s"}
+{"cluster":"cluster_2","delay":"427ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:45:58+05:30","typing":"1.303s"}
+{"cluster":"cluster_2","delay":"445ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:46:01+05:30","typing":"1.492s"}
+{"cluster":"cluster_2","delay":"183ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:46:05+05:30","typing":"1.114s"}
+{"cluster":"cluster_2","delay":"199ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:46:08+05:30","typing":"1.516s"}
+{"cluster":"cluster_2","delay":"221ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:46:11+05:30","typing":"1.027s"}
+{"cluster":"cluster_2","delay":"326ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:46:13+05:30","typing":"1.028s"}
+{"cluster":"cluster_2","delay":"484ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:46:16+05:30","typing":"947ms"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:46:29+05:30"}
+{"cluster":"cluster_2","delay":"441ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:46:29+05:30","typing":"1.387s"}
+{"cluster":"cluster_2","delay":"109ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:46:36+05:30","typing":"1.237s"}
+{"cluster":"cluster_2","delay":"357ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:46:39+05:30","typing":"1.091s"}
+{"cluster":"cluster_2","delay":"400ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:46:41+05:30","typing":"1.126s"}
+{"cluster":"cluster_2","delay":"244ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:46:44+05:30","typing":"1.421s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"error while clicking button: error while getting cookies: error while getting response from cookie request Get \"https://discord.com\": read tcp 192.168.1.4:60167-\u003e162.159.137.232:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.","time":"2022-07-29T16:47:08+05:30"}
+{"cluster":"cluster_2","delay":"410ms","instance":"Cath#6981","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:47:08+05:30","typing":"1.482s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"error while sending message: error while sending http request: Post \"https://discord.com/api/v9/channels/1002485430425501756/typing\": dial tcp: lookup discord.com: no such host","time":"2022-07-29T16:47:12+05:30"}
+{"cluster":"cluster_2","delay":"207ms","instance":"Cath#6981","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:47:12+05:30","typing":"1.099s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"websocket closed: read tcp 192.168.1.4:49937-\u003e162.159.130.234:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.","time":"2022-07-29T16:47:16+05:30"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"error while sending message: error while sending http request: Post \"https://discord.com/api/v9/channels/1002485430425501756/typing\": dial tcp: lookup discord.com: no such host","time":"2022-07-29T16:47:18+05:30"}
+{"cluster":"cluster_2","delay":"168ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:47:18+05:30","typing":"818ms"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"instance fatal: error while connecting to websocket: error while establishing websocket connection: dial tcp: lookup gateway.discord.gg: no such host","time":"2022-07-29T16:47:20+05:30"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"error while sending message: error while sending http request: Post \"https://discord.com/api/v9/channels/1002485430425501756/typing\": dial tcp: lookup discord.com: no such host","time":"2022-07-29T16:47:24+05:30"}
+{"cluster":"cluster_2","delay":"102ms","instance":"Cath#6981","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:47:24+05:30","typing":"1.039s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"error while sending message: error while sending http request: Post \"https://discord.com/api/v9/channels/1002485430425501756/typing\": dial tcp: lookup discord.com: no such host","time":"2022-07-29T16:47:30+05:30"}
+{"cluster":"cluster_2","delay":"448ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:47:30+05:30","typing":"998ms"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:48:08+05:30"}
+{"cluster":"cluster_2","delay":"366ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:48:08+05:30","typing":"1.544s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T16:48:21+05:30"}
+{"cluster":"cluster_2","delay":"123ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:48:21+05:30","typing":"1.205s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T16:48:33+05:30"}
+{"cluster":"cluster_2","delay":"413ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:48:33+05:30","typing":"1.264s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:48:45+05:30"}
+{"cluster":"cluster_2","delay":"198ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:48:45+05:30","typing":"1.279s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:48:58+05:30"}
+{"cluster":"cluster_2","delay":"206ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:48:58+05:30","typing":"1.41s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T16:49:11+05:30"}
+{"cluster":"cluster_2","delay":"154ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:49:11+05:30","typing":"912ms"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:49:22+05:30"}
+{"cluster":"cluster_2","delay":"426ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:49:23+05:30","typing":"1.322s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T16:49:35+05:30"}
+{"cluster":"cluster_2","delay":"470ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:49:35+05:30","typing":"1.138s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:49:47+05:30"}
+{"cluster":"cluster_2","delay":"454ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:49:47+05:30","typing":"1.277s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:49:59+05:30"}
+{"cluster":"cluster_2","delay":"392ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:49:59+05:30","typing":"1.485s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T16:50:12+05:30"}
+{"cluster":"cluster_2","delay":"390ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:50:12+05:30","typing":"863ms"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:50:24+05:30"}
+{"cluster":"cluster_2","delay":"238ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:50:24+05:30","typing":"1.414s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T16:50:36+05:30"}
+{"cluster":"cluster_2","delay":"475ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:50:36+05:30","typing":"1.069s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:50:48+05:30"}
+{"cluster":"cluster_2","delay":"356ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:50:48+05:30","typing":"1.191s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:51:02+05:30"}
+{"cluster":"cluster_2","delay":"111ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:51:02+05:30","typing":"1.369s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T16:51:14+05:30"}
+{"cluster":"cluster_2","delay":"460ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:51:14+05:30","typing":"955ms"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:51:26+05:30"}
+{"cluster":"cluster_2","delay":"104ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:51:26+05:30","typing":"1.296s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T16:51:38+05:30"}
+{"cluster":"cluster_2","delay":"253ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:51:38+05:30","typing":"1.191s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:51:50+05:30"}
+{"cluster":"cluster_2","delay":"417ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:51:50+05:30","typing":"1.267s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:52:03+05:30"}
+{"cluster":"cluster_2","delay":"384ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:52:03+05:30","typing":"1.517s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T16:52:15+05:30"}
+{"cluster":"cluster_2","delay":"315ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:52:15+05:30","typing":"860ms"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:52:27+05:30"}
+{"cluster":"cluster_2","delay":"137ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:52:27+05:30","typing":"1.32s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T16:52:40+05:30"}
+{"cluster":"cluster_2","delay":"260ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:52:40+05:30","typing":"1.252s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:52:52+05:30"}
+{"cluster":"cluster_2","delay":"115ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:52:52+05:30","typing":"1.234s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:53:05+05:30"}
+{"cluster":"cluster_2","delay":"129ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:53:05+05:30","typing":"1.423s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T16:53:17+05:30"}
+{"cluster":"cluster_2","delay":"245ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:53:17+05:30","typing":"970ms"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:53:29+05:30"}
+{"cluster":"cluster_2","delay":"439ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:53:29+05:30","typing":"1.338s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T16:53:41+05:30"}
+{"cluster":"cluster_2","delay":"108ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:53:41+05:30","typing":"1.126s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:53:54+05:30"}
+{"cluster":"cluster_2","delay":"105ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:53:54+05:30","typing":"1.237s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:54:06+05:30"}
+{"cluster":"cluster_2","delay":"310ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:54:06+05:30","typing":"1.396s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T16:54:18+05:30"}
+{"cluster":"cluster_2","delay":"400ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:54:18+05:30","typing":"824ms"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:54:30+05:30"}
+{"cluster":"cluster_2","delay":"318ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:54:30+05:30","typing":"1.361s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T16:54:43+05:30"}
+{"cluster":"cluster_2","delay":"127ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:54:43+05:30","typing":"1.216s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:54:55+05:30"}
+{"cluster":"cluster_2","delay":"229ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:54:55+05:30","typing":"1.237s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:55:07+05:30"}
+{"cluster":"cluster_2","delay":"408ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:55:07+05:30","typing":"1.407s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T16:55:19+05:30"}
+{"cluster":"cluster_2","delay":"179ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:55:19+05:30","typing":"912ms"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:55:31+05:30"}
+{"cluster":"cluster_2","delay":"141ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:55:31+05:30","typing":"1.206s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T16:55:44+05:30"}
+{"cluster":"cluster_2","delay":"473ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:55:44+05:30","typing":"1.126s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:55:56+05:30"}
+{"cluster":"cluster_2","delay":"489ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:55:56+05:30","typing":"1.281s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:56:08+05:30"}
+{"cluster":"cluster_2","delay":"330ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:56:08+05:30","typing":"1.489s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T16:56:21+05:30"}
+{"cluster":"cluster_2","delay":"119ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:56:21+05:30","typing":"973ms"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:56:32+05:30"}
+{"cluster":"cluster_2","delay":"195ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:56:32+05:30","typing":"1.388s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T16:56:45+05:30"}
+{"cluster":"cluster_2","delay":"128ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:56:45+05:30","typing":"1.125s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:56:57+05:30"}
+{"cluster":"cluster_2","delay":"345ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:56:57+05:30","typing":"1.065s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:57:09+05:30"}
+{"cluster":"cluster_2","delay":"204ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:57:09+05:30","typing":"1.548s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T16:57:22+05:30"}
+{"cluster":"cluster_2","delay":"208ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:57:22+05:30","typing":"1.037s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:57:34+05:30"}
+{"cluster":"cluster_2","delay":"464ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:57:34+05:30","typing":"1.445s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T16:57:46+05:30"}
+{"cluster":"cluster_2","delay":"290ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:57:46+05:30","typing":"1.22s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:57:59+05:30"}
+{"cluster":"cluster_2","delay":"291ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:57:59+05:30","typing":"1.099s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:58:11+05:30"}
+{"cluster":"cluster_2","delay":"386ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:58:11+05:30","typing":"1.452s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T16:58:23+05:30"}
+{"cluster":"cluster_2","delay":"440ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:58:23+05:30","typing":"1.031s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:58:35+05:30"}
+{"cluster":"cluster_2","delay":"459ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:58:35+05:30","typing":"1.276s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T16:58:47+05:30"}
+{"cluster":"cluster_2","delay":"109ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:58:47+05:30","typing":"1.153s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:58:59+05:30"}
+{"cluster":"cluster_2","delay":"468ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:58:59+05:30","typing":"1.253s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:59:12+05:30"}
+{"cluster":"cluster_2","delay":"406ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:59:12+05:30","typing":"1.484s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T16:59:24+05:30"}
+{"cluster":"cluster_2","delay":"377ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:59:24+05:30","typing":"885ms"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:59:36+05:30"}
+{"cluster":"cluster_2","delay":"153ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:59:36+05:30","typing":"1.249s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T16:59:48+05:30"}
+{"cluster":"cluster_2","delay":"250ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:59:48+05:30","typing":"1.111s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:00:01+05:30"}
+{"cluster":"cluster_2","delay":"171ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T17:00:01+05:30","typing":"1.165s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T17:00:13+05:30"}
+{"cluster":"cluster_2","delay":"292ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T17:00:13+05:30","typing":"1.469s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T17:00:25+05:30"}
+{"cluster":"cluster_2","delay":"334ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:00:25+05:30","typing":"1.028s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:00:37+05:30"}
+{"cluster":"cluster_2","delay":"496ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T17:00:37+05:30","typing":"1.357s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T17:00:50+05:30"}
+{"cluster":"cluster_2","delay":"460ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:00:50+05:30","typing":"1.214s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:01:02+05:30"}
+{"cluster":"cluster_2","delay":"186ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T17:01:02+05:30","typing":"1.097s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T17:01:14+05:30"}
+{"cluster":"cluster_2","delay":"119ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T17:01:14+05:30","typing":"1.449s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T17:01:26+05:30"}
+{"cluster":"cluster_2","delay":"387ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:01:26+05:30","typing":"965ms"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:01:39+05:30"}
+{"cluster":"cluster_2","delay":"425ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T17:01:39+05:30","typing":"1.361s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T17:01:51+05:30"}
+{"cluster":"cluster_2","delay":"445ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:01:51+05:30","typing":"1.109s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:02:03+05:30"}
+{"cluster":"cluster_2","delay":"330ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T17:02:03+05:30","typing":"1.26s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T17:02:15+05:30"}
+{"cluster":"cluster_2","delay":"375ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T17:02:15+05:30","typing":"1.336s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T17:02:28+05:30"}
+{"cluster":"cluster_2","delay":"108ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:02:28+05:30","typing":"931ms"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:02:40+05:30"}
+{"cluster":"cluster_2","delay":"453ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T17:02:40+05:30","typing":"1.291s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T17:02:52+05:30"}
+{"cluster":"cluster_2","delay":"238ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:02:52+05:30","typing":"1.065s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:03:04+05:30"}
+{"cluster":"cluster_2","delay":"386ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T17:03:04+05:30","typing":"1.174s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T17:03:16+05:30"}
+{"cluster":"cluster_2","delay":"186ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T17:03:16+05:30","typing":"1.558s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T17:03:29+05:30"}
+{"cluster":"cluster_2","delay":"132ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:03:29+05:30","typing":"893ms"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:03:41+05:30"}
+{"cluster":"cluster_2","delay":"493ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T17:03:41+05:30","typing":"1.423s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T17:03:54+05:30"}
+{"cluster":"cluster_2","delay":"222ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:03:54+05:30","typing":"1.303s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:04:06+05:30"}
+{"cluster":"cluster_2","delay":"200ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T17:04:06+05:30","typing":"1.301s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T17:04:18+05:30"}
+{"cluster":"cluster_2","delay":"304ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T17:04:18+05:30","typing":"1.411s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T17:04:31+05:30"}
+{"cluster":"cluster_2","delay":"483ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:04:31+05:30","typing":"831ms"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:04:42+05:30"}
+{"cluster":"cluster_2","delay":"391ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T17:04:42+05:30","typing":"1.342s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T17:04:55+05:30"}
+{"cluster":"cluster_2","delay":"460ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:04:55+05:30","typing":"1.297s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:05:07+05:30"}
+{"cluster":"cluster_2","delay":"473ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T17:05:07+05:30","typing":"1.192s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T17:05:19+05:30"}
+{"cluster":"cluster_2","delay":"241ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T17:05:19+05:30","typing":"1.453s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T17:05:32+05:30"}
+{"cluster":"cluster_2","delay":"121ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:05:32+05:30","typing":"979ms"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:05:44+05:30"}
+{"cluster":"cluster_2","delay":"255ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T17:05:44+05:30","typing":"1.425s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T17:05:56+05:30"}
+{"cluster":"cluster_2","delay":"375ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:05:56+05:30","typing":"1.122s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:06:09+05:30"}
+{"cluster":"cluster_2","delay":"332ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T17:06:09+05:30","typing":"1.189s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T17:06:21+05:30"}
+{"cluster":"cluster_2","delay":"174ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T17:06:21+05:30","typing":"1.396s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T17:06:33+05:30"}
+{"cluster":"cluster_2","delay":"149ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:06:33+05:30","typing":"926ms"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:06:45+05:30"}
+{"cluster":"cluster_2","delay":"360ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T17:06:45+05:30","typing":"1.226s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T17:06:57+05:30"}
+{"cluster":"cluster_2","delay":"107ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:06:57+05:30","typing":"1.079s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:07:09+05:30"}
+{"cluster":"cluster_2","delay":"123ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T17:07:09+05:30","typing":"1.064s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T17:07:22+05:30"}
+{"cluster":"cluster_2","delay":"289ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T17:07:22+05:30","typing":"1.53s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T17:07:34+05:30"}
+{"cluster":"cluster_2","delay":"226ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:07:34+05:30","typing":"944ms"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:07:46+05:30"}
+{"cluster":"cluster_2","delay":"104ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T17:07:46+05:30","typing":"1.283s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T17:07:58+05:30"}
+{"cluster":"cluster_2","delay":"207ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:07:58+05:30","typing":"1.216s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:08:10+05:30"}
+{"cluster":"cluster_2","delay":"116ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T17:08:10+05:30","typing":"1.243s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T17:08:23+05:30"}
+{"cluster":"cluster_2","delay":"188ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T17:08:23+05:30","typing":"1.42s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T17:08:35+05:30"}
+{"cluster":"cluster_2","delay":"452ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:08:35+05:30","typing":"959ms"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:08:47+05:30"}
+{"cluster":"cluster_2","delay":"373ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T17:08:47+05:30","typing":"1.375s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T17:08:59+05:30"}
+{"cluster":"cluster_2","delay":"339ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:08:59+05:30","typing":"1.218s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:09:12+05:30"}
+{"cluster":"cluster_2","delay":"181ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T17:09:12+05:30","typing":"1.205s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T17:09:24+05:30"}
+{"cluster":"cluster_2","delay":"360ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T17:09:24+05:30","typing":"1.397s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T17:09:37+05:30"}
+{"cluster":"cluster_2","delay":"241ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:09:37+05:30","typing":"901ms"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:09:48+05:30"}
+{"cluster":"cluster_2","delay":"451ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T17:09:48+05:30","typing":"1.27s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T17:10:01+05:30"}
+{"cluster":"cluster_2","delay":"229ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:10:01+05:30","typing":"1.227s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:10:13+05:30"}
+{"cluster":"cluster_2","delay":"248ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T17:10:13+05:30","typing":"1.115s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T17:10:25+05:30"}
+{"cluster":"cluster_2","delay":"320ms","instance":"Cath#6981","level":"info","msg":"sending command: pls search","time":"2022-07-29T17:10:25+05:30","typing":"1.503s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T17:10:37+05:30"}
+{"cluster":"cluster_2","delay":"255ms","instance":"Cath#6981","level":"info","msg":"sending command: pls work","time":"2022-07-29T17:10:37+05:30","typing":"1.294s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls work","time":"2022-07-29T17:10:50+05:30"}
+{"cluster":"cluster_2","delay":"454ms","instance":"Cath#6981","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:10:50+05:30","typing":"934ms"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:11:02+05:30"}
+{"cluster":"cluster_2","delay":"415ms","instance":"Cath#6981","level":"info","msg":"sending command: pls crime","time":"2022-07-29T17:11:02+05:30","typing":"1.199s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T17:11:14+05:30"}
+{"cluster":"cluster_2","delay":"289ms","instance":"Cath#6981","level":"info","msg":"sending command: pls use horse","time":"2022-07-29T17:11:14+05:30","typing":"1.854s"}
+{"cluster":"cluster_2","delay":"233ms","instance":"Cath#6981","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:11:17+05:30","typing":"1.209s"}
+{"cluster":"cluster_2","instance":"Cath#6981","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:11:30+05:30"}
+{"cluster":"cluster_2","delay":"458ms","instance":"Cath#6981","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T17:11:30+05:30","typing":"1.19s"}

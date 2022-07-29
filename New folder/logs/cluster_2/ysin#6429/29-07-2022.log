@@ -1,0 +1,849 @@
+{"cluster":"cluster_2","duration":30000000000,"instance":"Ysin#6429","level":"info","msg":"starting shift 1","state":"dormant","time":"2022-07-29T16:03:52+05:30"}
+{"cluster":"cluster_2","duration":11255000000000,"instance":"Ysin#6429","level":"info","msg":"starting shift 2","state":"active","time":"2022-07-29T16:04:22+05:30"}
+{"cluster":"cluster_2","delay":"209ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:04:25+05:30","typing":"1.094s"}
+{"cluster":"cluster_2","delay":"126ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:04:27+05:30","typing":"868ms"}
+{"cluster":"cluster_2","delay":"249ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:04:30+05:30","typing":"1.366s"}
+{"cluster":"cluster_2","delay":"170ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:04:34+05:30","typing":"1.245s"}
+{"cluster":"cluster_2","delay":"231ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:04:37+05:30","typing":"908ms"}
+{"cluster":"cluster_2","delay":"415ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:04:39+05:30","typing":"1.279s"}
+{"cluster":"cluster_2","delay":"321ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:04:42+05:30","typing":"1.216s"}
+{"cluster":"cluster_2","delay":"190ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:04:44+05:30","typing":"1.036s"}
+{"cluster":"cluster_2","delay":"428ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls work","time":"2022-07-29T16:04:46+05:30","typing":"1.064s"}
+{"cluster":"cluster_2","delay":"123ms","instance":"Ysin#6429","level":"info","msg":"Instance promoted, working: pls work","time":"2022-07-29T16:04:49+05:30","typing":"1.229s"}
+{"cluster":"cluster_2","delay":"217ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:04:51+05:30","typing":"1.451s"}
+{"cluster":"cluster_2","delay":"490ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls use horse","time":"2022-07-29T16:04:54+05:30","typing":"1.871s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:05:11+05:30"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:05:27+05:30"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:05:37+05:30"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:05:48+05:30"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:05:59+05:30"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:06:10+05:30"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:06:21+05:30"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:06:32+05:30"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:06:43+05:30"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:06:54+05:30"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:07:04+05:30"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:07:15+05:30"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:07:26+05:30"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:07:37+05:30"}
+{"cluster":"cluster_2","delay":"423ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:07:37+05:30","typing":"1.349s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T16:07:50+05:30"}
+{"cluster":"cluster_2","delay":"217ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:07:50+05:30","typing":"1.537s"}
+{"cluster":"cluster_2","delay":"175ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:07:56+05:30","typing":"1.045s"}
+{"cluster":"cluster_2","delay":"121ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:07:58+05:30","typing":"870ms"}
+{"cluster":"cluster_2","delay":"418ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:08:00+05:30","typing":"975ms"}
+{"cluster":"cluster_2","delay":"160ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:08:04+05:30","typing":"1.388s"}
+{"cluster":"cluster_2","duration":48000000000,"instance":"Ysin#6429","level":"info","msg":"starting shift 1","state":"dormant","time":"2022-07-29T16:09:04+05:30"}
+{"cluster":"cluster_2","duration":11071000000000,"instance":"Ysin#6429","level":"info","msg":"starting shift 2","state":"active","time":"2022-07-29T16:09:52+05:30"}
+{"cluster":"cluster_2","delay":"167ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:09:57+05:30","typing":"1.008s"}
+{"cluster":"cluster_2","delay":"344ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:09:59+05:30","typing":"814ms"}
+{"cluster":"cluster_2","delay":"404ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:10:02+05:30","typing":"1.559s"}
+{"cluster":"cluster_2","delay":"359ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:10:05+05:30","typing":"1.371s"}
+{"cluster":"cluster_2","delay":"296ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:10:09+05:30","typing":"990ms"}
+{"cluster":"cluster_2","delay":"156ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:10:12+05:30","typing":"1.091s"}
+{"cluster":"cluster_2","delay":"311ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:10:14+05:30","typing":"1.17s"}
+{"cluster":"cluster_2","delay":"352ms","instance":"Ysin#6429","level":"info","msg":"no fishing pole, buying a new one: pls buy fishing 10","time":"2022-07-29T16:10:17+05:30","typing":"2.606s"}
+{"cluster":"cluster_2","delay":"289ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:10:20+05:30","typing":"1.023s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls dig","time":"2022-07-29T16:10:32+05:30"}
+{"cluster":"cluster_2","delay":"351ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls work","time":"2022-07-29T16:10:32+05:30","typing":"1.256s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls work","time":"2022-07-29T16:10:45+05:30"}
+{"cluster":"cluster_2","delay":"250ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:10:45+05:30","typing":"1.436s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls trivia","time":"2022-07-29T16:10:58+05:30"}
+{"cluster":"cluster_2","delay":"293ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls use horse","time":"2022-07-29T16:10:58+05:30","typing":"1.829s"}
+{"cluster":"cluster_2","delay":"115ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:11:00+05:30","typing":"1.498s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T16:11:13+05:30"}
+{"cluster":"cluster_2","delay":"464ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:11:13+05:30","typing":"1.117s"}
+{"cluster":"cluster_2","delay":"459ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:11:15+05:30","typing":"806ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:11:27+05:30"}
+{"cluster":"cluster_2","delay":"259ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:11:27+05:30","typing":"934ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:11:39+05:30"}
+{"cluster":"cluster_2","delay":"387ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:11:39+05:30","typing":"1.242s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T16:11:51+05:30"}
+{"cluster":"cluster_2","delay":"128ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:11:51+05:30","typing":"1.112s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:12:03+05:30"}
+{"cluster":"cluster_2","delay":"405ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:12:03+05:30","typing":"1.303s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:12:16+05:30"}
+{"cluster":"cluster_2","delay":"484ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:12:16+05:30","typing":"1.34s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls trivia","time":"2022-07-29T16:12:28+05:30"}
+{"cluster":"cluster_2","delay":"278ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:12:28+05:30","typing":"1.026s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls dig","time":"2022-07-29T16:12:40+05:30"}
+{"cluster":"cluster_2","delay":"120ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:12:40+05:30","typing":"1.36s"}
+{"cluster":"cluster_2","delay":"209ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:12:44+05:30","typing":"825ms"}
+{"cluster":"cluster_2","delay":"224ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:12:47+05:30","typing":"1.009s"}
+{"cluster":"cluster_2","delay":"449ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:12:49+05:30","typing":"826ms"}
+{"cluster":"cluster_2","delay":"157ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:12:51+05:30","typing":"1.426s"}
+{"cluster":"cluster_2","delay":"241ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:12:54+05:30","typing":"1.472s"}
+{"cluster":"cluster_2","delay":"198ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:12:58+05:30","typing":"1.157s"}
+{"cluster":"cluster_2","delay":"192ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:13:00+05:30","typing":"1.212s"}
+{"cluster":"cluster_2","delay":"311ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:13:04+05:30","typing":"1.408s"}
+{"cluster":"cluster_2","delay":"446ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:13:07+05:30","typing":"1.158s"}
+{"cluster":"cluster_2","delay":"309ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:13:10+05:30","typing":"1.517s"}
+{"cluster":"cluster_2","delay":"183ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:13:14+05:30","typing":"1.486s"}
+{"cluster":"cluster_2","delay":"174ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:13:17+05:30","typing":"891ms"}
+{"cluster":"cluster_2","delay":"464ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:13:23+05:30","typing":"1.499s"}
+{"cluster":"cluster_2","delay":"486ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:13:26+05:30","typing":"1.139s"}
+{"cluster":"cluster_2","delay":"355ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:13:31+05:30","typing":"1.318s"}
+{"cluster":"cluster_2","delay":"187ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:13:34+05:30","typing":"850ms"}
+{"cluster":"cluster_2","delay":"196ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:13:36+05:30","typing":"1.491s"}
+{"cluster":"cluster_2","delay":"329ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:13:40+05:30","typing":"1.191s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:13:53+05:30"}
+{"cluster":"cluster_2","delay":"286ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:13:53+05:30","typing":"1.293s"}
+{"cluster":"cluster_2","delay":"424ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:13:55+05:30","typing":"1.473s"}
+{"cluster":"cluster_2","delay":"226ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:13:59+05:30","typing":"1.383s"}
+{"cluster":"cluster_2","delay":"432ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:14:02+05:30","typing":"1s"}
+{"cluster":"cluster_2","delay":"468ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:14:04+05:30","typing":"950ms"}
+{"cluster":"cluster_2","delay":"248ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:14:08+05:30","typing":"1.045s"}
+{"cluster":"cluster_2","delay":"302ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:14:10+05:30","typing":"1.522s"}
+{"cluster":"cluster_2","delay":"120ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:14:13+05:30","typing":"1.283s"}
+{"cluster":"cluster_2","delay":"408ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:14:18+05:30","typing":"986ms"}
+{"cluster":"cluster_2","delay":"274ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:14:21+05:30","typing":"1.351s"}
+{"cluster":"cluster_2","delay":"347ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:14:24+05:30","typing":"1.183s"}
+{"cluster":"cluster_2","delay":"348ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:14:26+05:30","typing":"1.372s"}
+{"cluster":"cluster_2","delay":"222ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:14:30+05:30","typing":"1.409s"}
+{"cluster":"cluster_2","delay":"138ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:14:34+05:30","typing":"1.264s"}
+{"cluster":"cluster_2","delay":"467ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:14:38+05:30","typing":"823ms"}
+{"cluster":"cluster_2","delay":"251ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:14:41+05:30","typing":"1.449s"}
+{"cluster":"cluster_2","delay":"436ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:14:45+05:30","typing":"1.17s"}
+{"cluster":"cluster_2","delay":"449ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:14:48+05:30","typing":"1.17s"}
+{"cluster":"cluster_2","delay":"226ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:14:50+05:30","typing":"1.342s"}
+{"cluster":"cluster_2","delay":"397ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:14:54+05:30","typing":"1.244s"}
+{"cluster":"cluster_2","delay":"200ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:14:57+05:30","typing":"1.517s"}
+{"cluster":"cluster_2","delay":"131ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:15:00+05:30","typing":"1.56s"}
+{"cluster":"cluster_2","delay":"375ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:15:04+05:30","typing":"877ms"}
+{"cluster":"cluster_2","delay":"226ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:15:07+05:30","typing":"1.17s"}
+{"cluster":"cluster_2","delay":"265ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:15:10+05:30","typing":"1.53s"}
+{"cluster":"cluster_2","delay":"275ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:15:14+05:30","typing":"980ms"}
+{"cluster":"cluster_2","delay":"485ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:15:17+05:30","typing":"1.139s"}
+{"cluster":"cluster_2","delay":"351ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:15:20+05:30","typing":"1.437s"}
+{"cluster":"cluster_2","delay":"306ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:15:25+05:30","typing":"1.081s"}
+{"cluster":"cluster_2","delay":"221ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:15:27+05:30","typing":"1.391s"}
+{"cluster":"cluster_2","delay":"196ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:15:30+05:30","typing":"989ms"}
+{"cluster":"cluster_2","delay":"166ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:15:32+05:30","typing":"1.442s"}
+{"cluster":"cluster_2","delay":"236ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:15:36+05:30","typing":"1.234s"}
+{"cluster":"cluster_2","delay":"197ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:15:42+05:30","typing":"1.417s"}
+{"cluster":"cluster_2","delay":"447ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:15:46+05:30","typing":"1.222s"}
+{"cluster":"cluster_2","delay":"404ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:15:49+05:30","typing":"1.025s"}
+{"cluster":"cluster_2","delay":"317ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:15:51+05:30","typing":"859ms"}
+{"cluster":"cluster_2","delay":"323ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:15:54+05:30","typing":"1.518s"}
+{"cluster":"cluster_2","delay":"113ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:15:58+05:30","typing":"1.294s"}
+{"cluster":"cluster_2","delay":"372ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:16:00+05:30","typing":"1.491s"}
+{"cluster":"cluster_2","delay":"447ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:16:04+05:30","typing":"1.354s"}
+{"cluster":"cluster_2","delay":"382ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:16:07+05:30","typing":"1.005s"}
+{"cluster":"cluster_2","delay":"431ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:16:09+05:30","typing":"1.063s"}
+{"cluster":"cluster_2","delay":"373ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:16:13+05:30","typing":"1.559s"}
+{"cluster":"cluster_2","delay":"128ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:16:17+05:30","typing":"1.411s"}
+{"cluster":"cluster_2","delay":"197ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:16:23+05:30","typing":"1.038s"}
+{"cluster":"cluster_2","delay":"134ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:16:28+05:30","typing":"1.465s"}
+{"cluster":"cluster_2","delay":"205ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:16:31+05:30","typing":"1.167s"}
+{"cluster":"cluster_2","delay":"461ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:16:34+05:30","typing":"1.416s"}
+{"cluster":"cluster_2","delay":"174ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:16:37+05:30","typing":"837ms"}
+{"cluster":"cluster_2","delay":"470ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:16:40+05:30","typing":"1.188s"}
+{"cluster":"cluster_2","delay":"207ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:16:42+05:30","typing":"1.412s"}
+{"cluster":"cluster_2","delay":"141ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:16:46+05:30","typing":"966ms"}
+{"cluster":"cluster_2","delay":"170ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:16:49+05:30","typing":"989ms"}
+{"cluster":"cluster_2","delay":"286ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:16:51+05:30","typing":"1.538s"}
+{"cluster":"cluster_2","delay":"301ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:16:57+05:30","typing":"1.338s"}
+{"cluster":"cluster_2","delay":"250ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:17:00+05:30","typing":"995ms"}
+{"cluster":"cluster_2","delay":"111ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:17:03+05:30","typing":"1.504s"}
+{"cluster":"cluster_2","delay":"154ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:17:07+05:30","typing":"1.354s"}
+{"cluster":"cluster_2","delay":"417ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:17:10+05:30","typing":"1.091s"}
+{"cluster":"cluster_2","delay":"348ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:17:13+05:30","typing":"1.357s"}
+{"cluster":"cluster_2","delay":"415ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:17:19+05:30","typing":"1.138s"}
+{"cluster":"cluster_2","delay":"477ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:17:21+05:30","typing":"916ms"}
+{"cluster":"cluster_2","delay":"219ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:17:24+05:30","typing":"1.426s"}
+{"cluster":"cluster_2","delay":"450ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:17:28+05:30","typing":"1.139s"}
+{"cluster":"cluster_2","delay":"272ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:17:30+05:30","typing":"974ms"}
+{"cluster":"cluster_2","delay":"310ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:17:34+05:30","typing":"1.457s"}
+{"cluster":"cluster_2","delay":"407ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:17:37+05:30","typing":"975ms"}
+{"cluster":"cluster_2","delay":"497ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:17:40+05:30","typing":"1.297s"}
+{"cluster":"cluster_2","delay":"250ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:17:43+05:30","typing":"1.533s"}
+{"cluster":"cluster_2","delay":"187ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:17:47+05:30","typing":"1.416s"}
+{"cluster":"cluster_2","delay":"106ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:17:50+05:30","typing":"1.149s"}
+{"cluster":"cluster_2","delay":"359ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:17:56+05:30","typing":"1.543s"}
+{"cluster":"cluster_2","delay":"278ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:18:00+05:30","typing":"1.288s"}
+{"cluster":"cluster_2","delay":"290ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:18:05+05:30","typing":"995ms"}
+{"cluster":"cluster_2","delay":"409ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:18:08+05:30","typing":"1.364s"}
+{"cluster":"cluster_2","delay":"306ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:18:11+05:30","typing":"1.036s"}
+{"cluster":"cluster_2","delay":"299ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:18:15+05:30","typing":"1.019s"}
+{"cluster":"cluster_2","delay":"203ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:18:17+05:30","typing":"998ms"}
+{"cluster":"cluster_2","delay":"167ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:18:20+05:30","typing":"1.457s"}
+{"cluster":"cluster_2","delay":"476ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:18:23+05:30","typing":"1.564s"}
+{"cluster":"cluster_2","delay":"249ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:18:27+05:30","typing":"1.348s"}
+{"cluster":"cluster_2","delay":"423ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:18:31+05:30","typing":"1.098s"}
+{"cluster":"cluster_2","delay":"187ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:18:33+05:30","typing":"1.528s"}
+{"cluster":"cluster_2","delay":"357ms","instance":"Ysin#6429","level":"info","msg":"no fishing pole, buying a new one: pls buy fishing 10","time":"2022-07-29T16:18:37+05:30","typing":"2.629s"}
+{"cluster":"cluster_2","delay":"207ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:18:40+05:30","typing":"1.231s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:18:53+05:30"}
+{"cluster":"cluster_2","delay":"307ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:18:53+05:30","typing":"1.493s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls trivia","time":"2022-07-29T16:19:05+05:30"}
+{"cluster":"cluster_2","delay":"485ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:19:05+05:30","typing":"885ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:19:17+05:30"}
+{"cluster":"cluster_2","delay":"202ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:19:17+05:30","typing":"1.535s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T16:19:30+05:30"}
+{"cluster":"cluster_2","delay":"102ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:19:30+05:30","typing":"1.15s"}
+{"cluster":"cluster_2","delay":"466ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:19:40+05:30","typing":"1.039s"}
+{"cluster":"cluster_2","delay":"187ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:19:44+05:30","typing":"1.026s"}
+{"cluster":"cluster_2","delay":"231ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:19:46+05:30","typing":"1.507s"}
+{"cluster":"cluster_2","delay":"212ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:19:49+05:30","typing":"1.345s"}
+{"cluster":"cluster_2","delay":"216ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:19:53+05:30","typing":"1.287s"}
+{"cluster":"cluster_2","delay":"100ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:19:55+05:30","typing":"1.187s"}
+{"cluster":"cluster_2","delay":"329ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:19:58+05:30","typing":"1.347s"}
+{"cluster":"cluster_2","delay":"116ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:20:01+05:30","typing":"940ms"}
+{"cluster":"cluster_2","delay":"332ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:20:04+05:30","typing":"1.574s"}
+{"cluster":"cluster_2","delay":"148ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:20:09+05:30","typing":"937ms"}
+{"cluster":"cluster_2","delay":"464ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:20:14+05:30","typing":"1.384s"}
+{"cluster":"cluster_2","delay":"307ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:20:17+05:30","typing":"806ms"}
+{"cluster":"cluster_2","delay":"181ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:20:23+05:30","typing":"958ms"}
+{"cluster":"cluster_2","delay":"126ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:20:25+05:30","typing":"1.416s"}
+{"cluster":"cluster_2","delay":"298ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:20:28+05:30","typing":"1.509s"}
+{"cluster":"cluster_2","delay":"360ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:20:32+05:30","typing":"1.248s"}
+{"cluster":"cluster_2","delay":"148ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:20:36+05:30","typing":"1.081s"}
+{"cluster":"cluster_2","delay":"161ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:20:38+05:30","typing":"1.065s"}
+{"cluster":"cluster_2","delay":"386ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:20:41+05:30","typing":"1.471s"}
+{"cluster":"cluster_2","delay":"478ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:20:45+05:30","typing":"932ms"}
+{"cluster":"cluster_2","delay":"319ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:20:48+05:30","typing":"954ms"}
+{"cluster":"cluster_2","delay":"280ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:20:51+05:30","typing":"1.414s"}
+{"cluster":"cluster_2","delay":"106ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:20:54+05:30","typing":"945ms"}
+{"cluster":"cluster_2","delay":"364ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:20:58+05:30","typing":"1.555s"}
+{"cluster":"cluster_2","delay":"253ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:21:02+05:30","typing":"1.335s"}
+{"cluster":"cluster_2","delay":"447ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:21:05+05:30","typing":"976ms"}
+{"cluster":"cluster_2","delay":"124ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:21:11+05:30","typing":"1.425s"}
+{"cluster":"cluster_2","delay":"383ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:21:15+05:30","typing":"1.443s"}
+{"cluster":"cluster_2","delay":"136ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:21:18+05:30","typing":"1.133s"}
+{"cluster":"cluster_2","delay":"245ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:21:20+05:30","typing":"1.152s"}
+{"cluster":"cluster_2","delay":"186ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:21:23+05:30","typing":"1.473s"}
+{"cluster":"cluster_2","delay":"114ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:21:27+05:30","typing":"1.141s"}
+{"cluster":"cluster_2","delay":"293ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:21:30+05:30","typing":"1.469s"}
+{"cluster":"cluster_2","delay":"476ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:21:34+05:30","typing":"944ms"}
+{"cluster":"cluster_2","delay":"488ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:21:37+05:30","typing":"896ms"}
+{"cluster":"cluster_2","delay":"407ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:21:39+05:30","typing":"1.434s"}
+{"cluster":"cluster_2","delay":"400ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:21:44+05:30","typing":"1.177s"}
+{"cluster":"cluster_2","delay":"495ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:21:49+05:30","typing":"1.542s"}
+{"cluster":"cluster_2","delay":"293ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:21:55+05:30","typing":"1.405s"}
+{"cluster":"cluster_2","delay":"474ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:21:58+05:30","typing":"1.234s"}
+{"cluster":"cluster_2","delay":"151ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:22:00+05:30","typing":"1.437s"}
+{"cluster":"cluster_2","delay":"197ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:22:04+05:30","typing":"1.09s"}
+{"cluster":"cluster_2","delay":"298ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:22:06+05:30","typing":"1.361s"}
+{"cluster":"cluster_2","delay":"131ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:22:09+05:30","typing":"1.179s"}
+{"cluster":"cluster_2","delay":"369ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:22:12+05:30","typing":"1.001s"}
+{"cluster":"cluster_2","delay":"251ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:22:15+05:30","typing":"1.556s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls trivia","time":"2022-07-29T16:22:28+05:30"}
+{"cluster":"cluster_2","delay":"299ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:22:29+05:30","typing":"937ms"}
+{"cluster":"cluster_2","delay":"138ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:22:32+05:30","typing":"1.085s"}
+{"cluster":"cluster_2","delay":"179ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:22:34+05:30","typing":"1.346s"}
+{"cluster":"cluster_2","delay":"383ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:22:38+05:30","typing":"1.349s"}
+{"cluster":"cluster_2","delay":"208ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:22:42+05:30","typing":"1.515s"}
+{"cluster":"cluster_2","delay":"281ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:22:45+05:30","typing":"1.164s"}
+{"cluster":"cluster_2","delay":"413ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:22:47+05:30","typing":"1.094s"}
+{"cluster":"cluster_2","delay":"338ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:22:50+05:30","typing":"1.502s"}
+{"cluster":"cluster_2","delay":"291ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:22:53+05:30","typing":"830ms"}
+{"cluster":"cluster_2","delay":"446ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:22:57+05:30","typing":"1.122s"}
+{"cluster":"cluster_2","delay":"488ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:23:00+05:30","typing":"1.44s"}
+{"cluster":"cluster_2","delay":"435ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:23:09+05:30","typing":"1.362s"}
+{"cluster":"cluster_2","delay":"127ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:23:13+05:30","typing":"942ms"}
+{"cluster":"cluster_2","delay":"397ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:23:15+05:30","typing":"1.515s"}
+{"cluster":"cluster_2","delay":"385ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:23:18+05:30","typing":"973ms"}
+{"cluster":"cluster_2","delay":"240ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:23:21+05:30","typing":"1.436s"}
+{"cluster":"cluster_2","delay":"197ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:23:25+05:30","typing":"1.527s"}
+{"cluster":"cluster_2","delay":"453ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:23:29+05:30","typing":"1.204s"}
+{"cluster":"cluster_2","delay":"449ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:23:31+05:30","typing":"1.27s"}
+{"cluster":"cluster_2","delay":"230ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:23:33+05:30","typing":"1.014s"}
+{"cluster":"cluster_2","delay":"390ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:23:36+05:30","typing":"1.553s"}
+{"cluster":"cluster_2","delay":"453ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:23:40+05:30","typing":"976ms"}
+{"cluster":"cluster_2","delay":"179ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:23:44+05:30","typing":"1.473s"}
+{"cluster":"cluster_2","delay":"278ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:23:48+05:30","typing":"1.553s"}
+{"cluster":"cluster_2","delay":"298ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:23:52+05:30","typing":"1.136s"}
+{"cluster":"cluster_2","delay":"242ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:23:57+05:30","typing":"1.334s"}
+{"cluster":"cluster_2","delay":"106ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:24:01+05:30","typing":"1.36s"}
+{"cluster":"cluster_2","delay":"252ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:24:04+05:30","typing":"988ms"}
+{"cluster":"cluster_2","delay":"340ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:24:07+05:30","typing":"1.387s"}
+{"cluster":"cluster_2","delay":"315ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:24:11+05:30","typing":"813ms"}
+{"cluster":"cluster_2","delay":"249ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:24:14+05:30","typing":"1.186s"}
+{"cluster":"cluster_2","delay":"372ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:24:16+05:30","typing":"1.243s"}
+{"cluster":"cluster_2","delay":"375ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:24:18+05:30","typing":"1.468s"}
+{"cluster":"cluster_2","delay":"471ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:24:22+05:30","typing":"1.421s"}
+{"cluster":"cluster_2","delay":"341ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:24:25+05:30","typing":"1.106s"}
+{"cluster":"cluster_2","delay":"419ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:24:31+05:30","typing":"1.166s"}
+{"cluster":"cluster_2","delay":"367ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:24:33+05:30","typing":"1.446s"}
+{"cluster":"cluster_2","delay":"351ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:24:40+05:30","typing":"1.217s"}
+{"cluster":"cluster_2","delay":"443ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:24:43+05:30","typing":"1.387s"}
+{"cluster":"cluster_2","delay":"214ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:24:47+05:30","typing":"983ms"}
+{"cluster":"cluster_2","delay":"277ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:24:50+05:30","typing":"1.371s"}
+{"cluster":"cluster_2","delay":"154ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:24:53+05:30","typing":"982ms"}
+{"cluster":"cluster_2","delay":"165ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:24:56+05:30","typing":"1.417s"}
+{"cluster":"cluster_2","delay":"380ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:25:00+05:30","typing":"1.278s"}
+{"cluster":"cluster_2","delay":"448ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:25:02+05:30","typing":"1.186s"}
+{"cluster":"cluster_2","delay":"388ms","instance":"Ysin#6429","level":"info","msg":"no fishing pole, buying a new one: pls buy fishing 10","time":"2022-07-29T16:25:05+05:30","typing":"2.533s"}
+{"cluster":"cluster_2","delay":"490ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:25:09+05:30","typing":"946ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls dig","time":"2022-07-29T16:25:21+05:30"}
+{"cluster":"cluster_2","delay":"110ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:25:21+05:30","typing":"1.455s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls trivia","time":"2022-07-29T16:25:33+05:30"}
+{"cluster":"cluster_2","delay":"496ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:25:33+05:30","typing":"972ms"}
+{"cluster":"cluster_2","delay":"105ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:25:35+05:30","typing":"1.388s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T16:25:48+05:30"}
+{"cluster":"cluster_2","delay":"269ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:25:48+05:30","typing":"1.291s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T16:26:00+05:30"}
+{"cluster":"cluster_2","delay":"471ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:26:00+05:30","typing":"857ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:26:12+05:30"}
+{"cluster":"cluster_2","delay":"152ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:26:12+05:30","typing":"1.573s"}
+{"cluster":"cluster_2","delay":"381ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:26:16+05:30","typing":"973ms"}
+{"cluster":"cluster_2","delay":"380ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:26:19+05:30","typing":"1.197s"}
+{"cluster":"cluster_2","delay":"318ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:26:22+05:30","typing":"1.274s"}
+{"cluster":"cluster_2","delay":"184ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:26:24+05:30","typing":"1.056s"}
+{"cluster":"cluster_2","delay":"497ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:26:27+05:30","typing":"1.571s"}
+{"cluster":"cluster_2","delay":"486ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:26:30+05:30","typing":"1.001s"}
+{"cluster":"cluster_2","delay":"220ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:26:32+05:30","typing":"1.388s"}
+{"cluster":"cluster_2","delay":"477ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:26:35+05:30","typing":"1.405s"}
+{"cluster":"cluster_2","delay":"106ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:26:39+05:30","typing":"993ms"}
+{"cluster":"cluster_2","delay":"436ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:26:42+05:30","typing":"1.551s"}
+{"cluster":"cluster_2","delay":"313ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:26:52+05:30","typing":"1.557s"}
+{"cluster":"cluster_2","delay":"410ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:26:56+05:30","typing":"1.548s"}
+{"cluster":"cluster_2","delay":"453ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:27:00+05:30","typing":"1.197s"}
+{"cluster":"cluster_2","delay":"482ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:27:02+05:30","typing":"948ms"}
+{"cluster":"cluster_2","delay":"348ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:27:06+05:30","typing":"1.187s"}
+{"cluster":"cluster_2","delay":"169ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:27:09+05:30","typing":"1.505s"}
+{"cluster":"cluster_2","delay":"331ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:27:13+05:30","typing":"1.03s"}
+{"cluster":"cluster_2","delay":"290ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:27:15+05:30","typing":"1.079s"}
+{"cluster":"cluster_2","delay":"161ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:27:18+05:30","typing":"874ms"}
+{"cluster":"cluster_2","delay":"461ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:27:21+05:30","typing":"1.327s"}
+{"cluster":"cluster_2","delay":"296ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:27:24+05:30","typing":"1.452s"}
+{"cluster":"cluster_2","delay":"253ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:27:28+05:30","typing":"1.33s"}
+{"cluster":"cluster_2","delay":"359ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:27:34+05:30","typing":"1.477s"}
+{"cluster":"cluster_2","delay":"245ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:27:39+05:30","typing":"1.16s"}
+{"cluster":"cluster_2","delay":"252ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:27:43+05:30","typing":"1.542s"}
+{"cluster":"cluster_2","delay":"450ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:27:47+05:30","typing":"1.279s"}
+{"cluster":"cluster_2","delay":"410ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:27:49+05:30","typing":"825ms"}
+{"cluster":"cluster_2","delay":"234ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:27:52+05:30","typing":"915ms"}
+{"cluster":"cluster_2","delay":"489ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:27:55+05:30","typing":"1.17s"}
+{"cluster":"cluster_2","delay":"272ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:27:57+05:30","typing":"1.371s"}
+{"cluster":"cluster_2","delay":"326ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:28:01+05:30","typing":"1.035s"}
+{"cluster":"cluster_2","delay":"336ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:28:03+05:30","typing":"1.504s"}
+{"cluster":"cluster_2","delay":"189ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:28:06+05:30","typing":"1.323s"}
+{"cluster":"cluster_2","delay":"356ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:28:09+05:30","typing":"1.428s"}
+{"cluster":"cluster_2","delay":"201ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:28:18+05:30","typing":"1.092s"}
+{"cluster":"cluster_2","delay":"141ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:28:21+05:30","typing":"1.558s"}
+{"cluster":"cluster_2","delay":"406ms","instance":"Ysin#6429","level":"info","msg":"no fishing pole, buying a new one: pls buy fishing 10","time":"2022-07-29T16:28:24+05:30","typing":"2.621s"}
+{"cluster":"cluster_2","delay":"138ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:28:28+05:30","typing":"1.044s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:28:40+05:30"}
+{"cluster":"cluster_2","delay":"212ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:28:40+05:30","typing":"1.134s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:28:53+05:30"}
+{"cluster":"cluster_2","delay":"274ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:28:53+05:30","typing":"1.493s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls trivia","time":"2022-07-29T16:29:05+05:30"}
+{"cluster":"cluster_2","delay":"194ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:29:05+05:30","typing":"1.388s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T16:29:19+05:30"}
+{"cluster":"cluster_2","delay":"402ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:29:19+05:30","typing":"867ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:29:31+05:30"}
+{"cluster":"cluster_2","delay":"443ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:29:31+05:30","typing":"1.06s"}
+{"cluster":"cluster_2","delay":"311ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:29:33+05:30","typing":"1.103s"}
+{"cluster":"cluster_2","delay":"373ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:29:35+05:30","typing":"1.217s"}
+{"cluster":"cluster_2","delay":"422ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:29:39+05:30","typing":"1.133s"}
+{"cluster":"cluster_2","delay":"126ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:29:41+05:30","typing":"958ms"}
+{"cluster":"cluster_2","delay":"249ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:29:44+05:30","typing":"1.46s"}
+{"cluster":"cluster_2","delay":"189ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:29:48+05:30","typing":"1.234s"}
+{"cluster":"cluster_2","delay":"277ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:29:50+05:30","typing":"1.509s"}
+{"cluster":"cluster_2","delay":"344ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:29:54+05:30","typing":"1.414s"}
+{"cluster":"cluster_2","delay":"485ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:30:03+05:30","typing":"826ms"}
+{"cluster":"cluster_2","delay":"172ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:30:06+05:30","typing":"1.431s"}
+{"cluster":"cluster_2","delay":"444ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:30:10+05:30","typing":"992ms"}
+{"cluster":"cluster_2","delay":"431ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:30:12+05:30","typing":"957ms"}
+{"cluster":"cluster_2","delay":"305ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:30:17+05:30","typing":"1.258s"}
+{"cluster":"cluster_2","delay":"321ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:30:20+05:30","typing":"854ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:30:32+05:30"}
+{"cluster":"cluster_2","delay":"280ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:30:32+05:30","typing":"1.433s"}
+{"cluster":"cluster_2","delay":"388ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:30:37+05:30","typing":"1.162s"}
+{"cluster":"cluster_2","delay":"473ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:30:39+05:30","typing":"1.51s"}
+{"cluster":"cluster_2","delay":"488ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:30:43+05:30","typing":"1.211s"}
+{"cluster":"cluster_2","delay":"299ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:30:46+05:30","typing":"1.337s"}
+{"cluster":"cluster_2","delay":"241ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:30:49+05:30","typing":"902ms"}
+{"cluster":"cluster_2","delay":"312ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:30:53+05:30","typing":"1.108s"}
+{"cluster":"cluster_2","delay":"196ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:30:55+05:30","typing":"950ms"}
+{"cluster":"cluster_2","delay":"256ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:30:58+05:30","typing":"985ms"}
+{"cluster":"cluster_2","delay":"291ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:31:01+05:30","typing":"1.527s"}
+{"cluster":"cluster_2","delay":"467ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:31:05+05:30","typing":"1.423s"}
+{"cluster":"cluster_2","delay":"172ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:31:09+05:30","typing":"1.46s"}
+{"cluster":"cluster_2","delay":"270ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:31:13+05:30","typing":"1.371s"}
+{"cluster":"cluster_2","delay":"114ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:31:17+05:30","typing":"1.203s"}
+{"cluster":"cluster_2","delay":"402ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:31:22+05:30","typing":"1.541s"}
+{"cluster":"cluster_2","delay":"172ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:31:26+05:30","typing":"1.167s"}
+{"cluster":"cluster_2","delay":"374ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:31:32+05:30","typing":"978ms"}
+{"cluster":"cluster_2","delay":"185ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:31:35+05:30","typing":"1.034s"}
+{"cluster":"cluster_2","delay":"147ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:31:38+05:30","typing":"1.47s"}
+{"cluster":"cluster_2","delay":"349ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:31:41+05:30","typing":"1.015s"}
+{"cluster":"cluster_2","delay":"255ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:31:44+05:30","typing":"1.082s"}
+{"cluster":"cluster_2","delay":"105ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:31:47+05:30","typing":"1.433s"}
+{"cluster":"cluster_2","delay":"387ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:31:51+05:30","typing":"1.395s"}
+{"cluster":"cluster_2","delay":"208ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:31:56+05:30","typing":"1.477s"}
+{"cluster":"cluster_2","delay":"203ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:31:59+05:30","typing":"1.147s"}
+{"cluster":"cluster_2","delay":"131ms","instance":"Ysin#6429","level":"info","msg":"no fishing pole, buying a new one: pls buy fishing 10","time":"2022-07-29T16:32:01+05:30","typing":"2.52s"}
+{"cluster":"cluster_2","delay":"117ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:32:05+05:30","typing":"1.427s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls trivia","time":"2022-07-29T16:32:18+05:30"}
+{"cluster":"cluster_2","delay":"150ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:32:18+05:30","typing":"1.157s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:32:31+05:30"}
+{"cluster":"cluster_2","delay":"375ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:32:31+05:30","typing":"869ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:32:43+05:30"}
+{"cluster":"cluster_2","delay":"166ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:32:43+05:30","typing":"1.153s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls dig","time":"2022-07-29T16:32:55+05:30"}
+{"cluster":"cluster_2","delay":"325ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:32:55+05:30","typing":"1.484s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls trivia","time":"2022-07-29T16:33:08+05:30"}
+{"cluster":"cluster_2","delay":"240ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:33:08+05:30","typing":"1.448s"}
+{"cluster":"cluster_2","delay":"313ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:33:12+05:30","typing":"1.141s"}
+{"cluster":"cluster_2","delay":"408ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:33:14+05:30","typing":"843ms"}
+{"cluster":"cluster_2","delay":"366ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:33:17+05:30","typing":"1.391s"}
+{"cluster":"cluster_2","delay":"289ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:33:21+05:30","typing":"1.085s"}
+{"cluster":"cluster_2","delay":"348ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:33:23+05:30","typing":"1.069s"}
+{"cluster":"cluster_2","delay":"340ms","instance":"Ysin#6429","level":"info","msg":"no fishing pole, buying a new one: pls buy fishing 10","time":"2022-07-29T16:33:26+05:30","typing":"2.532s"}
+{"cluster":"cluster_2","delay":"373ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:33:30+05:30","typing":"798ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:33:42+05:30"}
+{"cluster":"cluster_2","delay":"447ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:33:42+05:30","typing":"1.337s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls trivia","time":"2022-07-29T16:33:54+05:30"}
+{"cluster":"cluster_2","delay":"106ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:33:54+05:30","typing":"1.172s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls dig","time":"2022-07-29T16:34:06+05:30"}
+{"cluster":"cluster_2","delay":"192ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:34:06+05:30","typing":"1.567s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T16:34:19+05:30"}
+{"cluster":"cluster_2","delay":"338ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:34:19+05:30","typing":"1.513s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls trivia","time":"2022-07-29T16:34:32+05:30"}
+{"cluster":"cluster_2","delay":"154ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:34:32+05:30","typing":"1.075s"}
+{"cluster":"cluster_2","delay":"320ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:34:34+05:30","typing":"1.41s"}
+{"cluster":"cluster_2","delay":"359ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:34:38+05:30","typing":"913ms"}
+{"cluster":"cluster_2","delay":"166ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:34:41+05:30","typing":"1.213s"}
+{"cluster":"cluster_2","delay":"172ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:34:43+05:30","typing":"1.131s"}
+{"cluster":"cluster_2","delay":"434ms","instance":"Ysin#6429","level":"info","msg":"no fishing pole, buying a new one: pls buy fishing 10","time":"2022-07-29T16:34:45+05:30","typing":"2.582s"}
+{"cluster":"cluster_2","delay":"482ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:34:49+05:30","typing":"992ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:35:01+05:30"}
+{"cluster":"cluster_2","delay":"176ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:35:01+05:30","typing":"1.456s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls trivia","time":"2022-07-29T16:35:13+05:30"}
+{"cluster":"cluster_2","delay":"143ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:35:13+05:30","typing":"1.045s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls dig","time":"2022-07-29T16:35:26+05:30"}
+{"cluster":"cluster_2","delay":"283ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:35:26+05:30","typing":"1.476s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T16:35:38+05:30"}
+{"cluster":"cluster_2","delay":"135ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:35:38+05:30","typing":"1.424s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls trivia","time":"2022-07-29T16:35:50+05:30"}
+{"cluster":"cluster_2","delay":"325ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:35:50+05:30","typing":"1.093s"}
+{"cluster":"cluster_2","delay":"244ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:35:53+05:30","typing":"1.332s"}
+{"cluster":"cluster_2","delay":"370ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:35:56+05:30","typing":"1.116s"}
+{"cluster":"cluster_2","delay":"474ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:35:58+05:30","typing":"1.046s"}
+{"cluster":"cluster_2","delay":"215ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:36:02+05:30","typing":"1.172s"}
+{"cluster":"cluster_2","delay":"331ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:36:04+05:30","typing":"825ms"}
+{"cluster":"cluster_2","delay":"365ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:36:07+05:30","typing":"1.348s"}
+{"cluster":"cluster_2","delay":"100ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:36:11+05:30","typing":"1.076s"}
+{"cluster":"cluster_2","delay":"395ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:36:13+05:30","typing":"1.341s"}
+{"cluster":"cluster_2","delay":"107ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:36:17+05:30","typing":"1.573s"}
+{"cluster":"cluster_2","delay":"481ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:36:26+05:30","typing":"1.378s"}
+{"cluster":"cluster_2","delay":"441ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:36:30+05:30","typing":"1.164s"}
+{"cluster":"cluster_2","delay":"471ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:36:32+05:30","typing":"1.338s"}
+{"cluster":"cluster_2","delay":"475ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:36:36+05:30","typing":"1.117s"}
+{"cluster":"cluster_2","delay":"158ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:36:38+05:30","typing":"1.51s"}
+{"cluster":"cluster_2","delay":"296ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:36:42+05:30","typing":"907ms"}
+{"cluster":"cluster_2","delay":"402ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:36:45+05:30","typing":"1.12s"}
+{"cluster":"cluster_2","delay":"115ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:36:48+05:30","typing":"1.499s"}
+{"cluster":"cluster_2","delay":"282ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:36:51+05:30","typing":"1.042s"}
+{"cluster":"cluster_2","delay":"353ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:36:54+05:30","typing":"1.55s"}
+{"cluster":"cluster_2","delay":"292ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:36:58+05:30","typing":"1.005s"}
+{"cluster":"cluster_2","delay":"210ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:37:04+05:30","typing":"1.493s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls trivia","time":"2022-07-29T16:37:20+05:30"}
+{"cluster":"cluster_2","delay":"230ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:37:21+05:30","typing":"988ms"}
+{"cluster":"cluster_2","delay":"207ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:37:23+05:30","typing":"1.342s"}
+{"cluster":"cluster_2","delay":"224ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:37:26+05:30","typing":"1.195s"}
+{"cluster":"cluster_2","delay":"230ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:37:29+05:30","typing":"877ms"}
+{"cluster":"cluster_2","delay":"230ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:37:32+05:30","typing":"1.43s"}
+{"cluster":"cluster_2","delay":"255ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:37:35+05:30","typing":"1.426s"}
+{"cluster":"cluster_2","delay":"125ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:37:39+05:30","typing":"1.246s"}
+{"cluster":"cluster_2","delay":"142ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:37:41+05:30","typing":"1.035s"}
+{"cluster":"cluster_2","delay":"241ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:37:44+05:30","typing":"935ms"}
+{"cluster":"cluster_2","delay":"413ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:37:46+05:30","typing":"1.519s"}
+{"cluster":"cluster_2","delay":"411ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:37:56+05:30","typing":"1.529s"}
+{"cluster":"cluster_2","delay":"381ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:38:00+05:30","typing":"1.102s"}
+{"cluster":"cluster_2","delay":"197ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:38:02+05:30","typing":"1.233s"}
+{"cluster":"cluster_2","delay":"206ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:38:06+05:30","typing":"896ms"}
+{"cluster":"cluster_2","delay":"444ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:38:09+05:30","typing":"1.408s"}
+{"cluster":"cluster_2","delay":"308ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:38:12+05:30","typing":"1.083s"}
+{"cluster":"cluster_2","delay":"339ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:38:14+05:30","typing":"1.484s"}
+{"cluster":"cluster_2","delay":"234ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:38:18+05:30","typing":"1.123s"}
+{"cluster":"cluster_2","delay":"361ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:38:23+05:30","typing":"999ms"}
+{"cluster":"cluster_2","delay":"104ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:38:25+05:30","typing":"1.545s"}
+{"cluster":"cluster_2","delay":"275ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:38:29+05:30","typing":"884ms"}
+{"cluster":"cluster_2","delay":"182ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:38:35+05:30","typing":"1.426s"}
+{"cluster":"cluster_2","delay":"401ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:38:38+05:30","typing":"1.544s"}
+{"cluster":"cluster_2","delay":"149ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:38:42+05:30","typing":"1.175s"}
+{"cluster":"cluster_2","delay":"388ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:38:44+05:30","typing":"927ms"}
+{"cluster":"cluster_2","delay":"102ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:38:47+05:30","typing":"1.319s"}
+{"cluster":"cluster_2","delay":"379ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:38:50+05:30","typing":"1.49s"}
+{"cluster":"cluster_2","delay":"112ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:38:54+05:30","typing":"1.14s"}
+{"cluster":"cluster_2","delay":"342ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:38:57+05:30","typing":"1.302s"}
+{"cluster":"cluster_2","delay":"298ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:39:00+05:30","typing":"1.546s"}
+{"cluster":"cluster_2","delay":"111ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:39:04+05:30","typing":"1.007s"}
+{"cluster":"cluster_2","delay":"353ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:39:08+05:30","typing":"1.356s"}
+{"cluster":"cluster_2","delay":"380ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:39:11+05:30","typing":"1.503s"}
+{"cluster":"cluster_2","delay":"490ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:39:15+05:30","typing":"916ms"}
+{"cluster":"cluster_2","delay":"350ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:39:18+05:30","typing":"825ms"}
+{"cluster":"cluster_2","delay":"400ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:39:22+05:30","typing":"1.468s"}
+{"cluster":"cluster_2","delay":"147ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:39:25+05:30","typing":"1.046s"}
+{"cluster":"cluster_2","delay":"312ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:39:27+05:30","typing":"1.237s"}
+{"cluster":"cluster_2","delay":"394ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:39:31+05:30","typing":"1.348s"}
+{"cluster":"cluster_2","delay":"258ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:39:35+05:30","typing":"1.121s"}
+{"cluster":"cluster_2","delay":"406ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:39:38+05:30","typing":"1.217s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:39:52+05:30"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:40:03+05:30"}
+{"cluster":"cluster_2","delay":"375ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:40:03+05:30","typing":"1.372s"}
+{"cluster":"cluster_2","delay":"184ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:40:07+05:30","typing":"1.493s"}
+{"cluster":"cluster_2","delay":"158ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:40:11+05:30","typing":"970ms"}
+{"cluster":"cluster_2","delay":"127ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:40:13+05:30","typing":"834ms"}
+{"cluster":"cluster_2","delay":"125ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:40:16+05:30","typing":"803ms"}
+{"cluster":"cluster_2","delay":"230ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:40:19+05:30","typing":"946ms"}
+{"cluster":"cluster_2","delay":"467ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:40:21+05:30","typing":"1.423s"}
+{"cluster":"cluster_2","delay":"323ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:40:25+05:30","typing":"1.256s"}
+{"cluster":"cluster_2","delay":"446ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:40:28+05:30","typing":"1.386s"}
+{"cluster":"cluster_2","delay":"200ms","instance":"Ysin#6429","level":"info","msg":"no fishing pole, buying a new one: pls buy fishing 10","time":"2022-07-29T16:40:30+05:30","typing":"2.557s"}
+{"cluster":"cluster_2","delay":"260ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:40:35+05:30","typing":"1.257s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:40:47+05:30"}
+{"cluster":"cluster_2","delay":"196ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:40:47+05:30","typing":"1.57s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T16:41:00+05:30"}
+{"cluster":"cluster_2","delay":"423ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:41:00+05:30","typing":"1.382s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls trivia","time":"2022-07-29T16:41:12+05:30"}
+{"cluster":"cluster_2","delay":"157ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:41:12+05:30","typing":"950ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:41:24+05:30"}
+{"cluster":"cluster_2","delay":"216ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:41:24+05:30","typing":"992ms"}
+{"cluster":"cluster_2","delay":"413ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:41:35+05:30","typing":"999ms"}
+{"cluster":"cluster_2","delay":"178ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:41:37+05:30","typing":"973ms"}
+{"cluster":"cluster_2","delay":"487ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls use horse","time":"2022-07-29T16:41:41+05:30","typing":"1.802s"}
+{"cluster":"cluster_2","delay":"490ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:41:43+05:30","typing":"1.402s"}
+{"cluster":"cluster_2","delay":"212ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:41:47+05:30","typing":"1.163s"}
+{"cluster":"cluster_2","delay":"471ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:41:49+05:30","typing":"1.552s"}
+{"cluster":"cluster_2","delay":"381ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:41:53+05:30","typing":"1.182s"}
+{"cluster":"cluster_2","delay":"122ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:41:55+05:30","typing":"1.41s"}
+{"cluster":"cluster_2","delay":"102ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:41:59+05:30","typing":"943ms"}
+{"cluster":"cluster_2","delay":"127ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:42:02+05:30","typing":"1.519s"}
+{"cluster":"cluster_2","delay":"273ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:42:06+05:30","typing":"1.177s"}
+{"cluster":"cluster_2","delay":"473ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:42:12+05:30","typing":"1.348s"}
+{"cluster":"cluster_2","delay":"135ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:42:15+05:30","typing":"966ms"}
+{"cluster":"cluster_2","delay":"283ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:42:21+05:30","typing":"1.338s"}
+{"cluster":"cluster_2","delay":"357ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:42:24+05:30","typing":"1.043s"}
+{"cluster":"cluster_2","delay":"257ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:42:27+05:30","typing":"1.373s"}
+{"cluster":"cluster_2","delay":"248ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:42:31+05:30","typing":"1.378s"}
+{"cluster":"cluster_2","delay":"319ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:42:34+05:30","typing":"1.3s"}
+{"cluster":"cluster_2","delay":"329ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:42:36+05:30","typing":"1.343s"}
+{"cluster":"cluster_2","delay":"253ms","instance":"Ysin#6429","level":"info","msg":"no fishing pole, buying a new one: pls buy fishing 10","time":"2022-07-29T16:42:40+05:30","typing":"2.55s"}
+{"cluster":"cluster_2","delay":"499ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:42:43+05:30","typing":"1.157s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:42:56+05:30"}
+{"cluster":"cluster_2","delay":"381ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:42:56+05:30","typing":"1.026s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:43:08+05:30"}
+{"cluster":"cluster_2","delay":"325ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:43:08+05:30","typing":"1.127s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls dig","time":"2022-07-29T16:43:21+05:30"}
+{"cluster":"cluster_2","delay":"124ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:43:21+05:30","typing":"1.359s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls trivia","time":"2022-07-29T16:43:33+05:30"}
+{"cluster":"cluster_2","delay":"124ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:43:33+05:30","typing":"1.108s"}
+{"cluster":"cluster_2","delay":"461ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:43:35+05:30","typing":"1.507s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls search","time":"2022-07-29T16:43:48+05:30"}
+{"cluster":"cluster_2","delay":"263ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:43:48+05:30","typing":"1.229s"}
+{"cluster":"cluster_2","delay":"113ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:43:51+05:30","typing":"1.031s"}
+{"cluster":"cluster_2","delay":"221ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:43:54+05:30","typing":"1.165s"}
+{"cluster":"cluster_2","delay":"439ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:43:57+05:30","typing":"1.133s"}
+{"cluster":"cluster_2","delay":"203ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:43:59+05:30","typing":"1.579s"}
+{"cluster":"cluster_2","delay":"360ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:44:03+05:30","typing":"858ms"}
+{"cluster":"cluster_2","delay":"280ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:44:05+05:30","typing":"1.014s"}
+{"cluster":"cluster_2","delay":"343ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:44:07+05:30","typing":"1.491s"}
+{"cluster":"cluster_2","delay":"202ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:44:11+05:30","typing":"1.481s"}
+{"cluster":"cluster_2","delay":"319ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:44:15+05:30","typing":"951ms"}
+{"cluster":"cluster_2","delay":"320ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:44:21+05:30","typing":"1.509s"}
+{"cluster":"cluster_2","delay":"331ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:44:27+05:30","typing":"1.264s"}
+{"cluster":"cluster_2","delay":"354ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:44:31+05:30","typing":"1.391s"}
+{"cluster":"cluster_2","delay":"391ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:44:34+05:30","typing":"1.082s"}
+{"cluster":"cluster_2","delay":"120ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:44:37+05:30","typing":"804ms"}
+{"cluster":"cluster_2","delay":"131ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:44:40+05:30","typing":"1.191s"}
+{"cluster":"cluster_2","delay":"329ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:44:42+05:30","typing":"826ms"}
+{"cluster":"cluster_2","delay":"106ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:44:45+05:30","typing":"1.361s"}
+{"cluster":"cluster_2","delay":"277ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:44:48+05:30","typing":"1.571s"}
+{"cluster":"cluster_2","delay":"389ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:44:52+05:30","typing":"1.068s"}
+{"cluster":"cluster_2","delay":"149ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:44:54+05:30","typing":"1.164s"}
+{"cluster":"cluster_2","delay":"135ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:44:58+05:30","typing":"1.349s"}
+{"cluster":"cluster_2","delay":"435ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:45:07+05:30","typing":"1.238s"}
+{"cluster":"cluster_2","delay":"388ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:45:10+05:30","typing":"1.367s"}
+{"cluster":"cluster_2","delay":"417ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:45:13+05:30","typing":"1.098s"}
+{"cluster":"cluster_2","delay":"267ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:45:16+05:30","typing":"1.514s"}
+{"cluster":"cluster_2","delay":"359ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:45:19+05:30","typing":"820ms"}
+{"cluster":"cluster_2","delay":"217ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:45:22+05:30","typing":"1.167s"}
+{"cluster":"cluster_2","delay":"291ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:45:25+05:30","typing":"1.371s"}
+{"cluster":"cluster_2","delay":"129ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:45:28+05:30","typing":"951ms"}
+{"cluster":"cluster_2","delay":"220ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:45:31+05:30","typing":"954ms"}
+{"cluster":"cluster_2","delay":"144ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:45:33+05:30","typing":"1.076s"}
+{"cluster":"cluster_2","delay":"349ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:45:35+05:30","typing":"1.452s"}
+{"cluster":"cluster_2","delay":"493ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:45:45+05:30","typing":"1.394s"}
+{"cluster":"cluster_2","delay":"103ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:45:48+05:30","typing":"1.486s"}
+{"cluster":"cluster_2","delay":"294ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:45:51+05:30","typing":"1.26s"}
+{"cluster":"cluster_2","delay":"305ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:45:55+05:30","typing":"1.183s"}
+{"cluster":"cluster_2","delay":"446ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:45:57+05:30","typing":"907ms"}
+{"cluster":"cluster_2","delay":"170ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:46:00+05:30","typing":"1.484s"}
+{"cluster":"cluster_2","delay":"456ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:46:04+05:30","typing":"1.257s"}
+{"cluster":"cluster_2","delay":"467ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:46:10+05:30","typing":"1.409s"}
+{"cluster":"cluster_2","delay":"176ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:46:13+05:30","typing":"1.047s"}
+{"cluster":"cluster_2","delay":"444ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:46:16+05:30","typing":"1.025s"}
+{"cluster":"cluster_2","delay":"472ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:46:19+05:30","typing":"1.001s"}
+{"cluster":"cluster_2","delay":"329ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:46:21+05:30","typing":"1.484s"}
+{"cluster":"cluster_2","delay":"243ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:46:25+05:30","typing":"1.465s"}
+{"cluster":"cluster_2","delay":"373ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:46:31+05:30","typing":"1.44s"}
+{"cluster":"cluster_2","delay":"346ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:46:34+05:30","typing":"998ms"}
+{"cluster":"cluster_2","delay":"273ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:46:37+05:30","typing":"1.313s"}
+{"cluster":"cluster_2","delay":"457ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:46:40+05:30","typing":"1.39s"}
+{"cluster":"cluster_2","delay":"137ms","instance":"Ysin#6429","level":"info","msg":"no fishing pole, buying a new one: pls buy fishing 10","time":"2022-07-29T16:46:43+05:30","typing":"2.636s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"error while clicking button: error while getting cookies: error while getting response from cookie request Get \"https://discord.com\": read tcp 192.168.1.4:60167-\u003e162.159.137.232:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.","time":"2022-07-29T16:47:08+05:30"}
+{"cluster":"cluster_2","delay":"235ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:47:08+05:30","typing":"1.185s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"error while sending message: error while sending http request: Post \"https://discord.com/api/v9/channels/1002485356123394068/typing\": dial tcp: lookup discord.com: no such host","time":"2022-07-29T16:47:12+05:30"}
+{"cluster":"cluster_2","delay":"449ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:47:12+05:30","typing":"1.54s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"error while sending message: error while sending http request: Post \"https://discord.com/api/v9/channels/1002485356123394068/typing\": dial tcp: lookup discord.com: no such host","time":"2022-07-29T16:47:18+05:30"}
+{"cluster":"cluster_2","delay":"415ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:47:18+05:30","typing":"1.548s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"websocket closed: read tcp 192.168.1.4:54430-\u003e162.159.134.234:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.","time":"2022-07-29T16:47:24+05:30"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"error while sending message: error while sending http request: Post \"https://discord.com/api/v9/channels/1002485356123394068/typing\": dial tcp: lookup discord.com: no such host","time":"2022-07-29T16:47:24+05:30"}
+{"cluster":"cluster_2","delay":"172ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:47:24+05:30","typing":"1.119s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"instance fatal: error while connecting to websocket: error while establishing websocket connection: dial tcp: lookup gateway.discord.gg: no such host","time":"2022-07-29T16:47:28+05:30"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"error while sending message: error while sending http request: Post \"https://discord.com/api/v9/channels/1002485356123394068/typing\": dial tcp: lookup discord.com: no such host","time":"2022-07-29T16:47:30+05:30"}
+{"cluster":"cluster_2","delay":"371ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:47:30+05:30","typing":"1.02s"}
+{"cluster":"cluster_2","delay":"203ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:47:58+05:30","typing":"867ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:48:10+05:30"}
+{"cluster":"cluster_2","delay":"446ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:48:10+05:30","typing":"930ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:48:22+05:30"}
+{"cluster":"cluster_2","delay":"415ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:48:22+05:30","typing":"1.205s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T16:48:34+05:30"}
+{"cluster":"cluster_2","delay":"161ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:48:34+05:30","typing":"1.307s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:48:47+05:30"}
+{"cluster":"cluster_2","delay":"226ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:48:47+05:30","typing":"950ms"}
+{"cluster":"cluster_2","delay":"471ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:48:49+05:30","typing":"846ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:49:00+05:30"}
+{"cluster":"cluster_2","delay":"285ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:49:00+05:30","typing":"912ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:49:12+05:30"}
+{"cluster":"cluster_2","delay":"446ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:49:12+05:30","typing":"1.387s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T16:49:25+05:30"}
+{"cluster":"cluster_2","delay":"395ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:49:25+05:30","typing":"1.218s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:49:37+05:30"}
+{"cluster":"cluster_2","delay":"244ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:49:37+05:30","typing":"1.091s"}
+{"cluster":"cluster_2","delay":"373ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:49:39+05:30","typing":"927ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:49:51+05:30"}
+{"cluster":"cluster_2","delay":"485ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:49:51+05:30","typing":"901ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:50:03+05:30"}
+{"cluster":"cluster_2","delay":"199ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:50:03+05:30","typing":"1.418s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T16:50:15+05:30"}
+{"cluster":"cluster_2","delay":"357ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:50:15+05:30","typing":"1.165s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:50:28+05:30"}
+{"cluster":"cluster_2","delay":"440ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:50:28+05:30","typing":"1.162s"}
+{"cluster":"cluster_2","delay":"176ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:50:30+05:30","typing":"835ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:50:42+05:30"}
+{"cluster":"cluster_2","delay":"336ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:50:42+05:30","typing":"981ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:50:54+05:30"}
+{"cluster":"cluster_2","delay":"252ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:50:54+05:30","typing":"1.378s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T16:51:06+05:30"}
+{"cluster":"cluster_2","delay":"438ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:51:06+05:30","typing":"1.113s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:51:18+05:30"}
+{"cluster":"cluster_2","delay":"337ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:51:18+05:30","typing":"1.123s"}
+{"cluster":"cluster_2","delay":"479ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:51:20+05:30","typing":"892ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:51:32+05:30"}
+{"cluster":"cluster_2","delay":"422ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:51:32+05:30","typing":"1.016s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:51:44+05:30"}
+{"cluster":"cluster_2","delay":"238ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:51:44+05:30","typing":"1.367s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T16:51:56+05:30"}
+{"cluster":"cluster_2","delay":"255ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:51:56+05:30","typing":"1.065s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:52:09+05:30"}
+{"cluster":"cluster_2","delay":"187ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:52:09+05:30","typing":"1.048s"}
+{"cluster":"cluster_2","delay":"385ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:52:11+05:30","typing":"1.033s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:52:23+05:30"}
+{"cluster":"cluster_2","delay":"244ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:52:23+05:30","typing":"848ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:52:34+05:30"}
+{"cluster":"cluster_2","delay":"317ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:52:34+05:30","typing":"1.282s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T16:52:47+05:30"}
+{"cluster":"cluster_2","delay":"461ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:52:47+05:30","typing":"1.195s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:52:59+05:30"}
+{"cluster":"cluster_2","delay":"190ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:52:59+05:30","typing":"1.119s"}
+{"cluster":"cluster_2","delay":"327ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:53:01+05:30","typing":"949ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:53:13+05:30"}
+{"cluster":"cluster_2","delay":"368ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:53:13+05:30","typing":"815ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:53:25+05:30"}
+{"cluster":"cluster_2","delay":"178ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:53:25+05:30","typing":"1.295s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T16:53:37+05:30"}
+{"cluster":"cluster_2","delay":"121ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:53:37+05:30","typing":"1.192s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:53:49+05:30"}
+{"cluster":"cluster_2","delay":"374ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:53:49+05:30","typing":"1.014s"}
+{"cluster":"cluster_2","delay":"366ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:53:51+05:30","typing":"1.036s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:54:03+05:30"}
+{"cluster":"cluster_2","delay":"290ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:54:03+05:30","typing":"1.041s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:54:15+05:30"}
+{"cluster":"cluster_2","delay":"293ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:54:15+05:30","typing":"1.31s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T16:54:28+05:30"}
+{"cluster":"cluster_2","delay":"355ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:54:28+05:30","typing":"1.113s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:54:40+05:30"}
+{"cluster":"cluster_2","delay":"402ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:54:40+05:30","typing":"1.014s"}
+{"cluster":"cluster_2","delay":"366ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:54:42+05:30","typing":"983ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:54:54+05:30"}
+{"cluster":"cluster_2","delay":"422ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:54:54+05:30","typing":"1.037s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:55:06+05:30"}
+{"cluster":"cluster_2","delay":"172ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:55:06+05:30","typing":"1.263s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T16:55:18+05:30"}
+{"cluster":"cluster_2","delay":"275ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:55:18+05:30","typing":"1.149s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:55:31+05:30"}
+{"cluster":"cluster_2","delay":"369ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:55:31+05:30","typing":"977ms"}
+{"cluster":"cluster_2","delay":"404ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:55:33+05:30","typing":"853ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:55:45+05:30"}
+{"cluster":"cluster_2","delay":"447ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:55:45+05:30","typing":"914ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:55:57+05:30"}
+{"cluster":"cluster_2","delay":"403ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:55:57+05:30","typing":"1.427s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T16:56:09+05:30"}
+{"cluster":"cluster_2","delay":"326ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:56:09+05:30","typing":"1.129s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:56:21+05:30"}
+{"cluster":"cluster_2","delay":"471ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:56:21+05:30","typing":"1.15s"}
+{"cluster":"cluster_2","delay":"330ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:56:24+05:30","typing":"990ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:56:36+05:30"}
+{"cluster":"cluster_2","delay":"258ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:56:36+05:30","typing":"1.012s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:56:48+05:30"}
+{"cluster":"cluster_2","delay":"170ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:56:48+05:30","typing":"1.257s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T16:57:00+05:30"}
+{"cluster":"cluster_2","delay":"116ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:57:00+05:30","typing":"1.246s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:57:12+05:30"}
+{"cluster":"cluster_2","delay":"298ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:57:12+05:30","typing":"1.176s"}
+{"cluster":"cluster_2","delay":"371ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:57:14+05:30","typing":"962ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:57:26+05:30"}
+{"cluster":"cluster_2","delay":"325ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:57:26+05:30","typing":"848ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:57:38+05:30"}
+{"cluster":"cluster_2","delay":"214ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:57:38+05:30","typing":"1.313s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T16:57:51+05:30"}
+{"cluster":"cluster_2","delay":"353ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:57:51+05:30","typing":"1.125s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:58:03+05:30"}
+{"cluster":"cluster_2","delay":"400ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:58:03+05:30","typing":"1.032s"}
+{"cluster":"cluster_2","delay":"130ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:58:05+05:30","typing":"1.005s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:58:17+05:30"}
+{"cluster":"cluster_2","delay":"230ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:58:17+05:30","typing":"1.007s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:58:29+05:30"}
+{"cluster":"cluster_2","delay":"135ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:58:29+05:30","typing":"1.413s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T16:58:41+05:30"}
+{"cluster":"cluster_2","delay":"346ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:58:41+05:30","typing":"1.306s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:58:54+05:30"}
+{"cluster":"cluster_2","delay":"249ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:58:54+05:30","typing":"940ms"}
+{"cluster":"cluster_2","delay":"164ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:58:56+05:30","typing":"915ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:59:08+05:30"}
+{"cluster":"cluster_2","delay":"452ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:59:08+05:30","typing":"918ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:59:20+05:30"}
+{"cluster":"cluster_2","delay":"112ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:59:20+05:30","typing":"1.303s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T16:59:32+05:30"}
+{"cluster":"cluster_2","delay":"436ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:59:32+05:30","typing":"1.234s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:59:44+05:30"}
+{"cluster":"cluster_2","delay":"116ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:59:44+05:30","typing":"1.167s"}
+{"cluster":"cluster_2","delay":"110ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:59:46+05:30","typing":"1.013s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:59:58+05:30"}
+{"cluster":"cluster_2","delay":"455ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:59:58+05:30","typing":"919ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T17:00:10+05:30"}
+{"cluster":"cluster_2","delay":"413ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T17:00:10+05:30","typing":"1.226s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T17:00:23+05:30"}
+{"cluster":"cluster_2","delay":"156ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:00:23+05:30","typing":"1.22s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:00:36+05:30"}
+{"cluster":"cluster_2","delay":"236ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T17:00:36+05:30","typing":"940ms"}
+{"cluster":"cluster_2","delay":"428ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:00:38+05:30","typing":"1.034s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:00:50+05:30"}
+{"cluster":"cluster_2","delay":"280ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T17:00:50+05:30","typing":"973ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T17:01:03+05:30"}
+{"cluster":"cluster_2","delay":"313ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T17:01:03+05:30","typing":"1.252s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T17:01:15+05:30"}
+{"cluster":"cluster_2","delay":"291ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:01:15+05:30","typing":"1.151s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:01:27+05:30"}
+{"cluster":"cluster_2","delay":"496ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T17:01:27+05:30","typing":"1.022s"}
+{"cluster":"cluster_2","delay":"327ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:01:30+05:30","typing":"858ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:01:42+05:30"}
+{"cluster":"cluster_2","delay":"286ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T17:01:42+05:30","typing":"935ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T17:01:54+05:30"}
+{"cluster":"cluster_2","delay":"426ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T17:01:54+05:30","typing":"1.4s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T17:02:06+05:30"}
+{"cluster":"cluster_2","delay":"342ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:02:06+05:30","typing":"1.285s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:02:19+05:30"}
+{"cluster":"cluster_2","delay":"253ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T17:02:19+05:30","typing":"1.167s"}
+{"cluster":"cluster_2","delay":"197ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:02:21+05:30","typing":"883ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:02:33+05:30"}
+{"cluster":"cluster_2","delay":"266ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T17:02:33+05:30","typing":"1.012s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T17:02:45+05:30"}
+{"cluster":"cluster_2","delay":"483ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T17:02:45+05:30","typing":"1.201s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T17:02:57+05:30"}
+{"cluster":"cluster_2","delay":"235ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:02:57+05:30","typing":"1.281s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:03:09+05:30"}
+{"cluster":"cluster_2","delay":"493ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T17:03:09+05:30","typing":"985ms"}
+{"cluster":"cluster_2","delay":"400ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:03:11+05:30","typing":"799ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:03:23+05:30"}
+{"cluster":"cluster_2","delay":"448ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T17:03:23+05:30","typing":"881ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T17:03:35+05:30"}
+{"cluster":"cluster_2","delay":"163ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T17:03:35+05:30","typing":"1.277s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T17:03:47+05:30"}
+{"cluster":"cluster_2","delay":"457ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:03:47+05:30","typing":"1.202s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:03:59+05:30"}
+{"cluster":"cluster_2","delay":"177ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T17:03:59+05:30","typing":"966ms"}
+{"cluster":"cluster_2","delay":"339ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:04:01+05:30","typing":"931ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:04:13+05:30"}
+{"cluster":"cluster_2","delay":"244ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T17:04:13+05:30","typing":"802ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T17:04:25+05:30"}
+{"cluster":"cluster_2","delay":"439ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T17:04:25+05:30","typing":"1.372s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T17:04:37+05:30"}
+{"cluster":"cluster_2","delay":"422ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:04:37+05:30","typing":"1.283s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:04:50+05:30"}
+{"cluster":"cluster_2","delay":"444ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T17:04:50+05:30","typing":"1.104s"}
+{"cluster":"cluster_2","delay":"390ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:04:52+05:30","typing":"1.015s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:05:04+05:30"}
+{"cluster":"cluster_2","delay":"226ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T17:05:04+05:30","typing":"984ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T17:05:16+05:30"}
+{"cluster":"cluster_2","delay":"367ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T17:05:16+05:30","typing":"1.269s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T17:05:28+05:30"}
+{"cluster":"cluster_2","delay":"391ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:05:28+05:30","typing":"1.066s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:05:40+05:30"}
+{"cluster":"cluster_2","delay":"297ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T17:05:40+05:30","typing":"939ms"}
+{"cluster":"cluster_2","delay":"325ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:05:42+05:30","typing":"965ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:05:54+05:30"}
+{"cluster":"cluster_2","delay":"480ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T17:05:54+05:30","typing":"961ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T17:06:06+05:30"}
+{"cluster":"cluster_2","delay":"366ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T17:06:06+05:30","typing":"1.356s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T17:06:19+05:30"}
+{"cluster":"cluster_2","delay":"486ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:06:19+05:30","typing":"1.165s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:06:31+05:30"}
+{"cluster":"cluster_2","delay":"133ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T17:06:31+05:30","typing":"1.032s"}
+{"cluster":"cluster_2","delay":"412ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:06:33+05:30","typing":"1.014s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:06:45+05:30"}
+{"cluster":"cluster_2","delay":"268ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T17:06:45+05:30","typing":"945ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T17:06:57+05:30"}
+{"cluster":"cluster_2","delay":"180ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T17:06:57+05:30","typing":"1.338s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T17:07:09+05:30"}
+{"cluster":"cluster_2","delay":"185ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:07:09+05:30","typing":"1.225s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:07:21+05:30"}
+{"cluster":"cluster_2","delay":"397ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T17:07:21+05:30","typing":"1.176s"}
+{"cluster":"cluster_2","delay":"398ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:07:24+05:30","typing":"889ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:07:35+05:30"}
+{"cluster":"cluster_2","delay":"208ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T17:07:36+05:30","typing":"808ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T17:07:47+05:30"}
+{"cluster":"cluster_2","delay":"446ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T17:07:47+05:30","typing":"1.303s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T17:08:00+05:30"}
+{"cluster":"cluster_2","delay":"315ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:08:00+05:30","typing":"1.293s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:08:12+05:30"}
+{"cluster":"cluster_2","delay":"358ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T17:08:12+05:30","typing":"1.065s"}
+{"cluster":"cluster_2","delay":"327ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:08:14+05:30","typing":"1.039s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:08:26+05:30"}
+{"cluster":"cluster_2","delay":"174ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T17:08:26+05:30","typing":"1.038s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T17:08:38+05:30"}
+{"cluster":"cluster_2","delay":"372ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T17:08:38+05:30","typing":"1.208s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T17:08:50+05:30"}
+{"cluster":"cluster_2","delay":"386ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:08:50+05:30","typing":"1.233s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:09:02+05:30"}
+{"cluster":"cluster_2","delay":"109ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T17:09:02+05:30","typing":"1.105s"}
+{"cluster":"cluster_2","delay":"200ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:09:05+05:30","typing":"939ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:09:17+05:30"}
+{"cluster":"cluster_2","delay":"465ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T17:09:17+05:30","typing":"959ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T17:09:29+05:30"}
+{"cluster":"cluster_2","delay":"103ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T17:09:29+05:30","typing":"1.32s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T17:09:41+05:30"}
+{"cluster":"cluster_2","delay":"337ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:09:41+05:30","typing":"1.109s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:09:53+05:30"}
+{"cluster":"cluster_2","delay":"337ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T17:09:53+05:30","typing":"1.144s"}
+{"cluster":"cluster_2","delay":"278ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:09:56+05:30","typing":"868ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:10:07+05:30"}
+{"cluster":"cluster_2","delay":"262ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T17:10:07+05:30","typing":"816ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T17:10:19+05:30"}
+{"cluster":"cluster_2","delay":"287ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T17:10:19+05:30","typing":"1.292s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls crime","time":"2022-07-29T17:10:31+05:30"}
+{"cluster":"cluster_2","delay":"402ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:10:31+05:30","typing":"1.16s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:10:44+05:30"}
+{"cluster":"cluster_2","delay":"219ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls beg","time":"2022-07-29T17:10:44+05:30","typing":"1.077s"}
+{"cluster":"cluster_2","delay":"382ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls work","time":"2022-07-29T17:10:46+05:30","typing":"1.291s"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls work","time":"2022-07-29T17:10:58+05:30"}
+{"cluster":"cluster_2","delay":"130ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:10:58+05:30","typing":"985ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:11:10+05:30"}
+{"cluster":"cluster_2","delay":"127ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls hl","time":"2022-07-29T17:11:10+05:30","typing":"920ms"}
+{"cluster":"cluster_2","instance":"Ysin#6429","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T17:11:22+05:30"}
+{"cluster":"cluster_2","delay":"399ms","instance":"Ysin#6429","level":"info","msg":"sending command: pls crime","time":"2022-07-29T17:11:22+05:30","typing":"1.259s"}

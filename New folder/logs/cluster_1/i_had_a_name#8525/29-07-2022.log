@@ -1,0 +1,894 @@
+{"cluster":"cluster_1","duration":36000000000,"instance":"i_had_a_name#8525","level":"info","msg":"starting shift 1","state":"dormant","time":"2022-07-29T16:03:50+05:30"}
+{"cluster":"cluster_1","duration":13397000000000,"instance":"i_had_a_name#8525","level":"info","msg":"starting shift 2","state":"active","time":"2022-07-29T16:04:26+05:30"}
+{"cluster":"cluster_1","delay":"195ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:04:28+05:30","typing":"1.076s"}
+{"cluster":"cluster_1","delay":"103ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:04:30+05:30","typing":"949ms"}
+{"cluster":"cluster_1","delay":"187ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:04:33+05:30","typing":"1.374s"}
+{"cluster":"cluster_1","delay":"396ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:04:36+05:30","typing":"1.227s"}
+{"cluster":"cluster_1","delay":"129ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:04:39+05:30","typing":"937ms"}
+{"cluster":"cluster_1","delay":"369ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:04:42+05:30","typing":"1.146s"}
+{"cluster":"cluster_1","delay":"197ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:04:45+05:30","typing":"1.106s"}
+{"cluster":"cluster_1","delay":"473ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:04:47+05:30","typing":"961ms"}
+{"cluster":"cluster_1","delay":"205ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls work","time":"2022-07-29T16:04:49+05:30","typing":"1.249s"}
+{"cluster":"cluster_1","delay":"183ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:04:56+05:30","typing":"1.34s"}
+{"cluster":"cluster_1","delay":"262ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls use horse","time":"2022-07-29T16:05:00+05:30","typing":"1.808s"}
+{"cluster":"cluster_1","delay":"177ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:05:03+05:30","typing":"1.542s"}
+{"cluster":"cluster_1","delay":"468ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:05:07+05:30","typing":"1.523s"}
+{"cluster":"cluster_1","delay":"351ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:05:10+05:30","typing":"957ms"}
+{"cluster":"cluster_1","delay":"223ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:05:13+05:30","typing":"1.015s"}
+{"cluster":"cluster_1","delay":"269ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:05:16+05:30","typing":"854ms"}
+{"cluster":"cluster_1","delay":"432ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:05:19+05:30","typing":"1.279s"}
+{"cluster":"cluster_1","delay":"376ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:05:22+05:30","typing":"1.353s"}
+{"cluster":"cluster_1","delay":"413ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:05:26+05:30","typing":"1.226s"}
+{"cluster":"cluster_1","delay":"327ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:05:28+05:30","typing":"1.117s"}
+{"cluster":"cluster_1","delay":"482ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:05:31+05:30","typing":"1.001s"}
+{"cluster":"cluster_1","delay":"396ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:05:33+05:30","typing":"1.557s"}
+{"cluster":"cluster_1","delay":"105ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:05:37+05:30","typing":"1.413s"}
+{"cluster":"cluster_1","delay":"395ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:05:43+05:30","typing":"1.47s"}
+{"cluster":"cluster_1","delay":"130ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:05:47+05:30","typing":"1.044s"}
+{"cluster":"cluster_1","delay":"326ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:05:51+05:30","typing":"947ms"}
+{"cluster":"cluster_1","delay":"402ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:05:53+05:30","typing":"1.492s"}
+{"cluster":"cluster_1","delay":"254ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:05:58+05:30","typing":"1.446s"}
+{"cluster":"cluster_1","delay":"254ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:06:02+05:30","typing":"909ms"}
+{"cluster":"cluster_1","delay":"381ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:06:05+05:30","typing":"1.562s"}
+{"cluster":"cluster_1","delay":"187ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:06:08+05:30","typing":"1.197s"}
+{"cluster":"cluster_1","delay":"254ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:06:11+05:30","typing":"1.496s"}
+{"cluster":"cluster_1","delay":"414ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:06:14+05:30","typing":"1.265s"}
+{"cluster":"cluster_1","delay":"493ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:06:17+05:30","typing":"1.106s"}
+{"cluster":"cluster_1","delay":"174ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:06:19+05:30","typing":"1.466s"}
+{"cluster":"cluster_1","delay":"374ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:06:22+05:30","typing":"962ms"}
+{"cluster":"cluster_1","delay":"183ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:06:28+05:30","typing":"1.348s"}
+{"cluster":"cluster_1","delay":"216ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:06:31+05:30","typing":"1.075s"}
+{"cluster":"cluster_1","delay":"301ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:06:38+05:30","typing":"1.441s"}
+{"cluster":"cluster_1","delay":"235ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:06:41+05:30","typing":"1.354s"}
+{"cluster":"cluster_1","delay":"199ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:06:44+05:30","typing":"1.497s"}
+{"cluster":"cluster_1","delay":"266ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:06:47+05:30","typing":"1.006s"}
+{"cluster":"cluster_1","delay":"390ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:06:50+05:30","typing":"1.218s"}
+{"cluster":"cluster_1","delay":"442ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:06:55+05:30","typing":"1.427s"}
+{"cluster":"cluster_1","delay":"272ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:06:59+05:30","typing":"1.226s"}
+{"cluster":"cluster_1","delay":"458ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:07:01+05:30","typing":"1.143s"}
+{"cluster":"cluster_1","delay":"165ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:07:03+05:30","typing":"929ms"}
+{"cluster":"cluster_1","delay":"327ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:07:07+05:30","typing":"1.395s"}
+{"cluster":"cluster_1","delay":"231ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:07:10+05:30","typing":"1.046s"}
+{"cluster":"cluster_1","delay":"242ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:07:14+05:30","typing":"1.385s"}
+{"cluster":"cluster_1","delay":"476ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:07:17+05:30","typing":"1.462s"}
+{"cluster":"cluster_1","delay":"465ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:07:21+05:30","typing":"1.366s"}
+{"cluster":"cluster_1","delay":"276ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:07:27+05:30","typing":"1.448s"}
+{"cluster":"cluster_1","delay":"227ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:07:30+05:30","typing":"1.245s"}
+{"cluster":"cluster_1","delay":"313ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:07:32+05:30","typing":"915ms"}
+{"cluster":"cluster_1","delay":"344ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:07:36+05:30","typing":"1.337s"}
+{"cluster":"cluster_1","delay":"353ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:07:39+05:30","typing":"863ms"}
+{"cluster":"cluster_1","delay":"305ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:07:42+05:30","typing":"1.207s"}
+{"cluster":"cluster_1","delay":"323ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:07:45+05:30","typing":"1.107s"}
+{"cluster":"cluster_1","delay":"286ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:07:47+05:30","typing":"1.446s"}
+{"cluster":"cluster_1","delay":"130ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:07:50+05:30","typing":"1.371s"}
+{"cluster":"cluster_1","delay":"210ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:07:54+05:30","typing":"1.117s"}
+{"cluster":"cluster_1","delay":"482ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:08:00+05:30","typing":"1.446s"}
+{"cluster":"cluster_1","delay":"431ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:08:03+05:30","typing":"1.23s"}
+{"cluster":"cluster_1","duration":42000000000,"instance":"i_had_a_name#8525","level":"info","msg":"starting shift 1","state":"dormant","time":"2022-07-29T16:09:07+05:30"}
+{"cluster":"cluster_1","duration":11003000000000,"instance":"i_had_a_name#8525","level":"info","msg":"starting shift 2","state":"active","time":"2022-07-29T16:09:49+05:30"}
+{"cluster":"cluster_1","delay":"119ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:09:51+05:30","typing":"1.166s"}
+{"cluster":"cluster_1","delay":"204ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:09:53+05:30","typing":"1.003s"}
+{"cluster":"cluster_1","delay":"288ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:09:56+05:30","typing":"1.522s"}
+{"cluster":"cluster_1","delay":"322ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:09:59+05:30","typing":"1.353s"}
+{"cluster":"cluster_1","delay":"432ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:10:02+05:30","typing":"976ms"}
+{"cluster":"cluster_1","delay":"381ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:10:06+05:30","typing":"1.114s"}
+{"cluster":"cluster_1","delay":"340ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:10:08+05:30","typing":"1.221s"}
+{"cluster":"cluster_1","delay":"350ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:10:10+05:30","typing":"1.038s"}
+{"cluster":"cluster_1","delay":"289ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls work","time":"2022-07-29T16:10:13+05:30","typing":"1.295s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls work","time":"2022-07-29T16:10:25+05:30"}
+{"cluster":"cluster_1","delay":"301ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:10:25+05:30","typing":"1.459s"}
+{"cluster":"cluster_1","delay":"111ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls use horse","time":"2022-07-29T16:10:28+05:30","typing":"1.799s"}
+{"cluster":"cluster_1","delay":"270ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:10:31+05:30","typing":"1.469s"}
+{"cluster":"cluster_1","delay":"442ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:10:35+05:30","typing":"972ms"}
+{"cluster":"cluster_1","delay":"143ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:10:37+05:30","typing":"1.337s"}
+{"cluster":"cluster_1","delay":"328ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:10:40+05:30","typing":"815ms"}
+{"cluster":"cluster_1","delay":"388ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:10:43+05:30","typing":"1.041s"}
+{"cluster":"cluster_1","delay":"442ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:10:46+05:30","typing":"1.213s"}
+{"cluster":"cluster_1","delay":"305ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:10:49+05:30","typing":"1.16s"}
+{"cluster":"cluster_1","delay":"310ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:10:52+05:30","typing":"1.416s"}
+{"cluster":"cluster_1","delay":"313ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:10:56+05:30","typing":"1.222s"}
+{"cluster":"cluster_1","delay":"332ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:10:58+05:30","typing":"980ms"}
+{"cluster":"cluster_1","delay":"369ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:11:01+05:30","typing":"1.349s"}
+{"cluster":"cluster_1","delay":"261ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:11:04+05:30","typing":"1.445s"}
+{"cluster":"cluster_1","delay":"309ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:11:13+05:30","typing":"1.34s"}
+{"cluster":"cluster_1","delay":"485ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:11:16+05:30","typing":"1.053s"}
+{"cluster":"cluster_1","delay":"167ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:11:18+05:30","typing":"801ms"}
+{"cluster":"cluster_1","delay":"268ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:11:22+05:30","typing":"1.472s"}
+{"cluster":"cluster_1","delay":"389ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:11:26+05:30","typing":"1.028s"}
+{"cluster":"cluster_1","delay":"358ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:11:29+05:30","typing":"1.428s"}
+{"cluster":"cluster_1","delay":"371ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:11:33+05:30","typing":"1.246s"}
+{"cluster":"cluster_1","delay":"440ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:11:35+05:30","typing":"1.474s"}
+{"cluster":"cluster_1","delay":"211ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:11:39+05:30","typing":"1.367s"}
+{"cluster":"cluster_1","delay":"280ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:11:42+05:30","typing":"1.233s"}
+{"cluster":"cluster_1","delay":"411ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:11:44+05:30","typing":"982ms"}
+{"cluster":"cluster_1","delay":"191ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:11:48+05:30","typing":"1.439s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"error while clicking button: you are being rate limited, try waiting some time and trying again","time":"2022-07-29T16:11:56+05:30"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"info","msg":"sleeping for 20 seconds","time":"2022-07-29T16:11:56+05:30"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:12:26+05:30"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:12:37+05:30"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:12:48+05:30"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:12:59+05:30"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:13:09+05:30"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:13:20+05:30"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:13:31+05:30"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:13:42+05:30"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:13:52+05:30"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:14:03+05:30"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:14:14+05:30"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:14:25+05:30"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:14:36+05:30"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:14:47+05:30"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:14:58+05:30"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:15:09+05:30"}
+{"cluster":"cluster_1","delay":"196ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:15:09+05:30","typing":"823ms"}
+{"cluster":"cluster_1","delay":"119ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:15:12+05:30","typing":"1.06s"}
+{"cluster":"cluster_1","delay":"117ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:15:14+05:30","typing":"1.52s"}
+{"cluster":"cluster_1","delay":"245ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:15:18+05:30","typing":"1.451s"}
+{"cluster":"cluster_1","delay":"228ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:15:21+05:30","typing":"1.261s"}
+{"cluster":"cluster_1","delay":"151ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:15:24+05:30","typing":"815ms"}
+{"cluster":"cluster_1","delay":"327ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:15:27+05:30","typing":"1.128s"}
+{"cluster":"cluster_1","delay":"490ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:15:29+05:30","typing":"1.304s"}
+{"cluster":"cluster_1","delay":"368ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:15:32+05:30","typing":"1.103s"}
+{"cluster":"cluster_1","delay":"231ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:15:35+05:30","typing":"1.552s"}
+{"cluster":"cluster_1","delay":"190ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:15:42+05:30","typing":"947ms"}
+{"cluster":"cluster_1","delay":"396ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:15:46+05:30","typing":"1.391s"}
+{"cluster":"cluster_1","delay":"313ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:15:50+05:30","typing":"1.486s"}
+{"cluster":"cluster_1","delay":"238ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:15:53+05:30","typing":"987ms"}
+{"cluster":"cluster_1","delay":"385ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:15:55+05:30","typing":"1.399s"}
+{"cluster":"cluster_1","delay":"286ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:16:00+05:30","typing":"1.288s"}
+{"cluster":"cluster_1","delay":"236ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:16:05+05:30","typing":"1.343s"}
+{"cluster":"cluster_1","delay":"367ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:16:08+05:30","typing":"1.158s"}
+{"cluster":"cluster_1","delay":"463ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:16:11+05:30","typing":"875ms"}
+{"cluster":"cluster_1","delay":"171ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:16:13+05:30","typing":"1.26s"}
+{"cluster":"cluster_1","delay":"494ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:16:16+05:30","typing":"1.123s"}
+{"cluster":"cluster_1","delay":"255ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:16:19+05:30","typing":"1.352s"}
+{"cluster":"cluster_1","delay":"295ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:16:22+05:30","typing":"912ms"}
+{"cluster":"cluster_1","delay":"120ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:16:25+05:30","typing":"1.352s"}
+{"cluster":"cluster_1","delay":"183ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:16:28+05:30","typing":"1.387s"}
+{"cluster":"cluster_1","delay":"438ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:16:32+05:30","typing":"1.045s"}
+{"cluster":"cluster_1","delay":"471ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:16:38+05:30","typing":"1.507s"}
+{"cluster":"cluster_1","delay":"292ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:16:41+05:30","typing":"1.408s"}
+{"cluster":"cluster_1","delay":"436ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:16:47+05:30","typing":"1.557s"}
+{"cluster":"cluster_1","delay":"230ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:16:51+05:30","typing":"1.24s"}
+{"cluster":"cluster_1","delay":"472ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:16:53+05:30","typing":"1.283s"}
+{"cluster":"cluster_1","delay":"107ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:16:56+05:30","typing":"1.528s"}
+{"cluster":"cluster_1","delay":"281ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:16:59+05:30","typing":"841ms"}
+{"cluster":"cluster_1","delay":"451ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:17:02+05:30","typing":"1.124s"}
+{"cluster":"cluster_1","delay":"234ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:17:04+05:30","typing":"927ms"}
+{"cluster":"cluster_1","delay":"386ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:17:07+05:30","typing":"1.451s"}
+{"cluster":"cluster_1","delay":"476ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:17:11+05:30","typing":"1.066s"}
+{"cluster":"cluster_1","delay":"418ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:17:17+05:30","typing":"1.545s"}
+{"cluster":"cluster_1","delay":"302ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:17:21+05:30","typing":"1.393s"}
+{"cluster":"cluster_1","delay":"233ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:17:25+05:30","typing":"1.479s"}
+{"cluster":"cluster_1","delay":"465ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:17:29+05:30","typing":"1.454s"}
+{"cluster":"cluster_1","delay":"128ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:17:32+05:30","typing":"1.265s"}
+{"cluster":"cluster_1","delay":"475ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:17:35+05:30","typing":"1.199s"}
+{"cluster":"cluster_1","delay":"311ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:17:38+05:30","typing":"940ms"}
+{"cluster":"cluster_1","delay":"324ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:17:41+05:30","typing":"1.478s"}
+{"cluster":"cluster_1","delay":"238ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:17:45+05:30","typing":"938ms"}
+{"cluster":"cluster_1","delay":"433ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:17:47+05:30","typing":"909ms"}
+{"cluster":"cluster_1","delay":"227ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:17:50+05:30","typing":"1.12s"}
+{"cluster":"cluster_1","delay":"234ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:17:52+05:30","typing":"1.4s"}
+{"cluster":"cluster_1","delay":"109ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:17:56+05:30","typing":"1.568s"}
+{"cluster":"cluster_1","delay":"278ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:18:00+05:30","typing":"1.254s"}
+{"cluster":"cluster_1","delay":"448ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:18:04+05:30","typing":"1.483s"}
+{"cluster":"cluster_1","delay":"111ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:18:12+05:30","typing":"1.168s"}
+{"cluster":"cluster_1","delay":"118ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:18:14+05:30","typing":"966ms"}
+{"cluster":"cluster_1","delay":"476ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:18:17+05:30","typing":"1.553s"}
+{"cluster":"cluster_1","delay":"488ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:18:21+05:30","typing":"1.114s"}
+{"cluster":"cluster_1","delay":"417ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:18:24+05:30","typing":"1.079s"}
+{"cluster":"cluster_1","delay":"383ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:18:26+05:30","typing":"1.509s"}
+{"cluster":"cluster_1","delay":"359ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:18:30+05:30","typing":"1.416s"}
+{"cluster":"cluster_1","delay":"475ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:18:33+05:30","typing":"1.033s"}
+{"cluster":"cluster_1","delay":"424ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:18:35+05:30","typing":"850ms"}
+{"cluster":"cluster_1","delay":"445ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:18:39+05:30","typing":"1.213s"}
+{"cluster":"cluster_1","delay":"362ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:18:43+05:30","typing":"1.377s"}
+{"cluster":"cluster_1","delay":"100ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:18:48+05:30","typing":"931ms"}
+{"cluster":"cluster_1","delay":"279ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:18:51+05:30","typing":"1.137s"}
+{"cluster":"cluster_1","delay":"203ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:18:54+05:30","typing":"1.363s"}
+{"cluster":"cluster_1","delay":"140ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:18:57+05:30","typing":"1.443s"}
+{"cluster":"cluster_1","delay":"368ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:19:00+05:30","typing":"1.206s"}
+{"cluster":"cluster_1","delay":"271ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:19:03+05:30","typing":"1.578s"}
+{"cluster":"cluster_1","delay":"296ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:19:06+05:30","typing":"1.168s"}
+{"cluster":"cluster_1","delay":"366ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:19:12+05:30","typing":"1.471s"}
+{"cluster":"cluster_1","delay":"435ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:19:16+05:30","typing":"998ms"}
+{"cluster":"cluster_1","delay":"470ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:19:19+05:30","typing":"1.343s"}
+{"cluster":"cluster_1","delay":"475ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:19:22+05:30","typing":"1.021s"}
+{"cluster":"cluster_1","delay":"469ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:19:25+05:30","typing":"1.421s"}
+{"cluster":"cluster_1","delay":"394ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:19:29+05:30","typing":"1.036s"}
+{"cluster":"cluster_1","delay":"497ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:19:31+05:30","typing":"1.462s"}
+{"cluster":"cluster_1","delay":"419ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:19:35+05:30","typing":"1.203s"}
+{"cluster":"cluster_1","delay":"197ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:19:37+05:30","typing":"1.504s"}
+{"cluster":"cluster_1","delay":"132ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:19:41+05:30","typing":"1.286s"}
+{"cluster":"cluster_1","delay":"466ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:19:46+05:30","typing":"1.085s"}
+{"cluster":"cluster_1","delay":"247ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:19:48+05:30","typing":"1.334s"}
+{"cluster":"cluster_1","delay":"393ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:19:55+05:30","typing":"1.107s"}
+{"cluster":"cluster_1","delay":"252ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:19:57+05:30","typing":"1.446s"}
+{"cluster":"cluster_1","delay":"401ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:20:01+05:30","typing":"1.35s"}
+{"cluster":"cluster_1","delay":"224ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:20:04+05:30","typing":"1.553s"}
+{"cluster":"cluster_1","delay":"326ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:20:08+05:30","typing":"931ms"}
+{"cluster":"cluster_1","delay":"360ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:20:11+05:30","typing":"862ms"}
+{"cluster":"cluster_1","delay":"359ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:20:13+05:30","typing":"1.545s"}
+{"cluster":"cluster_1","delay":"383ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:20:17+05:30","typing":"1.251s"}
+{"cluster":"cluster_1","delay":"268ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:20:20+05:30","typing":"1.243s"}
+{"cluster":"cluster_1","delay":"223ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:20:23+05:30","typing":"1.572s"}
+{"cluster":"cluster_1","delay":"390ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:20:27+05:30","typing":"1.071s"}
+{"cluster":"cluster_1","delay":"164ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:20:33+05:30","typing":"1.467s"}
+{"cluster":"cluster_1","delay":"472ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:20:36+05:30","typing":"1.42s"}
+{"cluster":"cluster_1","delay":"216ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:20:39+05:30","typing":"1.165s"}
+{"cluster":"cluster_1","delay":"240ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:20:41+05:30","typing":"1.385s"}
+{"cluster":"cluster_1","delay":"106ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:20:45+05:30","typing":"848ms"}
+{"cluster":"cluster_1","delay":"384ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:20:48+05:30","typing":"1.386s"}
+{"cluster":"cluster_1","delay":"329ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:20:55+05:30","typing":"835ms"}
+{"cluster":"cluster_1","delay":"133ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:20:58+05:30","typing":"1.096s"}
+{"cluster":"cluster_1","delay":"414ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:21:00+05:30","typing":"1.432s"}
+{"cluster":"cluster_1","delay":"470ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:21:03+05:30","typing":"1.188s"}
+{"cluster":"cluster_1","delay":"118ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:21:06+05:30","typing":"1.516s"}
+{"cluster":"cluster_1","delay":"381ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:21:09+05:30","typing":"1.034s"}
+{"cluster":"cluster_1","delay":"128ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:21:12+05:30","typing":"1.378s"}
+{"cluster":"cluster_1","delay":"403ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:21:18+05:30","typing":"1.014s"}
+{"cluster":"cluster_1","delay":"255ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:21:20+05:30","typing":"938ms"}
+{"cluster":"cluster_1","delay":"216ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:21:23+05:30","typing":"1.313s"}
+{"cluster":"cluster_1","delay":"136ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:21:26+05:30","typing":"1.453s"}
+{"cluster":"cluster_1","delay":"138ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:21:35+05:30","typing":"1.537s"}
+{"cluster":"cluster_1","delay":"482ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:21:39+05:30","typing":"1.571s"}
+{"cluster":"cluster_1","delay":"267ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:21:43+05:30","typing":"1.124s"}
+{"cluster":"cluster_1","delay":"471ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:21:45+05:30","typing":"970ms"}
+{"cluster":"cluster_1","delay":"498ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:21:48+05:30","typing":"1.162s"}
+{"cluster":"cluster_1","delay":"197ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:21:50+05:30","typing":"1.423s"}
+{"cluster":"cluster_1","delay":"471ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:21:53+05:30","typing":"1.041s"}
+{"cluster":"cluster_1","delay":"241ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:21:56+05:30","typing":"861ms"}
+{"cluster":"cluster_1","delay":"436ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:21:59+05:30","typing":"1.086s"}
+{"cluster":"cluster_1","delay":"413ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:22:01+05:30","typing":"1.394s"}
+{"cluster":"cluster_1","delay":"182ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:22:04+05:30","typing":"1.393s"}
+{"cluster":"cluster_1","delay":"153ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:22:07+05:30","typing":"1.37s"}
+{"cluster":"cluster_1","delay":"339ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:22:11+05:30","typing":"1.372s"}
+{"cluster":"cluster_1","delay":"124ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:22:20+05:30","typing":"1.563s"}
+{"cluster":"cluster_1","delay":"324ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:22:24+05:30","typing":"1.31s"}
+{"cluster":"cluster_1","delay":"449ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:22:27+05:30","typing":"1.081s"}
+{"cluster":"cluster_1","delay":"448ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:22:29+05:30","typing":"926ms"}
+{"cluster":"cluster_1","delay":"376ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:22:32+05:30","typing":"897ms"}
+{"cluster":"cluster_1","delay":"336ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:22:36+05:30","typing":"1.557s"}
+{"cluster":"cluster_1","delay":"219ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:22:39+05:30","typing":"1.111s"}
+{"cluster":"cluster_1","delay":"187ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:22:42+05:30","typing":"1.378s"}
+{"cluster":"cluster_1","delay":"288ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:22:45+05:30","typing":"948ms"}
+{"cluster":"cluster_1","delay":"314ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:22:47+05:30","typing":"1.296s"}
+{"cluster":"cluster_1","delay":"145ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:22:50+05:30","typing":"1.49s"}
+{"cluster":"cluster_1","delay":"274ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:22:59+05:30","typing":"1.578s"}
+{"cluster":"cluster_1","delay":"249ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:23:03+05:30","typing":"1.198s"}
+{"cluster":"cluster_1","delay":"491ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:23:06+05:30","typing":"1.257s"}
+{"cluster":"cluster_1","delay":"329ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:23:09+05:30","typing":"845ms"}
+{"cluster":"cluster_1","delay":"496ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:23:11+05:30","typing":"1.495s"}
+{"cluster":"cluster_1","delay":"445ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:23:15+05:30","typing":"1.454s"}
+{"cluster":"cluster_1","delay":"354ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:23:18+05:30","typing":"973ms"}
+{"cluster":"cluster_1","delay":"290ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:23:21+05:30","typing":"1.018s"}
+{"cluster":"cluster_1","delay":"292ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:23:23+05:30","typing":"1.355s"}
+{"cluster":"cluster_1","delay":"167ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:23:27+05:30","typing":"932ms"}
+{"cluster":"cluster_1","delay":"216ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:23:28+05:30","typing":"1.205s"}
+{"cluster":"cluster_1","delay":"432ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:23:33+05:30","typing":"1.338s"}
+{"cluster":"cluster_1","delay":"103ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:23:42+05:30","typing":"1.453s"}
+{"cluster":"cluster_1","delay":"330ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:23:46+05:30","typing":"843ms"}
+{"cluster":"cluster_1","delay":"181ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:23:49+05:30","typing":"1.18s"}
+{"cluster":"cluster_1","delay":"484ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:23:51+05:30","typing":"1.458s"}
+{"cluster":"cluster_1","delay":"481ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:23:55+05:30","typing":"1.086s"}
+{"cluster":"cluster_1","delay":"419ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:23:57+05:30","typing":"1.494s"}
+{"cluster":"cluster_1","delay":"295ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:24:01+05:30","typing":"1.115s"}
+{"cluster":"cluster_1","delay":"386ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:24:03+05:30","typing":"1.033s"}
+{"cluster":"cluster_1","delay":"195ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:24:06+05:30","typing":"1.169s"}
+{"cluster":"cluster_1","delay":"488ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:24:08+05:30","typing":"1.419s"}
+{"cluster":"cluster_1","delay":"450ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:24:12+05:30","typing":"1.22s"}
+{"cluster":"cluster_1","delay":"371ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:24:18+05:30","typing":"1.505s"}
+{"cluster":"cluster_1","delay":"196ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:24:21+05:30","typing":"987ms"}
+{"cluster":"cluster_1","delay":"299ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:24:24+05:30","typing":"1.366s"}
+{"cluster":"cluster_1","delay":"414ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:24:28+05:30","typing":"1.342s"}
+{"cluster":"cluster_1","delay":"300ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:24:31+05:30","typing":"1.101s"}
+{"cluster":"cluster_1","delay":"361ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:24:34+05:30","typing":"1.157s"}
+{"cluster":"cluster_1","delay":"477ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:24:37+05:30","typing":"1.559s"}
+{"cluster":"cluster_1","delay":"363ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:24:40+05:30","typing":"946ms"}
+{"cluster":"cluster_1","delay":"176ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:24:45+05:30","typing":"1.041s"}
+{"cluster":"cluster_1","delay":"376ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:24:47+05:30","typing":"1.353s"}
+{"cluster":"cluster_1","delay":"276ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:24:51+05:30","typing":"965ms"}
+{"cluster":"cluster_1","delay":"497ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:24:54+05:30","typing":"1.286s"}
+{"cluster":"cluster_1","delay":"454ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:24:58+05:30","typing":"1.439s"}
+{"cluster":"cluster_1","delay":"297ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:25:01+05:30","typing":"867ms"}
+{"cluster":"cluster_1","delay":"227ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:25:04+05:30","typing":"1.513s"}
+{"cluster":"cluster_1","delay":"470ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:25:10+05:30","typing":"1.277s"}
+{"cluster":"cluster_1","delay":"301ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:25:13+05:30","typing":"1.274s"}
+{"cluster":"cluster_1","delay":"314ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:25:16+05:30","typing":"1.347s"}
+{"cluster":"cluster_1","delay":"198ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:25:19+05:30","typing":"1.162s"}
+{"cluster":"cluster_1","delay":"499ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:25:24+05:30","typing":"983ms"}
+{"cluster":"cluster_1","delay":"242ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:25:26+05:30","typing":"1.48s"}
+{"cluster":"cluster_1","delay":"439ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:25:30+05:30","typing":"1.53s"}
+{"cluster":"cluster_1","delay":"329ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:25:35+05:30","typing":"1.353s"}
+{"cluster":"cluster_1","delay":"375ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:25:40+05:30","typing":"995ms"}
+{"cluster":"cluster_1","delay":"308ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:25:43+05:30","typing":"821ms"}
+{"cluster":"cluster_1","delay":"414ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:25:46+05:30","typing":"1.529s"}
+{"cluster":"cluster_1","delay":"145ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:25:50+05:30","typing":"1.081s"}
+{"cluster":"cluster_1","delay":"350ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:25:53+05:30","typing":"1.126s"}
+{"cluster":"cluster_1","delay":"371ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:25:56+05:30","typing":"1.425s"}
+{"cluster":"cluster_1","delay":"246ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:25:59+05:30","typing":"1.043s"}
+{"cluster":"cluster_1","delay":"110ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:26:01+05:30","typing":"1.518s"}
+{"cluster":"cluster_1","delay":"376ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:26:05+05:30","typing":"962ms"}
+{"cluster":"cluster_1","delay":"247ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:26:07+05:30","typing":"1.472s"}
+{"cluster":"cluster_1","delay":"479ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:26:14+05:30","typing":"1.311s"}
+{"cluster":"cluster_1","delay":"437ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:26:18+05:30","typing":"1.402s"}
+{"cluster":"cluster_1","delay":"385ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:26:21+05:30","typing":"1.04s"}
+{"cluster":"cluster_1","delay":"175ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:26:24+05:30","typing":"965ms"}
+{"cluster":"cluster_1","delay":"156ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:26:27+05:30","typing":"1.562s"}
+{"cluster":"cluster_1","delay":"229ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:26:31+05:30","typing":"1.205s"}
+{"cluster":"cluster_1","delay":"491ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:26:33+05:30","typing":"1.33s"}
+{"cluster":"cluster_1","delay":"497ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:26:37+05:30","typing":"1.137s"}
+{"cluster":"cluster_1","delay":"276ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:26:39+05:30","typing":"1.523s"}
+{"cluster":"cluster_1","delay":"173ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:26:43+05:30","typing":"969ms"}
+{"cluster":"cluster_1","delay":"248ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:26:45+05:30","typing":"961ms"}
+{"cluster":"cluster_1","delay":"494ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:26:49+05:30","typing":"1.351s"}
+{"cluster":"cluster_1","delay":"345ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:26:54+05:30","typing":"1.296s"}
+{"cluster":"cluster_1","delay":"405ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:26:57+05:30","typing":"857ms"}
+{"cluster":"cluster_1","delay":"439ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:27:00+05:30","typing":"1.5s"}
+{"cluster":"cluster_1","delay":"361ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:27:03+05:30","typing":"1.507s"}
+{"cluster":"cluster_1","delay":"420ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:27:08+05:30","typing":"1.013s"}
+{"cluster":"cluster_1","delay":"393ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:27:11+05:30","typing":"1.561s"}
+{"cluster":"cluster_1","delay":"123ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:27:15+05:30","typing":"1.215s"}
+{"cluster":"cluster_1","delay":"394ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:27:17+05:30","typing":"1.291s"}
+{"cluster":"cluster_1","delay":"197ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:27:21+05:30","typing":"1.47s"}
+{"cluster":"cluster_1","delay":"350ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:27:25+05:30","typing":"1.142s"}
+{"cluster":"cluster_1","delay":"151ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:27:27+05:30","typing":"959ms"}
+{"cluster":"cluster_1","delay":"333ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:27:30+05:30","typing":"1.508s"}
+{"cluster":"cluster_1","delay":"314ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:27:34+05:30","typing":"1.041s"}
+{"cluster":"cluster_1","delay":"333ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:27:37+05:30","typing":"1.348s"}
+{"cluster":"cluster_1","delay":"368ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:27:40+05:30","typing":"1.373s"}
+{"cluster":"cluster_1","delay":"229ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:27:44+05:30","typing":"1.514s"}
+{"cluster":"cluster_1","delay":"253ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:27:52+05:30","typing":"879ms"}
+{"cluster":"cluster_1","delay":"245ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:27:55+05:30","typing":"1.417s"}
+{"cluster":"cluster_1","delay":"228ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:27:58+05:30","typing":"1.137s"}
+{"cluster":"cluster_1","delay":"159ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:28:01+05:30","typing":"1.069s"}
+{"cluster":"cluster_1","delay":"220ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:28:04+05:30","typing":"1.085s"}
+{"cluster":"cluster_1","delay":"380ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:28:06+05:30","typing":"1.486s"}
+{"cluster":"cluster_1","delay":"218ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:28:10+05:30","typing":"1.386s"}
+{"cluster":"cluster_1","delay":"445ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:28:14+05:30","typing":"1.01s"}
+{"cluster":"cluster_1","delay":"354ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:28:16+05:30","typing":"1.04s"}
+{"cluster":"cluster_1","delay":"283ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:28:19+05:30","typing":"1.51s"}
+{"cluster":"cluster_1","delay":"453ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:28:22+05:30","typing":"1.348s"}
+{"cluster":"cluster_1","delay":"456ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:28:28+05:30","typing":"1.37s"}
+{"cluster":"cluster_1","delay":"476ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:28:36+05:30","typing":"988ms"}
+{"cluster":"cluster_1","delay":"216ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:28:39+05:30","typing":"1.158s"}
+{"cluster":"cluster_1","delay":"354ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:28:41+05:30","typing":"1.409s"}
+{"cluster":"cluster_1","delay":"438ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:28:45+05:30","typing":"1.342s"}
+{"cluster":"cluster_1","delay":"102ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:28:48+05:30","typing":"1.187s"}
+{"cluster":"cluster_1","delay":"306ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:28:51+05:30","typing":"1.059s"}
+{"cluster":"cluster_1","delay":"197ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:28:53+05:30","typing":"993ms"}
+{"cluster":"cluster_1","delay":"334ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:28:56+05:30","typing":"1.353s"}
+{"cluster":"cluster_1","delay":"446ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:28:59+05:30","typing":"1.159s"}
+{"cluster":"cluster_1","delay":"328ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:29:02+05:30","typing":"1.275s"}
+{"cluster":"cluster_1","delay":"430ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:29:06+05:30","typing":"1.466s"}
+{"cluster":"cluster_1","delay":"329ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:29:14+05:30","typing":"1.515s"}
+{"cluster":"cluster_1","delay":"325ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:29:18+05:30","typing":"1.388s"}
+{"cluster":"cluster_1","delay":"216ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:29:21+05:30","typing":"1.125s"}
+{"cluster":"cluster_1","delay":"229ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:29:23+05:30","typing":"800ms"}
+{"cluster":"cluster_1","delay":"430ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:29:27+05:30","typing":"811ms"}
+{"cluster":"cluster_1","delay":"358ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:29:30+05:30","typing":"1.521s"}
+{"cluster":"cluster_1","delay":"143ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:29:34+05:30","typing":"1.167s"}
+{"cluster":"cluster_1","delay":"397ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:29:36+05:30","typing":"969ms"}
+{"cluster":"cluster_1","delay":"231ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:29:39+05:30","typing":"1.023s"}
+{"cluster":"cluster_1","delay":"114ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:29:41+05:30","typing":"1.349s"}
+{"cluster":"cluster_1","delay":"172ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:29:44+05:30","typing":"1.276s"}
+{"cluster":"cluster_1","delay":"415ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:29:47+05:30","typing":"1.341s"}
+{"cluster":"cluster_1","delay":"173ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:29:51+05:30","typing":"1.375s"}
+{"cluster":"cluster_1","delay":"411ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:30:00+05:30","typing":"1.301s"}
+{"cluster":"cluster_1","delay":"496ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:30:04+05:30","typing":"914ms"}
+{"cluster":"cluster_1","delay":"160ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:30:07+05:30","typing":"1.526s"}
+{"cluster":"cluster_1","delay":"155ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:30:10+05:30","typing":"894ms"}
+{"cluster":"cluster_1","delay":"182ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:30:14+05:30","typing":"1.18s"}
+{"cluster":"cluster_1","delay":"108ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:30:16+05:30","typing":"1.071s"}
+{"cluster":"cluster_1","delay":"184ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:30:19+05:30","typing":"1.515s"}
+{"cluster":"cluster_1","delay":"241ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:30:22+05:30","typing":"1.42s"}
+{"cluster":"cluster_1","delay":"168ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:30:26+05:30","typing":"1.023s"}
+{"cluster":"cluster_1","delay":"268ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:30:28+05:30","typing":"1.291s"}
+{"cluster":"cluster_1","delay":"365ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:30:32+05:30","typing":"1.354s"}
+{"cluster":"cluster_1","delay":"207ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:30:38+05:30","typing":"815ms"}
+{"cluster":"cluster_1","delay":"144ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:30:41+05:30","typing":"1.156s"}
+{"cluster":"cluster_1","delay":"115ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:30:43+05:30","typing":"1.405s"}
+{"cluster":"cluster_1","delay":"334ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:30:52+05:30","typing":"1.412s"}
+{"cluster":"cluster_1","delay":"465ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:30:56+05:30","typing":"1.36s"}
+{"cluster":"cluster_1","delay":"491ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:31:00+05:30","typing":"1.082s"}
+{"cluster":"cluster_1","delay":"250ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:31:02+05:30","typing":"812ms"}
+{"cluster":"cluster_1","delay":"263ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:31:05+05:30","typing":"941ms"}
+{"cluster":"cluster_1","delay":"261ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:31:08+05:30","typing":"1.092s"}
+{"cluster":"cluster_1","delay":"464ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:31:10+05:30","typing":"1.525s"}
+{"cluster":"cluster_1","delay":"116ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:31:13+05:30","typing":"1.441s"}
+{"cluster":"cluster_1","delay":"219ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:31:17+05:30","typing":"843ms"}
+{"cluster":"cluster_1","delay":"248ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:31:20+05:30","typing":"1.547s"}
+{"cluster":"cluster_1","delay":"488ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:31:24+05:30","typing":"1.144s"}
+{"cluster":"cluster_1","delay":"422ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:31:26+05:30","typing":"1.474s"}
+{"cluster":"cluster_1","delay":"404ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:31:30+05:30","typing":"1.402s"}
+{"cluster":"cluster_1","delay":"222ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:31:39+05:30","typing":"1.153s"}
+{"cluster":"cluster_1","delay":"215ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:31:41+05:30","typing":"1.571s"}
+{"cluster":"cluster_1","delay":"251ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:31:45+05:30","typing":"1.085s"}
+{"cluster":"cluster_1","delay":"460ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:31:47+05:30","typing":"819ms"}
+{"cluster":"cluster_1","delay":"406ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:31:50+05:30","typing":"1.023s"}
+{"cluster":"cluster_1","delay":"298ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:31:52+05:30","typing":"828ms"}
+{"cluster":"cluster_1","delay":"262ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:31:56+05:30","typing":"1.37s"}
+{"cluster":"cluster_1","delay":"148ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:31:59+05:30","typing":"1.393s"}
+{"cluster":"cluster_1","delay":"161ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:32:03+05:30","typing":"1.367s"}
+{"cluster":"cluster_1","delay":"440ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:32:06+05:30","typing":"1.255s"}
+{"cluster":"cluster_1","delay":"272ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:32:09+05:30","typing":"1.387s"}
+{"cluster":"cluster_1","delay":"253ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:32:18+05:30","typing":"1.55s"}
+{"cluster":"cluster_1","delay":"170ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:32:22+05:30","typing":"1.229s"}
+{"cluster":"cluster_1","delay":"447ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:32:24+05:30","typing":"989ms"}
+{"cluster":"cluster_1","delay":"462ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:32:27+05:30","typing":"947ms"}
+{"cluster":"cluster_1","delay":"394ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:32:30+05:30","typing":"1.494s"}
+{"cluster":"cluster_1","delay":"219ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:32:34+05:30","typing":"1.166s"}
+{"cluster":"cluster_1","delay":"438ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:32:36+05:30","typing":"996ms"}
+{"cluster":"cluster_1","delay":"358ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:32:39+05:30","typing":"1.363s"}
+{"cluster":"cluster_1","delay":"114ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:32:42+05:30","typing":"1.335s"}
+{"cluster":"cluster_1","delay":"477ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:32:46+05:30","typing":"1.574s"}
+{"cluster":"cluster_1","delay":"182ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:32:49+05:30","typing":"1.224s"}
+{"cluster":"cluster_1","delay":"488ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:32:55+05:30","typing":"1.457s"}
+{"cluster":"cluster_1","delay":"418ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:33:01+05:30","typing":"931ms"}
+{"cluster":"cluster_1","delay":"365ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:33:04+05:30","typing":"1.181s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:33:18+05:30"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:33:29+05:30"}
+{"cluster":"cluster_1","delay":"221ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:33:29+05:30","typing":"1.018s"}
+{"cluster":"cluster_1","delay":"329ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:33:31+05:30","typing":"1.359s"}
+{"cluster":"cluster_1","delay":"261ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:33:35+05:30","typing":"1.492s"}
+{"cluster":"cluster_1","delay":"214ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:33:38+05:30","typing":"1.132s"}
+{"cluster":"cluster_1","delay":"412ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:33:40+05:30","typing":"857ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:33:53+05:30"}
+{"cluster":"cluster_1","delay":"230ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:33:53+05:30","typing":"1.207s"}
+{"cluster":"cluster_1","delay":"442ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:33:59+05:30","typing":"1.22s"}
+{"cluster":"cluster_1","delay":"157ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:34:02+05:30","typing":"1.017s"}
+{"cluster":"cluster_1","delay":"284ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:34:05+05:30","typing":"1.454s"}
+{"cluster":"cluster_1","delay":"236ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:34:09+05:30","typing":"1.312s"}
+{"cluster":"cluster_1","delay":"358ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:34:12+05:30","typing":"1.425s"}
+{"cluster":"cluster_1","delay":"435ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:34:16+05:30","typing":"1.126s"}
+{"cluster":"cluster_1","delay":"103ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:34:18+05:30","typing":"1.35s"}
+{"cluster":"cluster_1","delay":"385ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:34:22+05:30","typing":"1.066s"}
+{"cluster":"cluster_1","delay":"329ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:34:25+05:30","typing":"852ms"}
+{"cluster":"cluster_1","delay":"129ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:34:28+05:30","typing":"1.465s"}
+{"cluster":"cluster_1","delay":"258ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:34:32+05:30","typing":"1.373s"}
+{"cluster":"cluster_1","delay":"167ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:34:36+05:30","typing":"838ms"}
+{"cluster":"cluster_1","delay":"111ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:34:39+05:30","typing":"1.555s"}
+{"cluster":"cluster_1","delay":"468ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:34:43+05:30","typing":"1.213s"}
+{"cluster":"cluster_1","delay":"100ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:34:46+05:30","typing":"1.536s"}
+{"cluster":"cluster_1","delay":"330ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:34:50+05:30","typing":"1.235s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"error while clicking button: you are being rate limited, try waiting some time and trying again","time":"2022-07-29T16:34:58+05:30"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"info","msg":"sleeping for 20 seconds","time":"2022-07-29T16:34:58+05:30"}
+{"cluster":"cluster_1","delay":"278ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:35:19+05:30","typing":"1.403s"}
+{"cluster":"cluster_1","delay":"252ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:35:22+05:30","typing":"1.066s"}
+{"cluster":"cluster_1","delay":"396ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:35:25+05:30","typing":"958ms"}
+{"cluster":"cluster_1","delay":"257ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:35:27+05:30","typing":"941ms"}
+{"cluster":"cluster_1","delay":"196ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:35:30+05:30","typing":"908ms"}
+{"cluster":"cluster_1","delay":"438ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:35:33+05:30","typing":"1.311s"}
+{"cluster":"cluster_1","delay":"386ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:35:36+05:30","typing":"1.558s"}
+{"cluster":"cluster_1","delay":"153ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:35:40+05:30","typing":"1.295s"}
+{"cluster":"cluster_1","delay":"495ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:35:42+05:30","typing":"1.35s"}
+{"cluster":"cluster_1","delay":"248ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:35:46+05:30","typing":"1.078s"}
+{"cluster":"cluster_1","delay":"110ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:35:52+05:30","typing":"1.416s"}
+{"cluster":"cluster_1","delay":"440ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:36:01+05:30","typing":"1.52s"}
+{"cluster":"cluster_1","delay":"344ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:36:05+05:30","typing":"1.045s"}
+{"cluster":"cluster_1","delay":"270ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:36:07+05:30","typing":"990ms"}
+{"cluster":"cluster_1","delay":"282ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:36:10+05:30","typing":"963ms"}
+{"cluster":"cluster_1","delay":"236ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:36:12+05:30","typing":"1.519s"}
+{"cluster":"cluster_1","delay":"132ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:36:16+05:30","typing":"1.478s"}
+{"cluster":"cluster_1","delay":"433ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:36:20+05:30","typing":"972ms"}
+{"cluster":"cluster_1","delay":"444ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:36:23+05:30","typing":"1.223s"}
+{"cluster":"cluster_1","delay":"135ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:36:27+05:30","typing":"1.065s"}
+{"cluster":"cluster_1","delay":"473ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:36:29+05:30","typing":"1.288s"}
+{"cluster":"cluster_1","delay":"240ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:36:32+05:30","typing":"1.5s"}
+{"cluster":"cluster_1","delay":"344ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:36:41+05:30","typing":"957ms"}
+{"cluster":"cluster_1","delay":"223ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:36:45+05:30","typing":"1.565s"}
+{"cluster":"cluster_1","delay":"114ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:36:49+05:30","typing":"1.36s"}
+{"cluster":"cluster_1","delay":"294ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:36:52+05:30","typing":"935ms"}
+{"cluster":"cluster_1","delay":"335ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:36:54+05:30","typing":"978ms"}
+{"cluster":"cluster_1","delay":"435ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:36:56+05:30","typing":"1.576s"}
+{"cluster":"cluster_1","delay":"299ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:37:02+05:30","typing":"1.408s"}
+{"cluster":"cluster_1","delay":"415ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:37:06+05:30","typing":"1.01s"}
+{"cluster":"cluster_1","delay":"476ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:37:09+05:30","typing":"1.562s"}
+{"cluster":"cluster_1","delay":"355ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:37:12+05:30","typing":"1.271s"}
+{"cluster":"cluster_1","delay":"467ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:37:15+05:30","typing":"1.093s"}
+{"cluster":"cluster_1","delay":"272ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:37:17+05:30","typing":"848ms"}
+{"cluster":"cluster_1","delay":"190ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:37:21+05:30","typing":"1.552s"}
+{"cluster":"cluster_1","delay":"378ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:37:24+05:30","typing":"1.575s"}
+{"cluster":"cluster_1","delay":"454ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:37:31+05:30","typing":"1.122s"}
+{"cluster":"cluster_1","delay":"312ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:37:33+05:30","typing":"1.003s"}
+{"cluster":"cluster_1","delay":"271ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:37:35+05:30","typing":"1.386s"}
+{"cluster":"cluster_1","delay":"383ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:37:42+05:30","typing":"1.227s"}
+{"cluster":"cluster_1","delay":"118ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:37:46+05:30","typing":"1.347s"}
+{"cluster":"cluster_1","delay":"237ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:37:50+05:30","typing":"880ms"}
+{"cluster":"cluster_1","delay":"141ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:37:53+05:30","typing":"1.53s"}
+{"cluster":"cluster_1","delay":"339ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:37:56+05:30","typing":"827ms"}
+{"cluster":"cluster_1","delay":"181ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:37:59+05:30","typing":"1.069s"}
+{"cluster":"cluster_1","delay":"333ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:38:02+05:30","typing":"1.202s"}
+{"cluster":"cluster_1","delay":"331ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:38:04+05:30","typing":"1.331s"}
+{"cluster":"cluster_1","delay":"207ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:38:10+05:30","typing":"983ms"}
+{"cluster":"cluster_1","delay":"190ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:38:12+05:30","typing":"1.062s"}
+{"cluster":"cluster_1","delay":"208ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:38:15+05:30","typing":"1.402s"}
+{"cluster":"cluster_1","delay":"157ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:38:21+05:30","typing":"1.389s"}
+{"cluster":"cluster_1","delay":"362ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:38:25+05:30","typing":"1.505s"}
+{"cluster":"cluster_1","delay":"412ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:38:28+05:30","typing":"1.367s"}
+{"cluster":"cluster_1","delay":"179ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:38:31+05:30","typing":"935ms"}
+{"cluster":"cluster_1","delay":"142ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:38:35+05:30","typing":"836ms"}
+{"cluster":"cluster_1","delay":"104ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:38:38+05:30","typing":"1.513s"}
+{"cluster":"cluster_1","delay":"457ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:38:41+05:30","typing":"1.108s"}
+{"cluster":"cluster_1","delay":"444ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:38:44+05:30","typing":"1.245s"}
+{"cluster":"cluster_1","delay":"109ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:38:47+05:30","typing":"1.495s"}
+{"cluster":"cluster_1","delay":"107ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:38:50+05:30","typing":"1.076s"}
+{"cluster":"cluster_1","delay":"276ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:38:53+05:30","typing":"1.109s"}
+{"cluster":"cluster_1","delay":"160ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:38:55+05:30","typing":"1.547s"}
+{"cluster":"cluster_1","delay":"438ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:38:58+05:30","typing":"1.55s"}
+{"cluster":"cluster_1","delay":"204ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:39:02+05:30","typing":"1.336s"}
+{"cluster":"cluster_1","delay":"374ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:39:06+05:30","typing":"1.038s"}
+{"cluster":"cluster_1","delay":"335ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:39:09+05:30","typing":"1.385s"}
+{"cluster":"cluster_1","delay":"412ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:39:19+05:30","typing":"866ms"}
+{"cluster":"cluster_1","delay":"369ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:39:21+05:30","typing":"1.348s"}
+{"cluster":"cluster_1","delay":"377ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:39:25+05:30","typing":"1.162s"}
+{"cluster":"cluster_1","delay":"106ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:39:28+05:30","typing":"1.307s"}
+{"cluster":"cluster_1","delay":"433ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:39:30+05:30","typing":"1.546s"}
+{"cluster":"cluster_1","delay":"203ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:39:34+05:30","typing":"1.035s"}
+{"cluster":"cluster_1","delay":"409ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:39:36+05:30","typing":"1.511s"}
+{"cluster":"cluster_1","delay":"265ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:39:40+05:30","typing":"957ms"}
+{"cluster":"cluster_1","delay":"294ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:39:42+05:30","typing":"801ms"}
+{"cluster":"cluster_1","delay":"279ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:39:45+05:30","typing":"1.419s"}
+{"cluster":"cluster_1","delay":"482ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:39:49+05:30","typing":"1.476s"}
+{"cluster":"cluster_1","delay":"335ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:39:58+05:30","typing":"1.465s"}
+{"cluster":"cluster_1","delay":"126ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:40:02+05:30","typing":"1.381s"}
+{"cluster":"cluster_1","delay":"246ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:40:06+05:30","typing":"901ms"}
+{"cluster":"cluster_1","delay":"392ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:40:09+05:30","typing":"1.146s"}
+{"cluster":"cluster_1","delay":"417ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:40:11+05:30","typing":"1.292s"}
+{"cluster":"cluster_1","delay":"328ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:40:14+05:30","typing":"1.369s"}
+{"cluster":"cluster_1","delay":"393ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:40:18+05:30","typing":"1.158s"}
+{"cluster":"cluster_1","delay":"300ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:40:20+05:30","typing":"1.022s"}
+{"cluster":"cluster_1","delay":"265ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:40:23+05:30","typing":"1.058s"}
+{"cluster":"cluster_1","delay":"255ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:40:25+05:30","typing":"1.356s"}
+{"cluster":"cluster_1","delay":"341ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:40:29+05:30","typing":"1.358s"}
+{"cluster":"cluster_1","delay":"342ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls use horse","time":"2022-07-29T16:40:32+05:30","typing":"1.854s"}
+{"cluster":"cluster_1","delay":"455ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:40:36+05:30","typing":"1.348s"}
+{"cluster":"cluster_1","delay":"149ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:40:39+05:30","typing":"1.523s"}
+{"cluster":"cluster_1","delay":"156ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:40:48+05:30","typing":"1.267s"}
+{"cluster":"cluster_1","delay":"188ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:40:50+05:30","typing":"1.429s"}
+{"cluster":"cluster_1","delay":"197ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:40:54+05:30","typing":"958ms"}
+{"cluster":"cluster_1","delay":"284ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:40:57+05:30","typing":"1.117s"}
+{"cluster":"cluster_1","delay":"298ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:40:59+05:30","typing":"997ms"}
+{"cluster":"cluster_1","delay":"253ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:41:02+05:30","typing":"1.076s"}
+{"cluster":"cluster_1","delay":"359ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:41:05+05:30","typing":"1.552s"}
+{"cluster":"cluster_1","delay":"131ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:41:08+05:30","typing":"1.12s"}
+{"cluster":"cluster_1","delay":"237ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:41:11+05:30","typing":"1.454s"}
+{"cluster":"cluster_1","delay":"158ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:41:14+05:30","typing":"1.421s"}
+{"cluster":"cluster_1","delay":"304ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:41:17+05:30","typing":"1.366s"}
+{"cluster":"cluster_1","delay":"411ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:41:27+05:30","typing":"1.354s"}
+{"cluster":"cluster_1","delay":"262ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:41:31+05:30","typing":"1.152s"}
+{"cluster":"cluster_1","delay":"301ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:41:33+05:30","typing":"953ms"}
+{"cluster":"cluster_1","delay":"207ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:41:36+05:30","typing":"1.206s"}
+{"cluster":"cluster_1","delay":"153ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:41:39+05:30","typing":"1.554s"}
+{"cluster":"cluster_1","delay":"489ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:41:42+05:30","typing":"826ms"}
+{"cluster":"cluster_1","delay":"410ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:41:46+05:30","typing":"1.472s"}
+{"cluster":"cluster_1","delay":"118ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:41:49+05:30","typing":"933ms"}
+{"cluster":"cluster_1","delay":"319ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:41:51+05:30","typing":"994ms"}
+{"cluster":"cluster_1","delay":"452ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:41:53+05:30","typing":"1.373s"}
+{"cluster":"cluster_1","delay":"150ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:41:57+05:30","typing":"1.25s"}
+{"cluster":"cluster_1","delay":"448ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:42:03+05:30","typing":"1.34s"}
+{"cluster":"cluster_1","delay":"230ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:42:07+05:30","typing":"1.034s"}
+{"cluster":"cluster_1","delay":"120ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:42:11+05:30","typing":"1.269s"}
+{"cluster":"cluster_1","delay":"114ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:42:13+05:30","typing":"1.47s"}
+{"cluster":"cluster_1","delay":"220ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:42:17+05:30","typing":"1.4s"}
+{"cluster":"cluster_1","delay":"257ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:42:20+05:30","typing":"1.109s"}
+{"cluster":"cluster_1","delay":"279ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:42:23+05:30","typing":"1.577s"}
+{"cluster":"cluster_1","delay":"271ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:42:27+05:30","typing":"845ms"}
+{"cluster":"cluster_1","delay":"265ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:42:30+05:30","typing":"1.121s"}
+{"cluster":"cluster_1","delay":"496ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:42:32+05:30","typing":"936ms"}
+{"cluster":"cluster_1","delay":"365ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:42:34+05:30","typing":"1.428s"}
+{"cluster":"cluster_1","delay":"130ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:42:37+05:30","typing":"1.303s"}
+{"cluster":"cluster_1","delay":"477ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:42:41+05:30","typing":"1.035s"}
+{"cluster":"cluster_1","delay":"321ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:42:44+05:30","typing":"1.348s"}
+{"cluster":"cluster_1","delay":"314ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:42:47+05:30","typing":"1.541s"}
+{"cluster":"cluster_1","delay":"346ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:42:51+05:30","typing":"1.3s"}
+{"cluster":"cluster_1","delay":"369ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:42:54+05:30","typing":"1.51s"}
+{"cluster":"cluster_1","delay":"106ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:42:59+05:30","typing":"1.166s"}
+{"cluster":"cluster_1","delay":"122ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:43:03+05:30","typing":"1.448s"}
+{"cluster":"cluster_1","delay":"455ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:43:09+05:30","typing":"1.175s"}
+{"cluster":"cluster_1","delay":"285ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:43:11+05:30","typing":"869ms"}
+{"cluster":"cluster_1","delay":"339ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:43:14+05:30","typing":"1.148s"}
+{"cluster":"cluster_1","delay":"100ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:43:16+05:30","typing":"1.562s"}
+{"cluster":"cluster_1","delay":"415ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:43:20+05:30","typing":"854ms"}
+{"cluster":"cluster_1","delay":"404ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:43:23+05:30","typing":"1.254s"}
+{"cluster":"cluster_1","delay":"228ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:43:26+05:30","typing":"1.379s"}
+{"cluster":"cluster_1","delay":"135ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:43:30+05:30","typing":"1.349s"}
+{"cluster":"cluster_1","delay":"473ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:43:33+05:30","typing":"1.162s"}
+{"cluster":"cluster_1","delay":"200ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:43:39+05:30","typing":"1.299s"}
+{"cluster":"cluster_1","delay":"342ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:43:41+05:30","typing":"1.504s"}
+{"cluster":"cluster_1","delay":"151ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:43:48+05:30","typing":"1.026s"}
+{"cluster":"cluster_1","delay":"455ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:43:51+05:30","typing":"1.432s"}
+{"cluster":"cluster_1","delay":"292ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:43:54+05:30","typing":"1.019s"}
+{"cluster":"cluster_1","delay":"373ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:43:56+05:30","typing":"851ms"}
+{"cluster":"cluster_1","delay":"445ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:43:59+05:30","typing":"991ms"}
+{"cluster":"cluster_1","delay":"326ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:44:02+05:30","typing":"1.562s"}
+{"cluster":"cluster_1","delay":"158ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:44:06+05:30","typing":"1.547s"}
+{"cluster":"cluster_1","delay":"297ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:44:09+05:30","typing":"1.391s"}
+{"cluster":"cluster_1","delay":"282ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:44:13+05:30","typing":"1.301s"}
+{"cluster":"cluster_1","delay":"185ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:44:15+05:30","typing":"1.428s"}
+{"cluster":"cluster_1","delay":"207ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:44:19+05:30","typing":"1.141s"}
+{"cluster":"cluster_1","delay":"481ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:44:25+05:30","typing":"1.409s"}
+{"cluster":"cluster_1","delay":"474ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:44:39+05:30","typing":"1.037s"}
+{"cluster":"cluster_1","delay":"390ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:44:41+05:30","typing":"827ms"}
+{"cluster":"cluster_1","delay":"387ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:44:44+05:30","typing":"1.486s"}
+{"cluster":"cluster_1","delay":"468ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:44:47+05:30","typing":"1.016s"}
+{"cluster":"cluster_1","delay":"413ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:44:49+05:30","typing":"1.548s"}
+{"cluster":"cluster_1","delay":"378ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:44:53+05:30","typing":"919ms"}
+{"cluster":"cluster_1","delay":"192ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:44:56+05:30","typing":"1.438s"}
+{"cluster":"cluster_1","delay":"281ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:44:59+05:30","typing":"1.142s"}
+{"cluster":"cluster_1","delay":"104ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:45:02+05:30","typing":"1.144s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:45:16+05:30"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: ","time":"2022-07-29T16:45:27+05:30"}
+{"cluster":"cluster_1","delay":"345ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:45:27+05:30","typing":"1.503s"}
+{"cluster":"cluster_1","delay":"364ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:45:30+05:30","typing":"1.547s"}
+{"cluster":"cluster_1","delay":"365ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:45:34+05:30","typing":"812ms"}
+{"cluster":"cluster_1","delay":"416ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:45:36+05:30","typing":"939ms"}
+{"cluster":"cluster_1","delay":"449ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:45:38+05:30","typing":"1.076s"}
+{"cluster":"cluster_1","delay":"491ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:45:40+05:30","typing":"1.208s"}
+{"cluster":"cluster_1","delay":"219ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:45:43+05:30","typing":"1.562s"}
+{"cluster":"cluster_1","delay":"437ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:45:47+05:30","typing":"879ms"}
+{"cluster":"cluster_1","delay":"249ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:45:50+05:30","typing":"1.218s"}
+{"cluster":"cluster_1","delay":"376ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:45:52+05:30","typing":"1.127s"}
+{"cluster":"cluster_1","delay":"455ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:45:55+05:30","typing":"1.338s"}
+{"cluster":"cluster_1","delay":"447ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:45:59+05:30","typing":"1.558s"}
+{"cluster":"cluster_1","delay":"233ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:46:04+05:30","typing":"1.508s"}
+{"cluster":"cluster_1","delay":"268ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:46:08+05:30","typing":"943ms"}
+{"cluster":"cluster_1","delay":"111ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:46:14+05:30","typing":"1.334s"}
+{"cluster":"cluster_1","delay":"269ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:46:17+05:30","typing":"1.036s"}
+{"cluster":"cluster_1","delay":"488ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:46:20+05:30","typing":"987ms"}
+{"cluster":"cluster_1","delay":"454ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:46:22+05:30","typing":"1.348s"}
+{"cluster":"cluster_1","delay":"129ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:46:25+05:30","typing":"1.344s"}
+{"cluster":"cluster_1","delay":"205ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:46:29+05:30","typing":"1.147s"}
+{"cluster":"cluster_1","delay":"259ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:46:31+05:30","typing":"1.447s"}
+{"cluster":"cluster_1","delay":"129ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:46:35+05:30","typing":"808ms"}
+{"cluster":"cluster_1","delay":"377ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:46:37+05:30","typing":"1.304s"}
+{"cluster":"cluster_1","delay":"165ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:46:40+05:30","typing":"1.347s"}
+{"cluster":"cluster_1","delay":"394ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:46:44+05:30","typing":"966ms"}
+{"cluster":"cluster_1","delay":"263ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls trivia","time":"2022-07-29T16:46:49+05:30","typing":"1.45s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"error while sending message: error while sending http request: Post \"https://discord.com/api/v9/channels/1002100585497116692/typing\": read tcp 192.168.1.4:60167-\u003e162.159.137.232:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.","time":"2022-07-29T16:47:08+05:30"}
+{"cluster":"cluster_1","delay":"419ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls dig","time":"2022-07-29T16:47:08+05:30","typing":"1.107s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"error while sending message: error while sending http request: Post \"https://discord.com/api/v9/channels/1002100585497116692/typing\": dial tcp: lookup discord.com: no such host","time":"2022-07-29T16:47:12+05:30"}
+{"cluster":"cluster_1","delay":"431ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls beg","time":"2022-07-29T16:47:12+05:30","typing":"998ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"websocket closed: read tcp 192.168.1.4:54429-\u003e162.159.134.234:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.","time":"2022-07-29T16:47:17+05:30"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"error while sending message: error while sending http request: Post \"https://discord.com/api/v9/channels/1002100585497116692/typing\": dial tcp: lookup discord.com: no such host","time":"2022-07-29T16:47:18+05:30"}
+{"cluster":"cluster_1","delay":"365ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls search","time":"2022-07-29T16:47:18+05:30","typing":"1.472s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"instance fatal: error while connecting to websocket: error while establishing websocket connection: dial tcp: lookup gateway.discord.gg: no such host","time":"2022-07-29T16:47:20+05:30"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"error while sending message: error while sending http request: Post \"https://discord.com/api/v9/channels/1002100585497116692/typing\": dial tcp: lookup discord.com: no such host","time":"2022-07-29T16:47:24+05:30"}
+{"cluster":"cluster_1","delay":"323ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls crime","time":"2022-07-29T16:47:24+05:30","typing":"1.333s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"error while sending message: error while sending http request: Post \"https://discord.com/api/v9/channels/1002100585497116692/typing\": dial tcp: lookup discord.com: no such host","time":"2022-07-29T16:47:30+05:30"}
+{"cluster":"cluster_1","delay":"241ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:47:30+05:30","typing":"1.284s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:48:09+05:30"}
+{"cluster":"cluster_1","delay":"203ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:48:09+05:30","typing":"1.168s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:48:21+05:30"}
+{"cluster":"cluster_1","delay":"145ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:48:21+05:30","typing":"830ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:48:33+05:30"}
+{"cluster":"cluster_1","delay":"461ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:48:33+05:30","typing":"848ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:48:45+05:30"}
+{"cluster":"cluster_1","delay":"230ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:48:45+05:30","typing":"1.217s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:48:57+05:30"}
+{"cluster":"cluster_1","delay":"179ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:48:57+05:30","typing":"1.079s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:49:09+05:30"}
+{"cluster":"cluster_1","delay":"122ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:49:09+05:30","typing":"984ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:49:21+05:30"}
+{"cluster":"cluster_1","delay":"441ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:49:21+05:30","typing":"913ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:49:33+05:30"}
+{"cluster":"cluster_1","delay":"131ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:49:33+05:30","typing":"1.112s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:49:45+05:30"}
+{"cluster":"cluster_1","delay":"456ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:49:45+05:30","typing":"1.08s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:49:57+05:30"}
+{"cluster":"cluster_1","delay":"145ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:49:57+05:30","typing":"979ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:50:09+05:30"}
+{"cluster":"cluster_1","delay":"100ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:50:09+05:30","typing":"829ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:50:21+05:30"}
+{"cluster":"cluster_1","delay":"419ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:50:21+05:30","typing":"1.174s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:50:33+05:30"}
+{"cluster":"cluster_1","delay":"436ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:50:33+05:30","typing":"1.082s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:50:45+05:30"}
+{"cluster":"cluster_1","delay":"368ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:50:45+05:30","typing":"856ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:50:57+05:30"}
+{"cluster":"cluster_1","delay":"208ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:50:57+05:30","typing":"987ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:51:09+05:30"}
+{"cluster":"cluster_1","delay":"138ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:51:09+05:30","typing":"1.07s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:51:21+05:30"}
+{"cluster":"cluster_1","delay":"382ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:51:21+05:30","typing":"1.232s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:51:33+05:30"}
+{"cluster":"cluster_1","delay":"293ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:51:33+05:30","typing":"906ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:51:45+05:30"}
+{"cluster":"cluster_1","delay":"447ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:51:45+05:30","typing":"941ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:51:57+05:30"}
+{"cluster":"cluster_1","delay":"466ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:51:57+05:30","typing":"1.065s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:52:09+05:30"}
+{"cluster":"cluster_1","delay":"127ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:52:09+05:30","typing":"1.261s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:52:21+05:30"}
+{"cluster":"cluster_1","delay":"184ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:52:21+05:30","typing":"893ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:52:33+05:30"}
+{"cluster":"cluster_1","delay":"300ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:52:33+05:30","typing":"1.027s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:52:45+05:30"}
+{"cluster":"cluster_1","delay":"462ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:52:45+05:30","typing":"1.28s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:52:58+05:30"}
+{"cluster":"cluster_1","delay":"320ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:52:58+05:30","typing":"1.312s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:53:10+05:30"}
+{"cluster":"cluster_1","delay":"451ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:53:10+05:30","typing":"986ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:53:22+05:30"}
+{"cluster":"cluster_1","delay":"150ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:53:22+05:30","typing":"816ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:53:34+05:30"}
+{"cluster":"cluster_1","delay":"355ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:53:34+05:30","typing":"1.127s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:53:46+05:30"}
+{"cluster":"cluster_1","delay":"333ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:53:46+05:30","typing":"1.193s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:53:58+05:30"}
+{"cluster":"cluster_1","delay":"139ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:53:58+05:30","typing":"930ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:54:10+05:30"}
+{"cluster":"cluster_1","delay":"318ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:54:10+05:30","typing":"1.035s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:54:22+05:30"}
+{"cluster":"cluster_1","delay":"266ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:54:22+05:30","typing":"1.219s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:54:35+05:30"}
+{"cluster":"cluster_1","delay":"183ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:54:35+05:30","typing":"1.09s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:54:47+05:30"}
+{"cluster":"cluster_1","delay":"294ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:54:47+05:30","typing":"894ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:54:58+05:30"}
+{"cluster":"cluster_1","delay":"262ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:54:58+05:30","typing":"974ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:55:10+05:30"}
+{"cluster":"cluster_1","delay":"182ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:55:10+05:30","typing":"1.119s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:55:23+05:30"}
+{"cluster":"cluster_1","delay":"419ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:55:23+05:30","typing":"1.148s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:55:35+05:30"}
+{"cluster":"cluster_1","delay":"200ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:55:35+05:30","typing":"906ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:55:46+05:30"}
+{"cluster":"cluster_1","delay":"165ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:55:46+05:30","typing":"1.035s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:55:59+05:30"}
+{"cluster":"cluster_1","delay":"486ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:55:59+05:30","typing":"1.291s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:56:11+05:30"}
+{"cluster":"cluster_1","delay":"482ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:56:11+05:30","typing":"1.276s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:56:23+05:30"}
+{"cluster":"cluster_1","delay":"429ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:56:23+05:30","typing":"869ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:56:35+05:30"}
+{"cluster":"cluster_1","delay":"205ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:56:35+05:30","typing":"961ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:56:47+05:30"}
+{"cluster":"cluster_1","delay":"409ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:56:47+05:30","typing":"1.195s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:56:59+05:30"}
+{"cluster":"cluster_1","delay":"195ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:56:59+05:30","typing":"1.074s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:57:11+05:30"}
+{"cluster":"cluster_1","delay":"163ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:57:11+05:30","typing":"918ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:57:23+05:30"}
+{"cluster":"cluster_1","delay":"440ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:57:23+05:30","typing":"976ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:57:35+05:30"}
+{"cluster":"cluster_1","delay":"498ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:57:35+05:30","typing":"1.303s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:57:47+05:30"}
+{"cluster":"cluster_1","delay":"450ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:57:47+05:30","typing":"1.313s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:58:00+05:30"}
+{"cluster":"cluster_1","delay":"112ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:58:00+05:30","typing":"800ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:58:11+05:30"}
+{"cluster":"cluster_1","delay":"102ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:58:11+05:30","typing":"840ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:58:23+05:30"}
+{"cluster":"cluster_1","delay":"403ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:58:23+05:30","typing":"1.103s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:58:35+05:30"}
+{"cluster":"cluster_1","delay":"127ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:58:35+05:30","typing":"1.31s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:58:47+05:30"}
+{"cluster":"cluster_1","delay":"131ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:58:47+05:30","typing":"802ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:58:59+05:30"}
+{"cluster":"cluster_1","delay":"142ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:58:59+05:30","typing":"1.028s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:59:11+05:30"}
+{"cluster":"cluster_1","delay":"343ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:59:11+05:30","typing":"1.084s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T16:59:23+05:30"}
+{"cluster":"cluster_1","delay":"265ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T16:59:23+05:30","typing":"1.188s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T16:59:35+05:30"}
+{"cluster":"cluster_1","delay":"191ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T16:59:35+05:30","typing":"817ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T16:59:47+05:30"}
+{"cluster":"cluster_1","delay":"344ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T16:59:47+05:30","typing":"854ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T16:59:59+05:30"}
+{"cluster":"cluster_1","delay":"212ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T16:59:59+05:30","typing":"1.197s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:00:11+05:30"}
+{"cluster":"cluster_1","delay":"422ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T17:00:11+05:30","typing":"1.097s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T17:00:23+05:30"}
+{"cluster":"cluster_1","delay":"355ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T17:00:23+05:30","typing":"847ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T17:00:35+05:30"}
+{"cluster":"cluster_1","delay":"340ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:00:35+05:30","typing":"868ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:00:47+05:30"}
+{"cluster":"cluster_1","delay":"166ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:00:47+05:30","typing":"1.199s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:00:59+05:30"}
+{"cluster":"cluster_1","delay":"224ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T17:00:59+05:30","typing":"1.102s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T17:01:11+05:30"}
+{"cluster":"cluster_1","delay":"113ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T17:01:11+05:30","typing":"814ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T17:01:23+05:30"}
+{"cluster":"cluster_1","delay":"297ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:01:23+05:30","typing":"887ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:01:35+05:30"}
+{"cluster":"cluster_1","delay":"391ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:01:35+05:30","typing":"1.199s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:01:47+05:30"}
+{"cluster":"cluster_1","delay":"281ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T17:01:47+05:30","typing":"1.209s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T17:01:59+05:30"}
+{"cluster":"cluster_1","delay":"213ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T17:01:59+05:30","typing":"954ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T17:02:11+05:30"}
+{"cluster":"cluster_1","delay":"385ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:02:11+05:30","typing":"888ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:02:23+05:30"}
+{"cluster":"cluster_1","delay":"160ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:02:23+05:30","typing":"1.144s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:02:35+05:30"}
+{"cluster":"cluster_1","delay":"390ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T17:02:35+05:30","typing":"1.29s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T17:02:48+05:30"}
+{"cluster":"cluster_1","delay":"429ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T17:02:48+05:30","typing":"835ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T17:03:00+05:30"}
+{"cluster":"cluster_1","delay":"319ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:03:00+05:30","typing":"994ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:03:12+05:30"}
+{"cluster":"cluster_1","delay":"148ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:03:12+05:30","typing":"1.192s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:03:24+05:30"}
+{"cluster":"cluster_1","delay":"372ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T17:03:24+05:30","typing":"1.076s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T17:03:36+05:30"}
+{"cluster":"cluster_1","delay":"126ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T17:03:36+05:30","typing":"932ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T17:03:48+05:30"}
+{"cluster":"cluster_1","delay":"461ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:03:48+05:30","typing":"902ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:04:00+05:30"}
+{"cluster":"cluster_1","delay":"488ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:04:00+05:30","typing":"1.25s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:04:12+05:30"}
+{"cluster":"cluster_1","delay":"141ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T17:04:12+05:30","typing":"1.115s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T17:04:24+05:30"}
+{"cluster":"cluster_1","delay":"358ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T17:04:24+05:30","typing":"992ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T17:04:36+05:30"}
+{"cluster":"cluster_1","delay":"111ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:04:36+05:30","typing":"1.025s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:04:48+05:30"}
+{"cluster":"cluster_1","delay":"237ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:04:48+05:30","typing":"1.227s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:05:00+05:30"}
+{"cluster":"cluster_1","delay":"294ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T17:05:00+05:30","typing":"1.178s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T17:05:12+05:30"}
+{"cluster":"cluster_1","delay":"403ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T17:05:12+05:30","typing":"838ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T17:05:24+05:30"}
+{"cluster":"cluster_1","delay":"272ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:05:24+05:30","typing":"829ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:05:36+05:30"}
+{"cluster":"cluster_1","delay":"193ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:05:36+05:30","typing":"1.269s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:05:48+05:30"}
+{"cluster":"cluster_1","delay":"264ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T17:05:48+05:30","typing":"1.222s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T17:06:00+05:30"}
+{"cluster":"cluster_1","delay":"456ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T17:06:00+05:30","typing":"1.03s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T17:06:12+05:30"}
+{"cluster":"cluster_1","delay":"319ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:06:12+05:30","typing":"954ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:06:24+05:30"}
+{"cluster":"cluster_1","delay":"303ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:06:24+05:30","typing":"1.107s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:06:36+05:30"}
+{"cluster":"cluster_1","delay":"229ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T17:06:36+05:30","typing":"1.188s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T17:06:48+05:30"}
+{"cluster":"cluster_1","delay":"168ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T17:06:48+05:30","typing":"810ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T17:07:00+05:30"}
+{"cluster":"cluster_1","delay":"290ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:07:00+05:30","typing":"1.037s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:07:12+05:30"}
+{"cluster":"cluster_1","delay":"497ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:07:12+05:30","typing":"1.248s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:07:25+05:30"}
+{"cluster":"cluster_1","delay":"426ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T17:07:25+05:30","typing":"1.175s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T17:07:37+05:30"}
+{"cluster":"cluster_1","delay":"396ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T17:07:37+05:30","typing":"837ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T17:07:48+05:30"}
+{"cluster":"cluster_1","delay":"459ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:07:48+05:30","typing":"993ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:08:00+05:30"}
+{"cluster":"cluster_1","delay":"151ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:08:00+05:30","typing":"1.085s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:08:12+05:30"}
+{"cluster":"cluster_1","delay":"437ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T17:08:12+05:30","typing":"1.259s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T17:08:25+05:30"}
+{"cluster":"cluster_1","delay":"244ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T17:08:25+05:30","typing":"977ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T17:08:37+05:30"}
+{"cluster":"cluster_1","delay":"118ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:08:37+05:30","typing":"891ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:08:48+05:30"}
+{"cluster":"cluster_1","delay":"447ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:08:48+05:30","typing":"1.253s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:09:01+05:30"}
+{"cluster":"cluster_1","delay":"406ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T17:09:01+05:30","typing":"1.231s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T17:09:13+05:30"}
+{"cluster":"cluster_1","delay":"306ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T17:09:13+05:30","typing":"866ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T17:09:25+05:30"}
+{"cluster":"cluster_1","delay":"177ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:09:25+05:30","typing":"1.04s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:09:37+05:30"}
+{"cluster":"cluster_1","delay":"132ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:09:37+05:30","typing":"1.247s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:09:49+05:30"}
+{"cluster":"cluster_1","delay":"280ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T17:09:49+05:30","typing":"1.2s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T17:10:01+05:30"}
+{"cluster":"cluster_1","delay":"409ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T17:10:01+05:30","typing":"1.018s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T17:10:13+05:30"}
+{"cluster":"cluster_1","delay":"386ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:10:13+05:30","typing":"930ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:10:25+05:30"}
+{"cluster":"cluster_1","delay":"128ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls work","time":"2022-07-29T17:10:25+05:30","typing":"1.283s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls work","time":"2022-07-29T17:10:37+05:30"}
+{"cluster":"cluster_1","delay":"221ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:10:37+05:30","typing":"1.188s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls fish","time":"2022-07-29T17:10:49+05:30"}
+{"cluster":"cluster_1","delay":"384ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hunt","time":"2022-07-29T17:10:49+05:30","typing":"1.287s"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hunt","time":"2022-07-29T17:11:02+05:30"}
+{"cluster":"cluster_1","delay":"212ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls hl","time":"2022-07-29T17:11:02+05:30","typing":"979ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls hl","time":"2022-07-29T17:11:14+05:30"}
+{"cluster":"cluster_1","delay":"165ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls use horse","time":"2022-07-29T17:11:14+05:30","typing":"1.858s"}
+{"cluster":"cluster_1","delay":"335ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls pm","time":"2022-07-29T17:11:16+05:30","typing":"870ms"}
+{"cluster":"cluster_1","instance":"i_had_a_name#8525","level":"error","msg":"await resume timed out for: pls pm","time":"2022-07-29T17:11:28+05:30"}
+{"cluster":"cluster_1","delay":"333ms","instance":"i_had_a_name#8525","level":"info","msg":"sending command: pls fish","time":"2022-07-29T17:11:28+05:30","typing":"1.271s"}

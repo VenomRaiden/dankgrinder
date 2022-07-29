@@ -1,3 +1,0 @@
-{"level":"info","msg":"starting cluster cluster_1","time":"2022-07-29T17:21:48+05:30"}
-{"level":"info","msg":"successful authorization as Gozilla#6437","time":"2022-07-29T17:21:49+05:30"}
-{"cluster":"cluster_1","duration":38000000000,"instance":"Gozilla#6437","level":"info","msg":"starting shift 1","state":"dormant","time":"2022-07-29T17:21:49+05:30"}
