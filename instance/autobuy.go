@@ -11,17 +11,6 @@ import (
 	"github.com/dankgrinder/dankgrinder/instance/scheduler"
 )
 
-func (in *Instance) abLaptop(_ discord.Message) {
-	trigger := in.sdlr.AwaitResumeTrigger()
-	if trigger == nil || trigger.Value != postmemeCmdValue {
-		return
-	}
-	in.sdlr.ResumeWithCommandOrPrioritySchedule(&scheduler.Command{
-		Value: buyCmdValue("1", "laptop"),
-		Log:   "no laptop, buying a new one",
-	})
-}
-
 func (in *Instance) abShovel(_ discord.Message) {
 	trigger := in.sdlr.AwaitResumeTrigger()
 	if trigger == nil || trigger.Value != digCmdValue {
@@ -55,18 +44,13 @@ func (in *Instance) abFishingPole(_ discord.Message) {
 	})
 }
 
-func (in *Instance) abTidepod(_ discord.Message) {
+func (in *Instance) abLifesaver(_ discord.Message) {
 	trigger := in.sdlr.AwaitResumeTrigger()
 	if trigger == nil || trigger.Value != tidepodCmdValue {
 		return
 	}
 	in.sdlr.Schedule(&scheduler.Command{
-		Value: buyCmdValue("1", "tide"),
-		Log:   "no tidepod, buying a new one",
-	})
-	in.sdlr.Schedule(&scheduler.Command{
-		Value:       tidepodCmdValue,
-		Log:         "retrying tidepod usage after last unavailability",
-		AwaitResume: true,
+		Value: buyCmdValue("1", "lifesaver"),
+		Log:   "no lifesaver, buying a new one",
 	})
 }

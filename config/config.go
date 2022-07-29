@@ -81,7 +81,8 @@ type Cooldown struct {
 	Highlow   int `yaml:"highlow"`
 	Blackjack int `yaml:"blackjack"`
 	Sell      int `yaml:"sell"`
-	Gift      int `yaml:"gift"`
+	Shop      int `yaml:"shop"`
+	Trade     int `yaml:"trade"`
 	Share     int `yaml:"share"`
 	Dig       int `yaml:"dig"`
 	Work      int `yaml:"work"`
@@ -106,7 +107,14 @@ type Features struct {
 	Debug              bool            `yaml:"debug"`
 	Scratch            Scratch         `yaml:"scratch"`
 	Trade          	   Trade           `yaml:"trade"`
+	Lifesaver          Lifesaver       `yaml:"lifesaver"`
 }
+
+type Lifesaver struct {
+	Enable   bool `yaml:"enable"`
+	CheckInterval int `yaml:"check_interval"`
+}
+
 type Scratch struct {
 	Enable   bool `yaml:"enable"`
 	Amount   int  `yaml:"amount"`
@@ -147,8 +155,9 @@ type AutoGift struct {
 }
 
 type Trade struct {
-	MaxItems  int     `yaml:"max_items"`
-	Delay     int     `yaml:"delay"`
+	MaxItems     int  `yaml:"max_items"`
+	Delay        int  `yaml:"delay"`
+	AlwaysAccept bool `yaml:"always_accept"`
 }
 
 type CustomCommand struct {

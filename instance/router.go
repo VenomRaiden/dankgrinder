@@ -46,7 +46,8 @@ var exp = struct {
 	workEventEmoji,
 	shopEvent,
 	event,
-	insufficientCoins *regexp.Regexp
+	insufficientCoins,
+	death                  *regexp.Regexp
 }{
 	search:            regexp.MustCompile(`Pick from the list below and type the name in chat\.\s\x60(.+)\x60,\s\x60(.+)\x60,\s\x60(.+)\x60`),
 	huntEvent:         regexp.MustCompile(`Dodge the Fireball\n(\s*)+<:Dragon:861390869696741396>\n(\s*)<:FireBall:883714770748964864>\n(\s*):levitate:`),
@@ -80,6 +81,7 @@ var exp = struct {
 	fishCatch2:        regexp.MustCompile(`Catch the fish!\n<:(.+):[\d]+>\n:bucket::bucket::bucket:`),
 	shopEvent:         regexp.MustCompile(`What is the \*\*(.+)\*\* of this item?`),
 	insufficientCoins: regexp.MustCompile(`You have ([\d,]+) coins, you can't give them ([\d,]+) \(\+ ⏣ ([\d,]+) tax\)`),
+	death:             regexp.MustCompile(`(?:Your lifesaver protected you|You died)`),
 }
 
 var numFmt = message.NewPrinter(language.English)
@@ -481,16 +483,6 @@ func (in *Instance) router() *discord.MessageRouter {
 			Handler(in.balanceCheck)
 	}
 
-	// Auto-buy laptop.
-	if in.Features.AutoBuy.Laptop {
-		rtr.NewRoute().
-			Channel(in.ChannelID).
-			Author(DMID).
-			ContentContains("oi you need to buy a laptop in the shop to post memes").
-			RespondsTo(in.Client.User.ID).
-			Handler(in.abLaptop)
-	}
-
 	// Auto-buy fishing pole.
 	if in.Features.AutoBuy.FishingPole {
 		rtr.NewRoute().
@@ -532,27 +524,40 @@ func (in *Instance) router() *discord.MessageRouter {
 			Handler(in.gift)
 	}
 
-	// Auto Accept trade as both instance and master
-	if (in.Features.AutoShare.Enable || in.Features.AutoGift.Enable) &&
-	in.Master != nil &&
-	in != in.Master {
-		rtr.NewRoute().
-			Channel(in.ChannelID).
-			Author(DMID).
-			HasEmbeds(true).
-			RespondsTo(in.Client.User.ID).
-			EmbedContains("Continue trade?").
-			Handler(in.confirmTrade)
+// Auto Accept trade as both instance and master
+    if (in.Features.AutoShare.Enable || in.Features.AutoGift.Enable) &&
+    in.Master != nil &&
+    in != in.Master {
+        rtr.NewRoute().
+            Channel(in.ChannelID).
+            Author(DMID).
+            HasEmbeds(true).
+            RespondsTo(in.Client.User.ID).
+            EmbedContains("Continue trade?").
+            Handler(in.confirmTrade)
 
-		rtr.NewRoute().
-			Channel(in.ChannelID).
-			Author(DMID).
-			HasEmbeds(true).
-			RespondsTo(in.Client.User.ID).
-			Mentions(in.Master.Client.User.ID).
-			EmbedContains("Continue trade?").
-			Handler(in.confirmTradeAsMaster)
-	}
+        if !in.Features.Trade.AlwaysAccept {
+            rtr.NewRoute().
+                Channel(in.ChannelID).
+                Author(DMID).
+                HasEmbeds(true).
+                RespondsTo(in.Client.User.ID).
+                Mentions(in.Master.Client.User.ID).
+                EmbedContains("Continue trade?").
+                Handler(in.confirmTradeAsMaster)
+        }
+    }
+
+    if in.Features.Trade.AlwaysAccept {
+        // Accept trade unconditionally as ALL accounts
+        rtr.NewRoute().
+            Channel(in.ChannelID).
+            Author(DMID).
+            HasEmbeds(true).
+            Mentions(in.Client.User.ID).
+            EmbedContains("Continue trade?").
+            Handler(in.confirmTradeUnconditionally)
+    }
 
 	// Auto-share (detect if share fails and retry)
 	if in.Features.AutoShare.Enable && 
@@ -585,13 +590,6 @@ func (in *Instance) router() *discord.MessageRouter {
 			Author(DMID).
 			ContentContains("You lost **all of your coins**.").
 			Handler(in.tidepodDeath)
-
-		rtr.NewRoute().
-			Channel(in.ChannelID).
-			Author(DMID).
-			ContentContains("You don't own this item??").
-			Handler(in.abTidepod)
-
 	}
 
 	// Auto-blackjack
@@ -617,6 +615,16 @@ func (in *Instance) router() *discord.MessageRouter {
 			HasEmbeds(true).
 			EventType(discord.EventNameMessageUpdate).
 			Handler(in.blackjackEnd)
+	}
+
+	// auto lifesaver
+	if in.Features.Lifesaver.Enable {
+		rtr.NewRoute().
+			IsDM(true).
+			Author(DMID).
+			HasEmbeds(true).
+			EmbedMatchesExp(exp.death).
+			Handler(in.abLifesaver)
 	}
 
 	return rtr

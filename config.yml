@@ -1,22 +1,23 @@
 clusters:
   cluster_1:
     master:
-      token: ""
-      channel_id: ""
+      token: "MTAwMDQwMzkxNTcyNjEyNzE1NA.GSRIXG.IdHds0bROi4Lnej1TQkpM3BJoAhiQ2JQzJDDGk"
+      channel_id: "1000605832188284958"
       
     instances:
-      - token: ""
-        channel_id: ""
         
 shifts:
-  - state: "active"
-    duration:
-      base: 7200
-      variation: 1800
   - state: "dormant"
     duration:
-      base: 1800
-      variation: 1800
+      base: 1
+      variation: 60
+  - state: "active"
+    duration:
+      base: 10800
+      variation: 3600
+  - state: "dormant"
+    duration:
+      base: 0
 
 features:
   commands:
@@ -42,9 +43,8 @@ features:
     priority: false
 
   custom_commands:
-  - value: ""
-    interval: 
-    amount: 
+  - value: "pls use horse"
+    interval: 1800
     
   auto_buy:
     fishing_pole: true
@@ -61,6 +61,7 @@ features:
       - "deer"
       - "rabbit"
       - "skunk"
+      
   auto_gift:
     enable: false
     interval: 0
@@ -68,58 +69,12 @@ features:
       - "aetheryxflower"
       - "alcohol"
       - "apple"
-      - "badoszcard"
-      - "banknote"
-      - "bluephallicobject"
-      - "bluesplane"
-      - "boar"
-      - "sand"
-      - "bunnysapron"
-      - "candy"
-      - "phone"
-      - "chillpill"
-      - "fish"
-      - "cookie"
-      - "deer"
-      - "dragon"
-      - "duck"
-      - "ducttape"
-      - "exoticfish"
-      - "fakeid"
-      - "fossil"
-      - "bread"
-      - "garbage"
-      - "goldenphallicobject"
-      - "jellyfish"
-      - "kraken"
-      - "ladybug"
-      - "legendaryfish"
-      - "meme"
-      - "normie"
-      - "padlock"
-      - "pepestatue"
-      - "pizza"
-      - "potato"
-      - "purplephallicobject"
-      - "rabbit"
-      - "rarefish"
-      - "pepe"
-      - "scepter"
-      - "seaweed"
-      - "skunk"
-      - "spider"
-      - "stickbug"
-      - "worm"
-      - "corndog"
-      - "cheese"
-      - "yengpaw"
-      - "orangephallicobject"
-      - "armpithair"
-      - "ant"
+
   auto_share:
     enable: false
     maximum_balance: 5000000
     minimum_balance: 500000
+    
   auto_blackjack:
     enable: false
     amount: 1500
@@ -396,26 +351,40 @@ features:
         soft18: "s"
         soft19: "s"
         soft20: "s"
+        
   auto_tidepod:
     enable: false
     buy_lifesaver_on_death: true
+    
   balance_check:
-    enable: true
+    enable: false
     interval: 600
-  log_to_file: false
+    
+  log_to_file: true
   verbose_log_to_stdout: true
-  debug: false
+  debug: true
 
 compatibility:
   allowed_searches:
+    - "aeradella's home"
+    - "air"
     - "area51"
     - "bank"
+    - "dog"
+    - "garage"
     - "grass"
+    - "hospital"
+    - "kitchen"
+    - "mailbox"
+    - "phoenix pits"
     - "purse"
-    - "mel's room"
+    - "soul's chamber"
 
   allowed_crimes:
     - "tax evasion"
+    - "murder"
+    - "vandalism"
+    
   allowed_scrambles:
     - "scoop"
     - "dirty"
@@ -429,9 +398,11 @@ compatibility:
     - "ladybug"
     - "excavate"
     - "stickbug"
+    
   dig_cancel:
     - "LOL idk this"
     - "No hable english"
+    
   allowed_ftb:
     - "I am a dwarf and I diggy the hole"
     - "Digging is my passion"
@@ -439,6 +410,7 @@ compatibility:
     - "I have never dug up a body"
     - "I will dig all day and all night"
     - "Never have I ever dug up a body"
+    
   allowed_scrambles_work:
     # discord mod
     - "carl-bot"
@@ -839,11 +811,13 @@ compatibility:
     - "skeleton"
     - "vision"
     - "wraith"
+    
   work_cancel:
     - "I'm feeling lazy to work today"
     - "Working is for nabs"
     - "Why play dank when I gotta work here too"
     - "Why always so hard"
+    
   allowed_hangman:
     # fast food worker
     - "How may I take your order"
@@ -1154,8 +1128,10 @@ compatibility:
     - "Phasmaphobia is so realistic"
     - "Satan's in a mood again"
     - "Spooky scary skeleton"
+    
   fish_cancel:
     - "my fishing IQ is too low"
+    
   allowed_scrambles_fish:
     - "fishy"
     - "jellyfish"
@@ -1165,6 +1141,7 @@ compatibility:
     - "ocean"
     - "water"
     - "trout"
+    
   allowed_fish_ftb:
     - "woah a big one"
     - "this is very fishy"
@@ -1174,6 +1151,7 @@ compatibility:
     - "get the camera ready mom"
     - "the fish says glub"
     - "hook line and sinker"
+    
   search_mode: 2
   crime_mode: 2
   cooldown:
@@ -1185,7 +1163,8 @@ compatibility:
     hunt: 37
     blackjack: 12
     sell: 7
-    gift: 32
+    trade: 32
+    shop: 5
     share: 32
     dig: 37
     work: 3600

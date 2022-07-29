@@ -204,6 +204,7 @@ Name | Type | Description
 ---- | ---- | ----
 `max_items` | integer | Maximum amount of items per trade
 `delay` | integer | Minimum amount of time between accepting trades for masters in milliseconds (to reduce ratelimits) 
+`always_accept` | bool | Whether or not to always accept trade regardless of who sent it (only in the selected channel)
 
 ### Gifting & Sharing confirmations update 
 Run a custom command "pls settings confirmations false" on your alts for gifting and sharing to function properly!
@@ -278,7 +279,8 @@ Name | Type | Description
 `hunt` | integer | The cooldown of the hunt command in seconds, set a few seconds higher to account for network delay
 `blackjack` | integer | The cooldown of the blackjack command in seconds, set a few seconds higher to account for network delay
 `sell` | integer | The cooldown of the sell command in seconds, set a few seconds higher to account for network delay
-`gift` | integer | The cooldown of the gift command in seconds, set a few seconds higher to account for network delay
+`trade` | integer | The cooldown of the trade command in seconds, set a few seconds higher to account for network delay
+`shop` | integer | The cooldown of the shop command in seconds (for checking amount of an item owned), set a few seconds higher to account for network delay
 `share` | integer | The cooldown of the share command in seconds, set a few seconds higher to account for network delay
 `dig` | integer | The cooldown of the dig command in seconds, set a few seconds higher to account for network delay
 `work` | integer | The cooldown of the work command in seconds, set a few seconds higher to account for network delay
